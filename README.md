@@ -11,5 +11,5 @@ This assignment is completed using pandas library
 4. format the json file to new.json
 5. match every row of RAW DATA to that of new.json
 6. to get best results convert RAW DATA to lowercase
-7. finally save the extracted data to solutions.csv 
+7. finally save the extracted data to solutions.csv with about 10000 technical skills
 
