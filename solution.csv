@@ -1,0 +1,10483 @@
+,RAW DATA
+7,Relational Databases
+8,SQL
+9,ORM
+11,Hibernate
+12,MyBatis
+13,Hibernate
+16,Maven
+18,continuous integration
+20,jenkins
+21,bamboo
+23,frameworks
+29,consistency
+37,variances
+40,integrations
+43,interpersonal skills
+47,data marts
+49,profiling tools
+55,Python
+58,SQL
+62,MySQL
+63,Oracle
+70,Celery
+76,GCP
+77,Azure
+78,AWS
+80,persuasion
+83,scripting
+91,orchestration
+92,docker
+101,databases
+102,consistency
+111,Github
+113,Microservices
+114,AWS
+117,Ruby
+123,Redis
+126,scripting
+134,orchestration
+135,docker
+144,databases
+145,consistency
+154,Github
+156,Microservices
+157,AWS
+160,Ruby
+166,Redis
+168,JavaScript
+169,HTML
+170,CSS
+171,algorithms
+174,Angular
+175,Meteor
+177,Knockout
+180,Bootstrap
+182,TypeScript
+188,SASS
+199,APIs
+202,JSON
+204,Architectural Patterns
+206,Maven
+218,NoSQL
+219,MongoDB
+220,Cassandra
+221,Redis
+223,Oracle WebLogic
+224,JBoss
+225,Tomcat
+226,frameworks
+227,Jasmine
+228,Karma
+229,Protractor
+230,Junit
+235,tuning
+239,Guice
+246,Python programming
+247,Python
+248,frameworks
+249,Django
+250,Flask
+251,APIs
+258,usability design
+268,optimization
+277,QML
+283,SQL
+287,mentor
+288,Architects
+291,deployment
+297,reliability
+299,deliverables
+305,internationalization
+306,extensions
+317,coding
+325,architectures
+332,reliability
+334,frameworks
+349,CSS3
+350,CSS
+352,SASS
+353,SCSS
+354,Mysql
+360,deployment
+365,modifications
+366,specifications
+380,SOPs
+391,consistency
+394,supervisor
+396,SOPs
+403,SAP
+409,rework
+419,protocols
+434,deployment
+437,Coda
+439,analytical techniques
+441,ETL
+445,S3
+446,EMR
+447,EC2
+453,pipelines
+456,Tableau
+463,data visualization
+465,EMR
+473,algorithm design
+474,problem solving
+475,Agile Development
+480,algorithms
+492,Git
+494,deadlines
+495,deliverables
+505,Scala
+506,Python
+510,networking
+512,databases
+513,AWS
+514,Azure
+515,GCP
+516,databases
+517,AWS
+520,AWS
+525,sprint planning
+537,ORM
+538,Entity Framework
+539,Nhibernate
+541,Nunit
+542,xUnit
+543,frameworks
+546,Azure
+553,relational databases
+556,MongoDB
+564,algorithms
+568,Strong interpersonal
+570,Xamarin
+577,Architects
+580,LINQ
+586,Xamarin
+590,XAML
+595,Continuous Integration
+596,CI
+597,DevOps
+598,Automation Testing
+599,Xamarin
+602,Git
+603,TFS
+606,VSTS
+611,PCL
+612,SQLite
+616,Xamarin
+618,Core Java
+627,CRM
+628,CMS
+634,UX
+638,APIs
+645,DevOps
+646,frameworks
+655,frameworks
+662,cloud computing
+663,containerization
+667,Clojure
+668,Angular
+672,architectural patterns
+673,Node
+674,Typescript
+676,AWS
+677,Azure
+678,GCP
+687,API
+692,oversight
+694,emerging technologies
+695,frameworks
+701,Angular
+705,architectural patterns
+706,Node
+707,Typescript
+709,AWS
+710,Azure
+711,GCP
+719,architects
+721,API
+724,emerging technologies
+725,frameworks
+733,Angular
+737,architectural patterns
+738,Node
+739,Typescript
+741,AWS
+742,Azure
+743,GCP
+752,API
+757,oversight
+759,emerging technologies
+760,frameworks
+767,UI
+771,Python
+772,cloud computing
+779,documentation
+782,Python
+787,Elasticsearch
+788,Kibana
+789,mentor
+793,constructive feedback
+802,DevOPS
+807,SLA
+813,VPN
+814,SSO
+818,configuration
+823,tcpdump
+824,protocols
+826,DNS
+827,DHCP
+830,Interpersonal Skills
+831,Zendesk
+837,DevOPS
+842,SLA
+848,VPN
+849,SSO
+853,configuration
+858,tcpdump
+859,protocols
+861,DNS
+862,DHCP
+865,Interpersonal Skills
+866,Zendesk
+871,Python
+872,advanced SQL
+874,tooling
+879,pandas
+880,NumPy
+886,Spark
+887,Elasticsearch
+890,AWS
+893,Jenkins
+896,Recommender Systems
+903,exploratory data analysis
+904,algorithms
+912,debugging
+913,documentation
+919,manuals
+923,troubleshooting
+926,SDLC
+927,Agile
+930,containers
+933,docker
+948,BitBucket
+949,JIRA
+952,Mockito
+953,Application Servers
+954,JBoss
+955,WebSphere
+956,Tomcat
+957,Database Servers
+958,PostgreSQL
+959,Oracle
+960,MSSQL
+961,Linux
+963,shell scripting
+964,JAXB
+965,Apache Commons
+968,XML
+969,XSD
+970,Apache Ant
+972,SQL
+975,JDBC
+976,liquibase
+978,JMS
+982,Ruby
+983,Rails
+991,algorithms
+993,API development
+994,Ruby
+995,Rails
+996,Sinatra
+997,Django
+998,Node
+999,Git
+1000,GitHub
+1002,relational databases
+1003,PostgreSQL
+1004,MySQL
+1007,Celery
+1009,RabbitMQ
+1013,RSpec
+1016,profiling tools
+1020,Elixir
+1024,subscriptions
+1025,GCP
+1028,startups
+1029,esports
+1033,Ruby
+1034,Rails
+1042,algorithms
+1044,API development
+1045,Ruby
+1046,Rails
+1047,Sinatra
+1048,Django
+1049,Node
+1050,Git
+1051,GitHub
+1053,relational databases
+1054,PostgreSQL
+1055,MySql
+1058,Celery
+1061,RabbitMQ
+1064,RSpec
+1067,profiling tools
+1071,Elixir
+1075,subscriptions
+1076,GCP
+1079,startups
+1080,esports
+1083,Ruby
+1084,Rails
+1092,algorithms
+1094,API development
+1095,Ruby
+1096,Rails
+1097,Sinatra
+1098,Django
+1099,Node
+1100,Git
+1101,GitHub
+1103,relational databases
+1104,PostgreSQL
+1105,MySQL
+1108,Celery
+1110,RabbitMQ
+1114,RSpec
+1117,profiling tools
+1121,Elixir
+1125,subscriptions
+1126,GCP
+1129,startups
+1130,esports
+1134,Ruby
+1135,Rails
+1143,algorithms
+1145,API development
+1146,Ruby
+1147,Rails
+1148,Sinatra
+1149,Django
+1150,Node
+1151,Git
+1152,GitHub
+1154,relational databases
+1155,PostgreSQL
+1156,MySql
+1159,Celery
+1162,RabbitMQ
+1165,RSpec
+1168,profiling tools
+1172,Elixir
+1176,subscriptions
+1177,GCP
+1180,startups
+1181,esports
+1184,Deployment
+1185,configuration
+1187,RESTful webservices
+1188,SQL
+1189,relational databases
+1191,MySQL
+1198,frameworks
+1205,ReactJS
+1207,design specifications
+1208,coordination
+1210,UX
+1211,UI
+1214,JavaScript
+1219,CSS
+1224,QA
+1225,devops
+1229,HTML
+1231,JavaScript
+1237,Mocha
+1241,Jenkins
+1243,documentation
+1248,Mocha
+1249,Karma
+1253,reliability
+1260,AWS
+1262,Scripting
+1264,Python
+1265,Ruby
+1274,MongoDB
+1276,Docker
+1280,Perforce
+1293,continuous integration
+1294,deployment
+1296,Golang
+1302,Python
+1303,Docker
+1312,scalability
+1318,Microservices
+1331,plugins
+1333,architectures
+1342,Golang
+1343,mentorship
+1347,curiosity
+1350,frameworks
+1352,normalization
+1353,sampling
+1354,linear regression
+1364,Networking
+1366,Networking
+1369,DNS
+1372,Firewalls
+1376,IoT
+1379,CCNA
+1380,CCDA
+1381,CCNP
+1382,MCSE
+1383,CEH
+1384,Microsoft Azure
+1385,CISSP
+1386,CSP
+1387,API
+1388,Python
+1392,information retrieval
+1397,frameworks
+1399,normalization
+1400,sampling
+1401,linear regression
+1404,reinforcement learning
+1418,NetSuite
+1424,CRM
+1426,Billing
+1432,validation
+1434,scalability
+1437,documentation
+1438,ERP
+1439,Oracle
+1440,NetSuite
+1441,automation
+1449,SQL
+1450,Javascript
+1458,deadlines
+1461,Exceptional communicator
+1469,networking
+1472,Golang
+1473,Python
+1481,reliability
+1493,Mentor
+1495,TPM
+1503,reliability
+1504,GCP
+1505,AWS
+1506,Azure
+1507,Golang
+1510,GCP
+1525,maturity
+1534,debugging
+1536,Git
+1537,GitHub
+1538,Bitbucket
+1539,TDD
+1542,Android SDK
+1551,maturity
+1560,debugging
+1562,Git
+1563,GitHub
+1564,Bitbucket
+1565,TDD
+1568,Android SDK
+1577,maturity
+1586,debugging
+1588,Git
+1589,GitHub
+1590,Bitbucket
+1591,TDD
+1593,estimation
+1597,Analytics
+1599,reliability
+1600,reliability
+1601,resiliency
+1602,scalability
+1604,SLA
+1613,containerization
+1618,Elasticsearch
+1620,Logstash
+1623,saltstack
+1636,UDP
+1639,Resilience
+1644,mentorship
+1648,AWS
+1663,Elasticsearch
+1664,Kibana
+1665,Logstash
+1668,saltstack
+1669,python
+1675,frameworks
+1680,MapReduce
+1681,Spark
+1700,Golang
+1704,Empathy
+1708,Curiosity
+1710,consistency
+1717,Golang
+1718,mentorship
+1723,optimizations
+1726,JIRA
+1734,debugging
+1736,optimizations
+1749,algorithms
+1767,algorithms
+1775,WebSockets
+1776,JSON
+1777,Python
+1780,mentorship
+1785,optimizations
+1788,JIRA
+1796,debugging
+1798,optimizations
+1804,velocity
+1805,Mentor
+1809,Jenkins
+1810,tooling
+1812,Python
+1813,Perforce
+1814,Git
+1815,Subversion
+1821,Linux
+1823,relational databases
+1825,Lua
+1826,PHP
+1829,Puppet
+1830,Ansible
+1843,gulp
+1844,sass
+1845,typescript
+1850,frameworks
+1854,Javascript
+1861,docker
+1862,maven
+1863,gradle
+1864,databases
+1866,redis
+1868,cassandra
+1869,UX
+1876,Python
+1879,Django
+1880,Golang
+1884,data modeling
+1897,TypeScript
+1899,deployment
+1903,python
+1904,SQL
+1905,Linux
+1908,Git
+1912,problem solver
+1913,Python
+1917,VMs
+1919,Docker
+1921,matchmaking
+1924,adaptability
+1926,scalability
+1933,NodeJS
+1941,scalability
+1945,Mentor
+1947,Elixir
+1954,functional programming
+1955,specifications
+1957,indicators
+1959,guides
+1978,resiliency
+1982,schedules
+1992,AWS
+1993,Azure
+2000,configuration
+2001,performance tuning
+2005,NTP
+2006,DHCP
+2007,SMTP
+2009,VMware
+2011,KVM
+2012,IaaS
+2013,PaaS
+2014,SaaS
+2017,virtualization
+2018,web servers
+2020,Scripting
+2021,automation
+2022,bash
+2023,python
+2024,ruby
+2025,deployment
+2028,Ansible
+2029,troubleshooting
+2031,switches
+2032,firewalls
+2033,vendors
+2035,NMS
+2044,resiliency
+2048,schedules
+2058,AWS
+2059,Azure
+2066,configuration
+2067,performance tuning
+2071,NTP
+2072,DHCP
+2073,SMTP
+2075,VMware
+2077,KVM
+2078,IaaS
+2079,PaaS
+2080,SaaS
+2083,virtualization
+2084,web servers
+2086,Scripting
+2087,automation
+2088,bash
+2089,python
+2090,ruby
+2091,deployment
+2094,Ansible
+2095,troubleshooting
+2097,switches
+2098,firewalls
+2099,vendors
+2101,NMS
+2110,resiliency
+2114,schedules
+2124,AWS
+2125,Azure
+2132,configuration
+2133,performance tuning
+2137,NTP
+2138,DHCP
+2139,SMTP
+2141,VMware
+2143,KVM
+2144,IaaS
+2145,PaaS
+2146,SaaS
+2149,virtualization
+2150,web servers
+2152,Scripting
+2153,automation
+2154,bash
+2155,python
+2156,ruby
+2157,deployment
+2160,Ansible
+2161,troubleshooting
+2163,switches
+2164,firewalls
+2165,vendors
+2167,NMS
+2176,resiliency
+2180,schedules
+2190,AWS
+2191,Azure
+2198,configuration
+2199,performance tuning
+2203,NTP
+2204,DHCP
+2205,SMTP
+2207,VMware
+2209,KVM
+2210,IaaS
+2211,PaaS
+2212,SaaS
+2215,virtualization
+2216,web servers
+2218,Scripting
+2219,automation
+2220,bash
+2221,python
+2222,ruby
+2223,deployment
+2226,Ansible
+2227,troubleshooting
+2229,switches
+2230,firewalls
+2231,vendors
+2233,NMS
+2242,resiliency
+2246,schedules
+2256,AWS
+2257,Azure
+2264,configuration
+2265,performance tuning
+2269,NTP
+2270,DHCP
+2271,SMTP
+2273,VMware
+2275,KVM
+2276,IaaS
+2277,PaaS
+2278,SaaS
+2281,virtualization
+2282,web servers
+2284,Scripting
+2285,automation
+2286,bash
+2287,python
+2288,ruby
+2289,deployment
+2292,Ansible
+2293,troubleshooting
+2295,switches
+2296,firewalls
+2297,vendors
+2299,NMS
+2308,resiliency
+2312,schedules
+2322,AWS
+2323,Azure
+2330,configuration
+2331,performance tuning
+2335,NTP
+2336,DHCP
+2337,SMTP
+2339,VMware
+2341,KVM
+2342,IaaS
+2343,PaaS
+2344,SaaS
+2347,virtualization
+2348,web servers
+2350,Scripting
+2351,automation
+2352,bash
+2353,python
+2354,ruby
+2355,deployment
+2358,Ansible
+2359,troubleshooting
+2361,switches
+2362,firewalls
+2363,vendors
+2365,NMS
+2374,resiliency
+2378,schedules
+2388,AWS
+2389,Azure
+2396,configuration
+2397,performance tuning
+2401,NTP
+2402,DHCP
+2403,SMTP
+2405,VMware
+2407,KVM
+2408,IaaS
+2409,PaaS
+2410,SaaS
+2413,virtualization
+2414,web servers
+2416,Scripting
+2417,automation
+2418,bash
+2419,python
+2420,ruby
+2421,deployment
+2424,Ansible
+2425,troubleshooting
+2427,switches
+2428,firewalls
+2429,vendors
+2431,NMS
+2440,resiliency
+2444,schedules
+2454,AWS
+2455,Azure
+2462,configuration
+2463,performance tuning
+2467,NTP
+2468,DHCP
+2469,SMTP
+2471,VMware
+2473,KVM
+2474,IaaS
+2475,PaaS
+2476,SaaS
+2479,virtualization
+2480,web servers
+2482,Scripting
+2483,automation
+2484,bash
+2485,python
+2486,ruby
+2487,deployment
+2490,Ansible
+2491,troubleshooting
+2493,switches
+2494,firewalls
+2495,vendors
+2497,NMS
+2506,resiliency
+2510,schedules
+2520,AWS
+2521,Azure
+2528,configuration
+2529,performance tuning
+2533,NTP
+2534,DHCP
+2535,SMTP
+2537,VMware
+2539,KVM
+2540,IaaS
+2541,PaaS
+2542,SaaS
+2545,virtualization
+2546,web servers
+2548,Scripting
+2549,automation
+2550,bash
+2551,python
+2552,ruby
+2553,deployment
+2556,Ansible
+2557,troubleshooting
+2559,switches
+2560,firewalls
+2561,vendors
+2563,NMS
+2572,resiliency
+2576,schedules
+2586,AWS
+2587,Azure
+2594,configuration
+2595,performance tuning
+2599,NTP
+2600,DHCP
+2601,SMTP
+2603,VMware
+2605,KVM
+2606,IaaS
+2607,PaaS
+2608,SaaS
+2611,virtualization
+2612,web servers
+2614,Scripting
+2615,automation
+2616,bash
+2617,python
+2618,ruby
+2619,deployment
+2622,Ansible
+2623,troubleshooting
+2625,switches
+2626,firewalls
+2627,vendors
+2629,NMS
+2638,resiliency
+2642,schedules
+2652,AWS
+2653,Azure
+2660,configuration
+2661,performance tuning
+2665,NTP
+2666,DHCP
+2667,SMTP
+2669,VMware
+2671,KVM
+2672,IaaS
+2673,PaaS
+2674,SaaS
+2677,virtualization
+2678,web servers
+2680,Scripting
+2681,automation
+2682,bash
+2683,python
+2684,ruby
+2685,deployment
+2688,Ansible
+2689,troubleshooting
+2691,switches
+2692,firewalls
+2693,vendors
+2695,NMS
+2704,resiliency
+2708,schedules
+2718,AWS
+2719,Azure
+2726,configuration
+2727,performance tuning
+2731,NTP
+2732,DHCP
+2733,SMTP
+2735,VMware
+2737,KVM
+2738,IaaS
+2739,PaaS
+2740,SaaS
+2743,virtualization
+2744,web servers
+2746,Scripting
+2747,automation
+2748,bash
+2749,python
+2750,ruby
+2751,deployment
+2754,Ansible
+2755,troubleshooting
+2757,switches
+2758,firewalls
+2759,vendors
+2761,NMS
+2770,resiliency
+2774,schedules
+2784,AWS
+2785,Azure
+2792,configuration
+2793,performance tuning
+2797,NTP
+2798,DHCP
+2799,SMTP
+2801,VMware
+2803,KVM
+2804,IaaS
+2805,PaaS
+2806,SaaS
+2809,virtualization
+2810,web servers
+2812,Scripting
+2813,automation
+2814,bash
+2815,python
+2816,ruby
+2817,deployment
+2820,Ansible
+2821,troubleshooting
+2823,switches
+2824,firewalls
+2825,vendors
+2827,NMS
+2836,resiliency
+2840,schedules
+2850,AWS
+2851,Azure
+2858,configuration
+2859,performance tuning
+2863,NTP
+2864,DHCP
+2865,SMTP
+2867,VMware
+2869,KVM
+2870,IaaS
+2871,PaaS
+2872,SaaS
+2875,virtualization
+2876,web servers
+2878,Scripting
+2879,automation
+2880,bash
+2881,python
+2882,ruby
+2883,deployment
+2886,Ansible
+2887,troubleshooting
+2889,switches
+2890,firewalls
+2891,vendors
+2893,NMS
+2902,resiliency
+2906,schedules
+2916,AWS
+2917,Azure
+2924,configuration
+2925,performance tuning
+2929,NTP
+2930,DHCP
+2931,SMTP
+2933,VMware
+2935,KVM
+2936,IaaS
+2937,PaaS
+2938,SaaS
+2941,virtualization
+2942,web servers
+2944,Scripting
+2945,automation
+2946,bash
+2947,python
+2948,ruby
+2949,deployment
+2952,Ansible
+2953,troubleshooting
+2955,switches
+2956,firewalls
+2957,vendors
+2959,NMS
+2968,resiliency
+2972,schedules
+2982,AWS
+2983,Azure
+2990,configuration
+2991,performance tuning
+2995,NTP
+2996,DHCP
+2997,SMTP
+2999,VMware
+3001,KVM
+3002,IaaS
+3003,PaaS
+3004,SaaS
+3007,virtualization
+3008,web servers
+3010,Scripting
+3011,automation
+3012,bash
+3013,python
+3014,ruby
+3015,deployment
+3018,Ansible
+3019,troubleshooting
+3021,switches
+3022,firewalls
+3023,vendors
+3025,NMS
+3034,resiliency
+3038,schedules
+3048,AWS
+3049,Azure
+3056,configuration
+3057,performance tuning
+3061,NTP
+3062,DHCP
+3063,SMTP
+3065,VMware
+3067,KVM
+3068,IaaS
+3069,PaaS
+3070,SaaS
+3073,virtualization
+3074,web servers
+3076,Scripting
+3077,automation
+3078,bash
+3079,python
+3080,ruby
+3081,deployment
+3084,Ansible
+3085,troubleshooting
+3087,switches
+3088,firewalls
+3089,vendors
+3091,NMS
+3100,resiliency
+3104,schedules
+3114,AWS
+3115,Azure
+3122,configuration
+3123,performance tuning
+3127,NTP
+3128,DHCP
+3129,SMTP
+3131,VMware
+3133,KVM
+3134,IaaS
+3135,PaaS
+3136,SaaS
+3139,virtualization
+3140,web servers
+3142,Scripting
+3143,automation
+3144,bash
+3145,python
+3146,ruby
+3147,deployment
+3150,Ansible
+3151,troubleshooting
+3153,switches
+3154,firewalls
+3155,vendors
+3157,NMS
+3166,resiliency
+3170,schedules
+3180,AWS
+3181,Azure
+3188,configuration
+3189,performance tuning
+3193,NTP
+3194,DHCP
+3195,SMTP
+3197,VMware
+3199,KVM
+3200,IaaS
+3201,PaaS
+3202,SaaS
+3205,virtualization
+3206,web servers
+3208,Scripting
+3209,automation
+3210,bash
+3211,python
+3212,ruby
+3213,deployment
+3216,Ansible
+3217,troubleshooting
+3219,switches
+3220,firewalls
+3221,vendors
+3223,NMS
+3232,resiliency
+3236,schedules
+3246,AWS
+3247,Azure
+3254,configuration
+3255,performance tuning
+3259,NTP
+3260,DHCP
+3261,SMTP
+3263,VMware
+3265,KVM
+3266,IaaS
+3267,PaaS
+3268,SaaS
+3271,virtualization
+3272,web servers
+3274,Scripting
+3275,automation
+3276,bash
+3277,python
+3278,ruby
+3279,deployment
+3282,Ansible
+3283,troubleshooting
+3285,switches
+3286,firewalls
+3287,vendors
+3289,NMS
+3298,resiliency
+3302,schedules
+3312,AWS
+3313,Azure
+3320,configuration
+3321,performance tuning
+3325,NTP
+3326,DHCP
+3327,SMTP
+3329,VMware
+3331,KVM
+3332,IaaS
+3333,PaaS
+3334,SaaS
+3337,virtualization
+3338,web servers
+3340,Scripting
+3341,automation
+3342,bash
+3343,python
+3344,ruby
+3345,deployment
+3348,Ansible
+3349,troubleshooting
+3351,switches
+3352,firewalls
+3353,vendors
+3355,NMS
+3364,resiliency
+3368,schedules
+3378,AWS
+3379,Azure
+3386,configuration
+3387,performance tuning
+3391,NTP
+3392,DHCP
+3393,SMTP
+3395,VMware
+3397,KVM
+3398,IaaS
+3399,PaaS
+3400,SaaS
+3403,virtualization
+3404,web servers
+3406,Scripting
+3407,automation
+3408,bash
+3409,python
+3410,ruby
+3411,deployment
+3414,Ansible
+3415,troubleshooting
+3417,switches
+3418,firewalls
+3419,vendors
+3421,NMS
+3430,resiliency
+3434,schedules
+3444,AWS
+3445,Azure
+3452,configuration
+3453,performance tuning
+3457,NTP
+3458,DHCP
+3459,SMTP
+3461,VMware
+3463,KVM
+3464,IaaS
+3465,PaaS
+3466,SaaS
+3469,virtualization
+3470,web servers
+3472,Scripting
+3473,automation
+3474,bash
+3475,python
+3476,ruby
+3477,deployment
+3480,Ansible
+3481,troubleshooting
+3483,switches
+3484,firewalls
+3485,vendors
+3487,NMS
+3496,resiliency
+3500,schedules
+3510,AWS
+3511,Azure
+3518,configuration
+3519,performance tuning
+3523,NTP
+3524,DHCP
+3525,SMTP
+3527,VMware
+3529,KVM
+3530,IaaS
+3531,PaaS
+3532,SaaS
+3535,virtualization
+3536,web servers
+3538,Scripting
+3539,automation
+3540,bash
+3541,python
+3542,ruby
+3543,deployment
+3546,Ansible
+3547,troubleshooting
+3549,switches
+3550,firewalls
+3551,vendors
+3553,NMS
+3562,resiliency
+3566,schedules
+3576,AWS
+3577,Azure
+3584,configuration
+3585,performance tuning
+3589,NTP
+3590,DHCP
+3591,SMTP
+3593,VMware
+3595,KVM
+3596,IaaS
+3597,PaaS
+3598,SaaS
+3601,virtualization
+3602,web servers
+3604,Scripting
+3605,automation
+3606,bash
+3607,python
+3608,ruby
+3609,deployment
+3612,Ansible
+3613,troubleshooting
+3615,switches
+3616,firewalls
+3617,vendors
+3619,NMS
+3628,resiliency
+3632,schedules
+3642,AWS
+3643,Azure
+3650,configuration
+3651,performance tuning
+3655,NTP
+3656,DHCP
+3657,SMTP
+3659,VMware
+3661,KVM
+3662,IaaS
+3663,PaaS
+3664,SaaS
+3667,virtualization
+3668,web servers
+3670,Scripting
+3671,automation
+3672,bash
+3673,python
+3674,ruby
+3675,deployment
+3678,Ansible
+3679,troubleshooting
+3681,switches
+3682,firewalls
+3683,vendors
+3685,NMS
+3694,resiliency
+3698,schedules
+3708,AWS
+3709,Azure
+3716,configuration
+3717,performance tuning
+3721,NTP
+3722,DHCP
+3723,SMTP
+3725,VMware
+3727,KVM
+3728,IaaS
+3729,PaaS
+3730,SaaS
+3733,virtualization
+3734,web servers
+3736,Scripting
+3737,automation
+3738,bash
+3739,python
+3740,ruby
+3741,deployment
+3744,Ansible
+3745,troubleshooting
+3747,switches
+3748,firewalls
+3749,vendors
+3751,NMS
+3760,resiliency
+3764,schedules
+3774,AWS
+3775,Azure
+3782,configuration
+3783,performance tuning
+3787,NTP
+3788,DHCP
+3789,SMTP
+3791,VMware
+3793,KVM
+3794,IaaS
+3795,PaaS
+3796,SaaS
+3799,virtualization
+3800,web servers
+3802,Scripting
+3803,automation
+3804,bash
+3805,python
+3806,ruby
+3807,deployment
+3810,Ansible
+3811,troubleshooting
+3813,switches
+3814,firewalls
+3815,vendors
+3817,NMS
+3826,resiliency
+3830,schedules
+3840,AWS
+3841,Azure
+3848,configuration
+3849,performance tuning
+3853,NTP
+3854,DHCP
+3855,SMTP
+3857,VMware
+3859,KVM
+3860,IaaS
+3861,PaaS
+3862,SaaS
+3865,virtualization
+3866,web servers
+3868,Scripting
+3869,automation
+3870,bash
+3871,python
+3872,ruby
+3873,deployment
+3876,Ansible
+3877,troubleshooting
+3879,switches
+3880,firewalls
+3881,vendors
+3883,NMS
+3892,resiliency
+3896,schedules
+3906,AWS
+3907,Azure
+3914,configuration
+3915,performance tuning
+3919,NTP
+3920,DHCP
+3921,SMTP
+3923,VMware
+3925,KVM
+3926,IaaS
+3927,PaaS
+3928,SaaS
+3931,virtualization
+3932,web servers
+3934,Scripting
+3935,automation
+3936,bash
+3937,python
+3938,ruby
+3939,deployment
+3942,Ansible
+3943,troubleshooting
+3945,switches
+3946,firewalls
+3947,vendors
+3949,NMS
+3954,UI
+3959,JavaScript
+3960,CSS
+3961,HTML
+3964,syntax
+3971,TypeScript
+3975,aesthetics
+3987,agile development
+3990,MVVM
+4000,NodeJS
+4008,JavaScript
+4009,Python
+4011,Bamboo
+4012,Docker
+4013,Jenkins
+4014,APIs
+4016,relational databases
+4018,Microsoft Azure
+4020,sponsorship
+4027,Haskell
+4028,Typescript
+4030,relational databases
+4031,linux
+4034,Jenkins
+4044,Scala
+4046,Python
+4047,SQL
+4049,Hadoop
+4050,Hive
+4051,MapReduce
+4054,MongoDB
+4055,Cassandra
+4057,pipelines
+4060,GCP
+4061,Azure
+4066,GitHub
+4067,JIRA
+4068,Confluence
+4070,prototype
+4085,WCF
+4087,SQL
+4090,APIs
+4091,interfaces
+4098,dependency injection
+4100,HTML
+4101,JavaScript
+4102,CSS
+4104,JSON
+4111,prototype
+4126,WCF
+4128,SQL
+4131,APIs
+4132,interfaces
+4139,dependency injection
+4141,HTML
+4142,JavaScript
+4143,CSS
+4145,JSON
+4152,prototype
+4167,WCF
+4169,SQL
+4172,APIs
+4173,interfaces
+4180,dependency injection
+4182,HTML
+4183,JavaScript
+4184,CSS
+4186,JSON
+4193,prototype
+4208,WCF
+4210,SQL
+4213,APIs
+4214,interfaces
+4221,dependency injection
+4223,HTML
+4224,JavaScript
+4225,CSS
+4227,JSON
+4234,prototype
+4249,WCF
+4251,SQL
+4254,APIs
+4255,interfaces
+4262,dependency injection
+4264,HTML
+4265,JavaScript
+4266,CSS
+4268,JSON
+4275,prototype
+4290,WCF
+4292,SQL
+4295,APIs
+4296,interfaces
+4303,dependency injection
+4305,HTML
+4306,JavaScript
+4307,CSS
+4309,JSON
+4324,SQL
+4325,data analytics
+4328,PowerShell
+4331,Angular
+4334,APIs
+4337,messaging
+4338,Microservices
+4340,Docker
+4354,SQL
+4355,data analytics
+4358,PowerShell
+4361,Angular
+4364,APIs
+4367,messaging
+4368,Microservices
+4370,Docker
+4384,SQL
+4385,data analytics
+4388,PowerShell
+4391,Angular
+4394,APIs
+4397,messaging
+4398,Microservices
+4400,Docker
+4406,prototype
+4422,logging
+4423,APIs
+4424,interfaces
+4428,dependency injection
+4431,scrum
+4433,AWS
+4434,Azure
+4436,OAuth
+4441,HTML
+4442,JavaScript
+4443,CSS
+4445,JSON
+4447,Dojo
+4448,Angular
+4451,jQuery
+4453,prototype
+4469,logging
+4470,APIs
+4471,interfaces
+4475,dependency injection
+4478,scrum
+4480,AWS
+4481,Azure
+4483,OAuth
+4488,HTML
+4489,JavaScript
+4490,CSS
+4492,JSON
+4494,Dojo
+4495,Angular
+4498,jQuery
+4500,prototype
+4516,logging
+4517,APIs
+4518,interfaces
+4522,dependency injection
+4525,scrum
+4527,AWS
+4528,Azure
+4530,OAuth
+4535,HTML
+4536,JavaScript
+4537,CSS
+4539,JSON
+4541,Dojo
+4542,Angular
+4545,jQuery
+4547,prototype
+4563,logging
+4564,APIs
+4565,interfaces
+4569,dependency injection
+4572,scrum
+4574,AWS
+4575,Azure
+4577,OAuth
+4582,HTML
+4583,JavaScript
+4584,CSS
+4586,JSON
+4588,Dojo
+4589,Angular
+4592,jQuery
+4594,prototype
+4610,logging
+4611,APIs
+4612,interfaces
+4616,dependency injection
+4619,scrum
+4621,AWS
+4622,Azure
+4624,OAuth
+4629,HTML
+4630,JavaScript
+4631,CSS
+4633,JSON
+4635,Dojo
+4636,Angular
+4639,jQuery
+4649,SQL
+4650,data analytics
+4653,PowerShell
+4656,Angular
+4659,APIs
+4662,messaging
+4663,Microservices
+4665,Docker
+4671,prototype
+4687,logging
+4688,APIs
+4689,interfaces
+4693,dependency injection
+4696,scrum
+4698,AWS
+4699,Azure
+4701,OAuth
+4706,HTML
+4707,JavaScript
+4708,CSS
+4710,JSON
+4712,Dojo
+4713,Angular
+4716,jQuery
+4720,TSQL
+4721,Android SDK
+4722,HTML
+4723,JavaScript
+4735,JavaScript frameworks
+4744,UI
+4745,UX
+4747,prototype
+4755,JSON
+4757,UI
+4758,UX
+4771,SQL
+4772,data analytics
+4775,PowerShell
+4778,Angular
+4781,APIs
+4784,messaging
+4785,Microservices
+4787,Docker
+4801,SQL
+4802,data analytics
+4805,PowerShell
+4808,Angular
+4811,APIs
+4814,messaging
+4815,Microservices
+4817,Docker
+4823,prototype
+4839,logging
+4840,APIs
+4841,interfaces
+4845,dependency injection
+4848,scrum
+4850,AWS
+4851,Azure
+4853,OAuth
+4858,HTML
+4859,JavaScript
+4860,CSS
+4862,JSON
+4864,Dojo
+4865,Angular
+4868,jQuery
+4878,SQL
+4879,data analytics
+4882,PowerShell
+4885,Angular
+4888,APIs
+4891,messaging
+4892,Microservices
+4894,Docker
+4908,SQL
+4909,data analytics
+4912,PowerShell
+4915,Angular
+4918,APIs
+4921,messaging
+4922,Microservices
+4924,Docker
+4930,prototype
+4946,logging
+4947,APIs
+4948,interfaces
+4952,dependency injection
+4955,scrum
+4957,AWS
+4958,Azure
+4960,OAuth
+4965,HTML
+4966,JavaScript
+4967,CSS
+4969,JSON
+4971,Dojo
+4972,Angular
+4975,jQuery
+4986,jQuery
+4996,Cucumber
+4997,Specflow
+4999,RDBMS
+5005,TSQL
+5006,Android SDK
+5007,HTML
+5008,JavaScript
+5020,JavaScript frameworks
+5029,UI
+5030,UX
+5034,TSQL
+5035,Android SDK
+5036,HTML
+5037,JavaScript
+5049,JavaScript frameworks
+5058,UI
+5059,UX
+5069,SQL
+5070,data analytics
+5073,PowerShell
+5076,Angular
+5079,APIs
+5082,messaging
+5083,Microservices
+5085,Docker
+5099,SQL
+5100,data analytics
+5103,PowerShell
+5106,Angular
+5109,APIs
+5112,messaging
+5113,Microservices
+5115,Docker
+5121,prototype
+5137,logging
+5138,APIs
+5139,interfaces
+5143,dependency injection
+5146,scrum
+5148,AWS
+5149,Azure
+5151,OAuth
+5156,HTML
+5157,JavaScript
+5158,CSS
+5160,JSON
+5162,Dojo
+5163,Angular
+5166,jQuery
+5168,prototype
+5184,logging
+5185,APIs
+5186,interfaces
+5190,dependency injection
+5193,scrum
+5195,AWS
+5196,Azure
+5198,OAuth
+5203,HTML
+5204,JavaScript
+5205,CSS
+5207,JSON
+5209,Dojo
+5210,Angular
+5213,jQuery
+5215,prototype
+5231,logging
+5232,APIs
+5233,interfaces
+5237,dependency injection
+5240,scrum
+5242,AWS
+5243,Azure
+5245,OAuth
+5250,HTML
+5251,JavaScript
+5252,CSS
+5254,JSON
+5256,Dojo
+5257,Angular
+5260,jQuery
+5264,TSQL
+5265,Android SDK
+5266,HTML
+5267,JavaScript
+5279,JavaScript frameworks
+5288,UI
+5289,UX
+5293,TSQL
+5294,Android SDK
+5295,HTML
+5296,JavaScript
+5308,JavaScript frameworks
+5317,UI
+5318,UX
+5322,TSQL
+5323,Android SDK
+5324,HTML
+5325,JavaScript
+5337,JavaScript frameworks
+5346,UI
+5347,UX
+5351,TSQL
+5352,Android SDK
+5353,HTML
+5354,JavaScript
+5366,JavaScript frameworks
+5375,UI
+5376,UX
+5380,Typescript
+5384,documentation
+5390,databases
+5392,specifications
+5395,validation
+5396,macros
+5397,supervision
+5409,coding
+5410,technical documentation
+5412,query optimization
+5417,deadlines
+5424,AngularJS
+5426,Web API
+5427,Git
+5428,nUnit
+5429,Dependency Injection
+5430,Web Api
+5437,stored procedures
+5443,documentation
+5445,continuous integration
+5446,metrics
+5447,problem solving
+5450,logging
+5451,APIs
+5453,generics
+5460,performance tuning
+5462,troubleshooting
+5468,SaltStack
+5469,MySQL
+5474,Scripting
+5475,Bash
+5476,AWS
+5477,GCP
+5479,clustering
+5480,replication
+5491,automation
+5501,Diagnostics
+5502,troubleshooting
+5505,Python
+5506,Scala
+5507,EMR
+5508,Athena
+5520,Spark
+5526,frameworks
+5536,Oozie
+5538,Talend
+5541,Jenkins
+5543,data modeling
+5544,persistence
+5546,data marts
+5557,automation
+5567,Diagnostics
+5568,troubleshooting
+5572,Python
+5573,Scala
+5574,EMR
+5575,Athena
+5587,Spark
+5593,frameworks
+5603,Oozie
+5605,Talend
+5608,Jenkins
+5610,data modeling
+5611,persistence
+5613,data marts
+5624,automation
+5634,Diagnostics
+5635,troubleshooting
+5639,Python
+5640,Scala
+5641,EMR
+5642,Athena
+5654,Spark
+5660,frameworks
+5670,Oozie
+5672,Talend
+5675,Jenkins
+5677,data modeling
+5678,persistence
+5680,data marts
+5691,automation
+5701,Diagnostics
+5702,troubleshooting
+5705,Python
+5706,Scala
+5707,EMR
+5708,Athena
+5720,Spark
+5726,frameworks
+5736,Oozie
+5738,Talend
+5741,Jenkins
+5743,data modeling
+5744,persistence
+5746,data marts
+5757,automation
+5767,Diagnostics
+5768,troubleshooting
+5771,Python
+5772,Scala
+5773,EMR
+5774,Athena
+5786,Spark
+5792,frameworks
+5802,Oozie
+5804,Talend
+5807,Jenkins
+5809,data modeling
+5810,persistence
+5812,data marts
+5823,automation
+5833,Diagnostics
+5834,troubleshooting
+5837,Python
+5838,Scala
+5839,EMR
+5840,Athena
+5852,Spark
+5858,frameworks
+5868,Oozie
+5870,Talend
+5873,Jenkins
+5875,data modeling
+5876,persistence
+5878,data marts
+5889,automation
+5899,Diagnostics
+5900,troubleshooting
+5904,Python
+5905,Scala
+5906,EMR
+5907,Athena
+5919,Spark
+5925,frameworks
+5935,Oozie
+5937,Talend
+5940,Jenkins
+5942,data modeling
+5943,persistence
+5945,data marts
+5956,automation
+5966,Diagnostics
+5967,troubleshooting
+5971,Python
+5972,Scala
+5973,EMR
+5974,Athena
+5986,Spark
+5992,frameworks
+6002,Oozie
+6004,Talend
+6007,Jenkins
+6009,data modeling
+6010,persistence
+6012,data marts
+6023,automation
+6033,Diagnostics
+6034,troubleshooting
+6038,Python
+6039,Scala
+6040,EMR
+6041,Athena
+6053,Spark
+6059,frameworks
+6069,Oozie
+6071,Talend
+6074,Jenkins
+6076,data modeling
+6077,persistence
+6079,data marts
+6090,automation
+6100,Diagnostics
+6101,troubleshooting
+6105,Python
+6106,Scala
+6107,EMR
+6108,Athena
+6120,Spark
+6126,frameworks
+6136,Oozie
+6138,Talend
+6141,Jenkins
+6143,data modeling
+6144,persistence
+6146,data marts
+6157,automation
+6167,Diagnostics
+6168,troubleshooting
+6172,Python
+6173,Scala
+6174,EMR
+6175,Athena
+6187,Spark
+6193,frameworks
+6203,Oozie
+6205,Talend
+6208,Jenkins
+6210,data modeling
+6211,persistence
+6213,data marts
+6216,automation
+6222,budgets
+6225,connectivity
+6244,Excellent interpersonal skills
+6245,strong work ethic
+6251,configuration management
+6253,templates
+6255,procurement
+6256,licensing
+6259,PCB design
+6260,FPGA
+6261,RF
+6264,FPGA
+6266,Jenkins
+6268,provisioning
+6271,automation
+6272,Python
+6273,Groovy
+6274,Bash
+6276,Linux system administration
+6278,performance tuning
+6282,GitHub
+6283,GitLab
+6289,load balancing
+6292,VMware
+6293,VSphere
+6294,VirtualBox
+6314,Azure
+6315,AWS
+6316,GCP
+6318,microservices
+6320,Ansible
+6321,Puppet
+6322,databases
+6323,Active Directory
+6324,DNS
+6325,firewalls
+6326,networking
+6327,Azure
+6329,PowerShell
+6330,Bash
+6331,Python
+6333,templates
+6335,Microsoft Azure
+6340,automation
+6348,Git
+6351,instrumentation
+6355,accountability
+6359,User journeys
+6360,personas
+6365,Middleware
+6367,user acceptance testing
+6373,audits
+6378,Deployment
+6385,XSLT
+6392,Scripting
+6398,HTML
+6406,UX
+6412,frameworks
+6413,Ruby
+6414,Rails
+6419,Scrum
+6427,VxWorks
+6431,SPI
+6432,EtherCAT
+6433,TDD
+6434,ATDD
+6435,BDD
+6446,RMS
+6451,RMS
+6454,Active Directory
+6455,roadmap
+6465,automation
+6470,roadmap
+6473,Active Directory
+6474,Microsoft Active Directory
+6475,interpersonal skills
+6477,good interpersonal skills
+6478,vendors
+6481,Azure
+6482,GCP
+6483,architectural design
+6486,Conditional Access
+6487,SAML
+6488,OAuth
+6495,Active Directory
+6500,GCP
+6507,Archiving
+6508,eDiscovery
+6516,GCP
+6519,automation
+6526,Azure
+6527,GCP
+6531,CISSP
+6532,Azure
+6535,interpersonal skills
+6537,good interpersonal skills
+6538,vendors
+6541,HSM
+6554,extraction
+6559,Ruby
+6560,Golang
+6561,Python
+6563,AWS
+6564,GCP
+6565,Azure
+6572,Ruby
+6573,Golang
+6574,Python
+6576,AWS
+6577,GCP
+6578,Azure
+6585,Ruby
+6586,Golang
+6587,Python
+6589,AWS
+6590,GCP
+6591,Azure
+6598,Ruby
+6599,Golang
+6600,Python
+6602,AWS
+6603,GCP
+6604,Azure
+6611,Ruby
+6612,Golang
+6613,Python
+6615,AWS
+6616,GCP
+6617,Azure
+6624,Ruby
+6625,Golang
+6626,Python
+6628,AWS
+6629,GCP
+6630,Azure
+6637,Ruby
+6638,Golang
+6639,Python
+6641,AWS
+6642,GCP
+6643,Azure
+6650,Ruby
+6651,Golang
+6652,Python
+6654,AWS
+6655,GCP
+6656,Azure
+6663,Ruby
+6664,Golang
+6665,Python
+6667,AWS
+6668,GCP
+6669,Azure
+6672,JavaScript
+6675,usability
+6677,JavaScript
+6680,usability
+6686,Ruby
+6687,Golang
+6688,Python
+6690,AWS
+6691,GCP
+6692,Azure
+6699,Ruby
+6700,Golang
+6701,Python
+6703,AWS
+6704,GCP
+6705,Azure
+6708,JavaScript
+6711,usability
+6713,JavaScript
+6716,usability
+6718,penetration testing
+6725,consistency
+6727,penetration testing
+6734,consistency
+6736,penetration testing
+6743,consistency
+6745,penetration testing
+6752,consistency
+6754,JavaScript
+6757,usability
+6759,JavaScript
+6762,usability
+6764,Golang
+6773,microservices
+6774,Golang
+6775,Ruby
+6776,Docker
+6777,Rails
+6779,MongoDB
+6782,JavaScript
+6785,usability
+6787,JavaScript
+6790,usability
+6793,strategic roadmaps
+6795,deadlines
+6796,deliverables
+6798,Mentor
+6799,coding standards
+6803,Golang
+6812,microservices
+6813,Golang
+6814,Ruby
+6815,Docker
+6816,Rails
+6818,MongoDB
+6822,strategic roadmaps
+6824,deadlines
+6825,deliverables
+6827,Mentor
+6828,coding standards
+6833,strategic roadmaps
+6835,deadlines
+6836,deliverables
+6838,Mentor
+6839,coding standards
+6844,strategic roadmaps
+6846,deadlines
+6847,deliverables
+6849,Mentor
+6850,coding standards
+6854,Golang
+6863,microservices
+6864,Golang
+6865,Ruby
+6866,Docker
+6867,Rails
+6869,MongoDB
+6872,Golang
+6881,microservices
+6882,Golang
+6883,Ruby
+6884,Docker
+6885,Rails
+6887,MongoDB
+6890,Golang
+6899,microservices
+6900,Golang
+6901,Ruby
+6902,Docker
+6903,Rails
+6905,MongoDB
+6908,Golang
+6917,microservices
+6918,Golang
+6919,Ruby
+6920,Docker
+6921,Rails
+6923,MongoDB
+6931,Mentoring
+6933,PostgreSQL
+6935,Ruby
+6937,APIs
+6943,PostgreSQL
+6944,Ruby
+6946,APIs
+6954,maintainability
+6955,scalability
+6959,roadmap
+6963,Ruby
+6965,APIs
+6967,PostgreSQL
+6972,accessibility
+6973,reliability
+6974,documentation
+6976,Mentoring
+6981,clarity
+6991,Oozie
+6993,Hadoop
+6994,Hive
+7007,Oozie
+7013,Mentor
+7015,TPM
+7024,reliability
+7026,GCP
+7027,AWS
+7028,Azure
+7029,Golang
+7032,GCP
+7035,Golang
+7036,Python
+7037,TypeScript
+7040,GitHub
+7041,Jenkins
+7047,Excellent written and oral communication skills
+7059,Automation
+7062,Software Development methodologies
+7068,scalability
+7069,reliability
+7074,metrics
+7080,Python
+7089,Zabbix
+7093,relational databases
+7095,SOPs
+7104,vendors
+7113,validation
+7136,SAS Programming
+7141,Mentor
+7147,pharmaceutics
+7150,pharmaceutics
+7154,Excellent organizational skills
+7166,SDTM
+7175,SAP
+7178,consultations
+7180,timelines
+7182,specifications
+7185,Listings
+7188,documentation
+7190,specifications
+7191,corrections
+7198,Listings
+7206,CDISC
+7207,SDTM
+7216,abstracts
+7217,posters
+7218,manuscripts
+7223,pharmaceutics
+7226,pharmaceutics
+7230,Excellent organizational skills
+7238,AWS
+7244,Docker
+7248,networking
+7249,firewalls
+7259,automation
+7268,extraction
+7269,frameworks
+7270,Sqoop
+7271,Hive
+7272,HBase
+7273,Impala
+7274,Python
+7276,shell scripting
+7277,coding
+7278,deployment
+7281,scalability
+7282,continuous integration
+7287,extraction
+7290,SDLC
+7300,Spark
+7301,Python
+7305,XML
+7306,JSON
+7307,HDFS
+7308,Hbase
+7312,analytics
+7314,Flume
+7315,Sqoop
+7317,HDFS
+7318,HBASE
+7325,HDFS
+7326,Jira
+7327,Bitbucket
+7329,Jenkins
+7351,instrumentation
+7353,Xero
+7360,JavaScript
+7361,Nodejs
+7363,SQL
+7372,scalability
+7384,experimentation
+7388,embedded systems
+7392,Linux
+7393,Assembler
+7394,Git
+7395,Gerrit
+7396,Python
+7408,Linux kernel
+7409,SELinux
+7416,Triage
+7420,humility
+7426,git
+7427,subversion
+7428,databases
+7429,mongodb
+7430,MySQL
+7431,shotgun
+7436,networking
+7438,OSI Model
+7441,Ixia
+7443,Python
+7444,Linux
+7446,VM
+7447,Excellent written and oral communication skills
+7460,Selenium
+7461,modifications
+7462,configuration
+7476,Servlets
+7480,replication
+7487,Templates
+7489,persistence
+7492,SCSS
+7495,TypeScript
+7508,deliverables
+7523,new hires
+7525,renewals
+7537,NetApp
+7540,presentations
+7541,credibility
+7544,credibility
+7547,demos
+7551,ISA
+7557,ISA
+7560,geography
+7563,rollout
+7566,presentations
+7570,ISO
+7571,COBIT
+7574,CISSP
+7575,CISM
+7577,underwriting
+7579,Selenium
+7580,Cucumber
+7581,Dependency management
+7582,Maven
+7583,Gradle
+7584,NPM
+7585,Nexus
+7586,Artifactory
+7587,AWS
+7588,Jenkins
+7589,Docker
+7590,GIT
+7591,SVN
+7592,TDD
+7593,BDD
+7598,Automation
+7601,architectures
+7612,modeling
+7618,Python
+7619,Scala
+7623,metadata
+7631,SQL Server
+7640,virtualization
+7649,analytics
+7651,MicroStrategy
+7652,Tableau
+7657,Python
+7658,KNIME
+7659,Alteryx
+7661,certification
+7664,Docker
+7667,agile methodologies
+7668,DevOps
+7672,automation
+7673,Interpersonal Skills
+7680,strong interpersonal skills
+7682,regulatory compliance
+7683,forensic analysis
+7688,Normalization
+7692,dashboards
+7693,filters
+7697,DLP
+7701,deployment
+7704,configuration
+7706,static analysis
+7712,Docker
+7714,PCI DSS
+7717,documentation
+7723,supervision
+7724,SIEM
+7725,Firewall
+7728,Strong Authentication
+7731,DLP
+7732,IAM
+7738,VMware
+7739,SQL Server
+7740,firewalls
+7743,encryption
+7745,protocols
+7747,SSH
+7748,FTP
+7749,DNS
+7750,DHCP
+7751,SMTP
+7752,SSL
+7754,Javascript
+7758,pipelines
+7759,YAML
+7761,B2B
+7762,B2C
+7771,architects
+7779,Javascript
+7782,SQL
+7784,Appium
+7785,Selenium
+7787,MongoDB
+7788,MySQL
+7789,Docker
+7796,reliability
+7799,agile methodologies
+7802,Firefox
+7804,emerging technologies
+7805,protocols
+7806,encryption
+7807,Rust
+7811,threat modeling
+7812,Firefox
+7814,emerging technologies
+7815,protocols
+7816,encryption
+7817,Rust
+7821,threat modeling
+7822,Firefox
+7824,emerging technologies
+7825,protocols
+7826,encryption
+7827,Rust
+7831,threat modeling
+7832,Firefox
+7834,emerging technologies
+7835,protocols
+7836,encryption
+7837,Rust
+7841,threat modeling
+7842,Firefox
+7844,emerging technologies
+7845,protocols
+7846,encryption
+7847,Rust
+7851,threat modeling
+7852,Firefox
+7854,emerging technologies
+7855,protocols
+7856,encryption
+7857,Rust
+7861,threat modeling
+7862,Firefox
+7864,emerging technologies
+7865,protocols
+7866,encryption
+7867,Rust
+7871,threat modeling
+7880,Python
+7885,DevOps
+7890,DevOps
+7891,QA
+7893,Selenium
+7895,regression
+7898,Python
+7899,Selenium WebDriver
+7900,Python
+7901,Protractor
+7902,JavaScript
+7906,JMeter
+7908,Automation
+7909,algorithms
+7912,documentation
+7918,databases
+7920,specifications
+7924,validation
+7925,macros
+7940,documentation
+7946,databases
+7948,specifications
+7952,validation
+7953,macros
+7968,documentation
+7974,databases
+7976,specifications
+7980,validation
+7981,macros
+8000,QA
+8006,JSON
+8007,XML
+8011,ERP systems
+8012,SAP
+8013,SuccessFactors
+8014,Ariba
+8015,Fieldglass
+8016,Salesforce
+8025,data analytics
+8026,business insights
+8027,deliverables
+8046,Redis
+8047,RabbitMQ
+8048,Spark
+8052,Cassandra
+8056,JUnit
+8058,Selenium
+8061,Docker
+8070,JIRA
+8071,Confluence
+8072,Bamboo
+8073,BitBucket
+8074,protocols
+8075,SNMP
+8076,TCP
+8077,UDP
+8082,Netflow
+8083,Logstash
+8084,metrics
+8097,Python
+8098,SQL
+8099,Oracle
+8100,MS SQL Server
+8101,MySQL
+8102,PostgreSQL
+8103,MongoDB
+8104,Cassandra
+8105,Redis
+8106,Hadoop
+8107,Spark
+8108,HBase
+8109,Netezza
+8110,Teradata
+8111,Tableau
+8113,MicroStrategy
+8120,SQL
+8127,SQL
+8134,SQL
+8137,javascript
+8138,CSS
+8147,SQL
+8157,Hyperion
+8162,SQL Server
+8163,RDBMS
+8167,maturity
+8169,clarity
+8176,scalability
+8178,Python
+8182,coding
+8183,rapid prototyping
+8184,debugging
+8201,Javascript
+8202,Typescript
+8203,CSS
+8206,revision
+8207,Work ethic
+8213,ExpressJS
+8215,SQL
+8216,NoSQL
+8220,ML
+8222,ML
+8225,designing
+8230,data modeling
+8234,AWS
+8242,API development
+8246,JavaScript
+8249,coding standards
+8250,regression testing
+8255,AWS
+8256,reliability
+8257,scalability
+8261,reliability
+8264,Containers
+8267,AWS
+8270,GoLang
+8271,Python
+8272,PHP
+8274,AWS
+8277,PaaS
+8278,SaaS
+8279,algorithms
+8280,optimization
+8281,clarity
+8283,SQL
+8284,NoSQL
+8293,reliability
+8297,agile methodologies
+8300,continuous integration
+8301,CI
+8302,tooling
+8307,Node
+8308,yarn
+8322,CSS
+8328,Git
+8330,Scrum
+8332,AngularJS
+8341,substation design
+8345,AWS
+8348,DevOps
+8354,cloud computing
+8355,DevOps
+8356,Linux
+8357,admin
+8358,troubleshooting
+8359,Python
+8360,Bash
+8362,TCP
+8363,UDP
+8369,Git
+8370,Jenkins
+8375,workflow software
+8378,Jenkins
+8396,Typescript
+8397,HTML
+8398,CSS
+8399,Sass
+8403,Yarn
+8412,CMS
+8431,documentation
+8435,API development
+8436,integrations
+8439,Agile Scrum
+8441,Strong interpersonal skills
+8442,mentoring
+8444,SAP
+8449,backend
+8452,mentorship
+8453,coding
+8455,alignment
+8459,AWS
+8460,GCP
+8463,Ruby
+8464,Rails
+8466,Golang
+8472,Rails
+8476,deployment
+8478,humility
+8481,Ruby
+8482,Rails
+8484,Golang
+8490,Rails
+8494,deployment
+8496,humility
+8503,conceptual design
+8515,JavaScript
+8516,TypeScript
+8520,Node
+8521,JS
+8523,object modelling
+8527,XML
+8528,JSON
+8529,protocols
+8532,SSL
+8535,OAuth
+8537,STS
+8550,integrations
+8561,analytics
+8573,programmers
+8582,Typescript
+8583,Javascript
+8593,Ruby
+8595,speaking engagements
+8596,blogs
+8599,XP
+8600,Scrum
+8601,Kanban
+8605,AWS
+8606,Azure
+8608,Docker
+8609,software consulting
+8610,ideation
+8611,deployment
+8619,TDD
+8620,continuous integration
+8627,Clojure
+8628,Scala
+8629,AWS
+8630,Docker
+8632,presentations
+8634,commitments
+8635,oversight
+8638,mentorship
+8639,gasification
+8646,presentations
+8654,piloting
+8668,APIs
+8675,Designing
+8678,Coding
+8679,APIs
+8696,Python
+8700,optimization
+8701,queries
+8703,JavaScript
+8704,XML
+8706,jQuery
+8707,JavaScript frameworks
+8712,databases
+8716,Git
+8719,Strong analytical skills
+8726,coding standards
+8728,automation
+8730,Python
+8732,JavaScript
+8733,XML
+8735,jQuery
+8736,JavaScript
+8739,SQL database design
+8740,optimization
+8741,queries
+8742,MVC
+8743,Git
+8744,Jira
+8746,GC
+8747,AWS
+8748,Azure
+8754,responsiveness
+8755,TDD
+8757,coding standards
+8760,JavaScript
+8761,XML
+8763,jQuery
+8764,JavaScript
+8767,SQL database design
+8768,optimization
+8769,queries
+8770,MVC
+8771,Git
+8772,Jira
+8774,GC
+8775,AWS
+8776,Azure
+8782,responsiveness
+8783,TDD
+8785,coding standards
+8787,SME
+8790,Python
+8792,JavaScript
+8793,XML
+8795,jQuery
+8796,JavaScript
+8800,SQL database design
+8801,optimization
+8802,MVC
+8803,Git
+8804,Jira
+8806,GC
+8807,AWS
+8808,Azure
+8811,object oriented design
+8812,optimization
+8814,PostgreSQL
+8816,Docker
+8818,quality assurance
+8819,coding standards
+8823,resellers
+8824,frameworks
+8827,Python
+8829,JavaScript
+8830,XML
+8832,jQuery
+8833,JavaScript
+8836,SQL database design
+8837,optimization
+8838,queries
+8839,MVC
+8840,Git
+8841,Jira
+8842,Docker
+8845,GC
+8846,AWS
+8847,Azure
+8849,quality assurance
+8850,coding standards
+8854,resellers
+8855,frameworks
+8858,Python
+8860,JavaScript
+8861,XML
+8863,jQuery
+8864,JavaScript
+8867,SQL database design
+8868,optimization
+8869,queries
+8870,MVC
+8871,Git
+8872,Jira
+8873,Docker
+8876,GC
+8877,AWS
+8878,Azure
+8882,containers
+8886,scalability
+8896,documentation
+8897,workshops
+8901,containers
+8906,configuration management
+8929,Docker
+8934,IAM
+8940,scalability
+8952,Jenkins
+8957,Apache Kafka
+8959,frameworks
+8960,Spark
+8967,optimization
+8968,troubleshooting
+8973,GitHub
+8974,SVN
+8976,Microsoft SQL
+8977,JavaScript
+8991,mentor
+8999,JavaScript
+9003,Oracle
+9004,DB2
+9005,Teradata
+9016,JUnit
+9017,Maven
+9020,REST API
+9022,Message Queue
+9023,Redis
+9024,XML
+9025,RDBMS
+9026,NoSql
+9027,MySQL
+9028,MSSQL
+9029,MongoDB
+9031,emerging technologies
+9033,DevOps
+9038,HTML
+9043,SOA
+9044,microservices
+9051,Redis
+9053,RDBMS
+9054,NoSql
+9055,MySQL
+9056,PostgreSQL
+9057,MSSQL
+9058,MongoDB
+9059,Git
+9060,SVN
+9062,DevOps
+9072,job scheduling
+9073,AWS
+9074,Azure
+9085,job scheduling
+9086,AWS
+9087,Azure
+9092,firmware
+9094,documentation
+9097,embedded systems
+9103,Python
+9105,bug tracking
+9106,Git
+9107,Jira
+9108,technical documentation
+9113,WiFi
+9114,Bluetooth
+9115,Zigbee
+9117,Node
+9118,Javascript
+9121,FreeRTOS
+9122,Linux
+9133,SPA
+9135,Angular
+9138,Javascript
+9139,Typescript
+9142,algorithms
+9153,full SDLC
+9156,QA
+9157,algorithms
+9160,coding standards
+9166,educational workshops
+9175,a quick learner
+9179,Scrum Master
+9185,SQL
+9186,NoSQL
+9188,Apache Kafka
+9190,Containers
+9196,GitHub
+9197,BitBucket
+9203,reliability
+9213,tooling
+9215,containers
+9218,scalability
+9219,reliability
+9230,educational workshops
+9241,JavaScript
+9249,Nodejs
+9251,Flux
+9253,algorithms
+9258,NPM
+9261,Microservices
+9263,databases
+9264,NoSQL
+9265,MySQL
+9269,AWS
+9270,Heroku
+9276,S3
+9278,Containers
+9280,NodeJs
+9283,microservices
+9285,Docker
+9288,networking
+9291,Docker
+9296,Spark
+9298,SQL
+9302,python
+9304,Spark
+9305,Impala
+9306,Hive
+9311,teamwork
+9313,TDD
+9333,ad hoc reporting
+9334,analytics
+9345,quality assurance
+9355,Oracle
+9367,integrations
+9369,SOPs
+9371,specifications
+9374,software documentation
+9386,consultants
+9392,JEE
+9393,JBoss
+9394,JSF
+9396,PowerShell
+9401,relational databases
+9402,SQL
+9403,SQL Server Integration Services
+9404,SSIS
+9405,SSRS
+9412,prioritization
+9416,TDD
+9422,RCA
+9429,Hibernate
+9430,Oracle
+9432,Algorithms
+9433,Problem solving
+9435,Excellent interpersonal skills
+9442,RDBMS
+9443,data modelling
+9444,Perforce
+9453,APIs
+9454,ETL
+9455,frameworks
+9463,Sybase
+9470,automation
+9474,CSS2
+9480,AWS
+9483,Docker
+9487,Mentor
+9490,Python
+9494,SQL
+9500,databases
+9504,troubleshooting
+9506,PHP
+9507,Mysql
+9508,Javascript
+9510,SQL
+9511,algorithms
+9512,tuning
+9520,Python
+9521,JavaScript
+9524,Curiosity
+9527,Sonar
+9533,SaaS
+9536,Strong business acumen
+9544,conceptual design
+9545,supervision
+9547,mentor
+9558,DevOps
+9559,tooling
+9564,automation
+9568,DevOps
+9574,tooling
+9577,EC2
+9578,IAM
+9581,shell scripting
+9582,Linux
+9585,Git
+9586,Docker
+9587,Python
+9589,Jenkins
+9590,coding standards
+9594,Microservices
+9595,Java Swing
+9596,Angular
+9598,CSS3
+9601,Cucumber
+9602,Junit
+9603,Mockito
+9604,Karma
+9605,Object Oriented Design
+9606,OOD
+9607,OOP
+9608,Unified Modeling Language
+9609,UML
+9615,Debuggers
+9617,Xray
+9624,functional specifications
+9640,SOA
+9643,Selenium
+9645,Cucumber
+9646,Scala
+9650,Dedication
+9653,Java software development
+9654,AWS
+9656,Splunk
+9661,Golang
+9665,OAuth
+9667,SSO
+9668,Authentication
+9669,AWS
+9670,Docker
+9674,MySQL
+9676,MongoDB
+9677,SQL
+9683,eCommerce solutions
+9687,ATG
+9688,Java EE
+9689,ATG
+9690,J2EE
+9691,EJB
+9692,JSP
+9693,Oracle
+9694,SQL
+9695,HTML
+9696,XML
+9697,UML
+9701,Python
+9704,NLP
+9705,Transformer
+9706,liaison
+9710,frameworks
+9715,Python
+9728,Python
+9741,SQL
+9743,UX
+9748,prioritizing
+9752,UI
+9759,scalability
+9760,reliability
+9765,CSS
+9767,object oriented design
+9769,functional programming
+9770,NodeJS
+9774,workshops
+9776,JVM
+9777,Scala
+9784,Javascript
+9785,Typescript
+9788,agile methodologies
+9793,suppliers
+9794,perimeter security
+9808,IPv4
+9826,JavaScript
+9830,demos
+9831,automation
+9838,quality assurance
+9839,validation
+9849,GCP
+9861,NodeJS
+9862,containerization
+9863,deployment
+9864,Linux
+9865,Docker
+9867,AWS
+9868,Azure
+9876,penetration testing
+9880,Static Analysis
+9884,Accessibility
+9886,Python
+9889,Linux
+9902,SDL
+9904,reliability
+9906,oversight
+9908,automation
+9909,containers
+9918,Docker
+9920,JSON
+9921,YAML
+9922,bash
+9923,Python
+9925,networking
+9928,resiliency
+9931,mentor
+9940,mentorship
+9943,promotions
+9944,terminations
+9950,usability
+9956,databases
+9957,SQL
+9958,databases
+9960,Python
+9961,Perl
+9963,AWS
+9964,Azure
+9965,GCP
+9966,Ansible
+9967,Docker
+9970,tooling
+9987,tooling
+9990,deliverables
+9992,KPIs
+9998,AWS
+10000,PaaS
+10003,Docker
+10009,SQL Server
+10012,NoSQL
+10016,instrumentation
+10022,Puppet
+10028,IaaS
+10034,Git
+10036,orchestration
+10037,Docker
+10040,automation
+10041,PowerShell
+10043,instrumentation
+10044,pipelines
+10047,Fortify
+10048,SonarQube
+10050,scalability
+10055,encryption
+10060,Qualys
+10061,encryption
+10062,IPsec
+10064,routing
+10065,firewalls
+10068,continuous integration
+10069,DevOps
+10076,relational databases
+10078,MySQL
+10079,PostgreSQL
+10080,GoLang
+10081,Python
+10095,Problem Solving
+10101,humility
+10110,mentorship
+10117,deployment
+10123,metrics
+10124,threat modeling
+10127,outreach
+10129,teamwork skills
+10138,databases
+10139,remediation
+10143,specifications
+10144,penetration testing
+10145,Node
+10146,Ruby
+10150,javascript
+10151,ruby
+10152,python
+10153,threat modeling
+10154,secure coding
+10155,authentication
+10156,cryptography
+10157,vulnerability assessment
+10163,utilities
+10169,algorithms
+10170,Python
+10185,DevOps
+10197,Mentor
+10206,Karma
+10207,NUnit
+10208,SQL
+10209,databases
+10210,SQL Server
+10211,MySQL
+10213,MongoDB
+10217,Git
+10218,AWS
+10219,Azure
+10222,QA
+10225,Android SDK
+10229,analytics
+10230,ML
+10234,continuous integration
+10237,Azure
+10238,GCP
+10240,Python
+10241,SQL
+10243,Docker
+10250,DevOps
+10270,QA
+10273,Android SDK
+10276,QA
+10281,Scrum
+10288,Google Analytics
+10291,AWS
+10293,SFTP
+10294,REST API
+10296,user documentation
+10300,SQL
+10301,performance tuning
+10303,APIs
+10312,Exceptional communicator
+10317,reliability
+10326,Redis
+10327,ElasticSearch
+10328,Cassandra
+10333,Scala
+10347,documentation
+10348,deployment
+10350,Salesforce
+10354,Salesforce
+10357,Apex
+10359,Apex
+10366,APIs
+10370,Microservices
+10372,scalability
+10374,Elixir
+10375,Ruby
+10376,Erlang
+10379,OAuth
+10380,Functional programming
+10382,AWS
+10384,GCP
+10388,Elixir
+10396,scalability
+10399,Azure
+10400,GCP
+10405,Apollo
+10408,Twilio
+10411,assurance
+10415,middleware
+10433,SFDC
+10436,Eloqua
+10437,Oracle
+10438,SOA
+10439,Javascript
+10440,Bootstrap
+10442,dashboards
+10453,Salesforce
+10462,Splunk
+10463,SolarWinds
+10472,REST API
+10473,JSON
+10474,XML
+10478,Waterfall
+10482,Apex
+10486,Mentor
+10489,maintainability
+10497,messaging
+10498,Microservices
+10504,Microservices
+10507,Scrum
+10508,Kanban
+10511,DevOps
+10513,Docker
+10517,Mentor
+10520,maintainability
+10528,messaging
+10529,Microservices
+10535,Microservices
+10538,Scrum
+10539,Kanban
+10542,DevOps
+10544,Docker
+10548,Mentor
+10551,maintainability
+10559,messaging
+10560,Microservices
+10566,Microservices
+10569,Scrum
+10570,Kanban
+10573,DevOps
+10575,Docker
+10579,Mentor
+10582,maintainability
+10590,messaging
+10591,Microservices
+10597,Microservices
+10600,Scrum
+10601,Kanban
+10604,DevOps
+10606,Docker
+10610,Mentor
+10613,maintainability
+10621,messaging
+10622,Microservices
+10628,Microservices
+10631,Scrum
+10632,Kanban
+10635,DevOps
+10637,Docker
+10641,Mentor
+10644,maintainability
+10652,messaging
+10653,Microservices
+10659,Microservices
+10662,Scrum
+10663,Kanban
+10666,DevOps
+10668,Docker
+10672,Mentor
+10675,maintainability
+10683,messaging
+10684,Microservices
+10690,Microservices
+10693,Scrum
+10694,Kanban
+10697,DevOps
+10699,Docker
+10703,Mentor
+10705,deadlines
+10711,sprints
+10712,Jira
+10718,GitHub
+10719,Agile project management
+10731,metrics
+10737,AWS
+10740,puppet
+10742,metrics
+10745,Linux
+10749,Gitlab
+10750,application servers
+10752,configuration management
+10764,Python
+10765,databases
+10766,SQL
+10768,MySql
+10772,deadlines
+10773,PyQt
+10779,automation
+10794,automation
+10804,NoSQL
+10812,GCP
+10813,Azure
+10815,Ruby
+10816,Python
+10817,SDLC
+10821,Python
+10822,JavaScript
+10826,Microstrategy
+10827,Tableau
+10829,designing
+10834,Python
+10837,Docker
+10840,admin
+10849,GCP
+10850,Azure
+10852,Ruby
+10853,Python
+10854,SDLC
+10858,Python
+10859,JavaScript
+10863,Microstrategy
+10864,Tableau
+10866,designing
+10871,Python
+10874,Docker
+10877,admin
+10888,Architects
+10889,QA
+10892,DevOps
+10893,collaborative work
+10897,JavaScript
+10899,queries
+10900,stored procedures
+10903,optimization
+10908,GitHub
+10909,automation tools
+10910,Appium
+10915,Microsoft Certified Professional
+10918,Modeling
+10919,ETL
+10922,Git
+10924,Jenkins
+10930,Oracle
+10934,KPIs
+10941,organizational skills
+10946,specifications
+10961,timelines
+10962,SOPs
+10964,mentoring
+10965,BSc
+10966,MSc
+10967,Biostatistics
+10968,SAS
+10980,timelines
+10981,SOPs
+10983,mentoring
+10984,BSc
+10985,MSc
+10986,Biostatistics
+10987,SAS
+10999,timelines
+11000,SOPs
+11002,mentoring
+11003,BSc
+11004,MSc
+11005,Biostatistics
+11006,SAS
+11021,routing
+11023,kernel
+11026,containerization
+11027,docker
+11031,DNS
+11032,DHCP
+11033,ARP
+11037,tuning
+11039,firewalls
+11054,routing
+11061,DNS
+11062,DHCP
+11063,routing protocols
+11065,VPN
+11066,IPv4
+11070,tuning
+11080,API
+11084,OAuth
+11088,Ruby
+11089,Rails
+11095,networking
+11100,Ruby
+11101,Python
+11103,VLAN
+11105,BGP
+11106,IPv6
+11107,automation testing
+11108,scalability
+11109,Ixia
+11113,Docker
+11114,ESXi
+11115,Xen
+11117,AWS
+11118,Azure
+11119,Jenkins
+11120,gitlab
+11121,gerrit
+11122,JIRA
+11127,recruiting
+11129,backend development
+11130,APIs
+11132,Rust
+11133,coding experience
+11134,Javascript
+11135,Elixir
+11136,Rust
+11137,reliability
+11143,algorithms
+11145,quality assurance
+11147,Frontend
+11149,architectural patterns
+11158,SCM
+11159,Git
+11160,MsSQL
+11164,OOP
+11165,SOA
+11173,Git
+11177,Docker
+11181,Elasticsearch
+11182,Kibana
+11186,MongoDB
+11196,TypeScript
+11198,Elasticsearch
+11203,architects
+11204,documentation
+11212,Relational Databases
+11213,RDBMS
+11214,SQL
+11216,Agile Software Development
+11223,test scripts
+11228,architects
+11230,Python
+11231,Perl
+11232,SQL
+11239,Salesforce
+11241,salesforce
+11242,salesforce
+11247,software development methodologies
+11250,Interoperability
+11251,Assurance
+11253,budgets
+11263,reliability
+11281,risk assessments
+11286,Lauterbach
+11301,wireframes
+11302,workflow diagrams
+11309,interfaces
+11318,coding standards
+11320,grooming
+11327,documentation
+11328,Documentation
+11336,supervision
+11337,Mentor
+11342,OOD
+11345,resilience
+11346,maintainability
+11350,CSS3
+11353,TypeScript
+11354,Bootstrap
+11364,Invision
+11365,Sigma
+11366,Storyboard
+11371,jQuery
+11374,JIRA
+11376,SCM
+11379,algorithms
+11383,Javascript
+11393,Python
+11400,Jira
+11402,Robot Framework
+11405,automation
+11408,signal generators
+11418,ServiceNow
+11422,installing
+11427,integrations
+11432,ServiceNow
+11435,documentation
+11436,coding standards
+11439,CMS
+11442,ServiceNow
+11443,JavaScript
+11444,HTML
+11445,XML
+11446,SQL
+11447,CSS
+11448,UI
+11450,Configuration
+11453,ServiceNow
+11462,Javascript
+11465,AJAX
+11466,JavaScript
+11467,ServiceNow
+11469,DOM
+11472,Configuration Management
+11476,ServiceNow
+11478,workflow
+11479,AJAX
+11480,CSS
+11481,networking
+11483,firewalls
+11490,Orchestration
+11493,JavaScript
+11494,Python
+11495,Perl
+11497,relational databases
+11499,ITSM
+11500,ITIL
+11501,CMDB
+11505,requirement gathering
+11510,Core Java
+11511,J2EE
+11514,UI
+11516,UI
+11517,Javascript frameworks
+11520,UI
+11526,tuning
+11528,JavaScript
+11529,troubleshooting
+11530,SQL
+11532,REST API
+11537,onboarding
+11541,CSRs
+11542,reliability
+11543,scalability
+11548,automation
+11560,deployment
+11565,Python
+11572,sprint planning
+11573,continuous integration
+11574,deployment
+11580,Ruby
+11583,JavaScript
+11584,XML
+11585,jQuery
+11586,JavaScript frameworks
+11588,databases
+11590,MySQL
+11591,MSSQL
+11592,Oracle
+11593,MongoDB
+11600,SVN
+11601,Git
+11616,integrations
+11617,ops
+11619,coding
+11620,deployment
+11630,Agile development
+11632,scalability
+11638,embedded operating systems
+11640,Video Compression
+11641,Probability Theory
+11646,dashboards
+11647,strategic insights
+11662,documentation
+11663,APIs
+11668,Python
+11669,JavaScript
+11670,TypeScript
+11672,integrations
+11674,forums
+11682,APIs
+11689,UI
+11691,JavaScript
+11692,CSS
+11693,HTML
+11696,syntax
+11702,aesthetics
+11709,TypeScript
+11716,responsiveness
+11717,deployment
+11722,Python
+11723,Ruby
+11724,JavaScript
+11733,Jira
+11734,GitHub
+11735,scheduling
+11741,TypeScript
+11742,Node
+11744,MongoDB
+11745,AWS
+11749,deliverables
+11750,milestones
+11751,scalability
+11752,maintainability
+11754,retrospectives
+11759,announcements
+11769,rapid prototyping
+11772,Maya
+11773,UDK
+11784,deliverables
+11785,milestones
+11786,scalability
+11787,maintainability
+11789,retrospectives
+11793,announcements
+11804,deployment
+11805,TypeScript
+11812,Typescript
+11814,scalability
+11815,accessibility
+11817,deployment
+11820,Refactoring
+11822,tooling
+11823,automation
+11825,JavaScript
+11826,TypeScript
+11828,deployment strategies
+11833,XSS
+11836,SaaS
+11838,announcements
+11846,deliverables
+11847,milestones
+11848,scalability
+11849,maintainability
+11851,retrospectives
+11855,announcements
+11869,S3
+11875,Python
+11876,SQL
+11877,Apache Spark
+11879,AWS
+11892,APIs
+11893,test automation
+11898,SQL
+11899,NoSQL
+11903,Redis
+11904,computer networking
+11905,protocols
+11906,Scala
+11909,frameworks
+11911,normalization
+11912,sampling
+11913,linear regression
+11926,APIs
+11930,deployment
+11933,TypeScript
+11934,Node
+11937,MongoDB
+11938,AWS
+11940,Typescript
+11941,Node
+11943,MongoDB
+11947,Docker
+11951,announcements
+11956,Scala
+11959,frameworks
+11961,normalization
+11962,sampling
+11963,linear regression
+11981,deployment
+11982,TypeScript
+11989,Typescript
+11991,scalability
+11992,accessibility
+11994,deployment
+11998,JavaScript
+11999,TypeScript
+12001,deployment strategies
+12003,Angular
+12006,announcements
+12016,deployment
+12019,TypeScript
+12020,Node
+12023,MongoDB
+12024,AWS
+12026,Typescript
+12027,Node
+12029,MongoDB
+12032,Typescript
+12038,APIs
+12039,Angular
+12043,announcements
+12052,Python
+12053,JavaScript
+12054,Golang
+12062,Typescript
+12063,Django
+12070,Python
+12071,JavaScript
+12072,Golang
+12083,Python
+12084,JavaScript
+12085,Golang
+12096,Python
+12097,JavaScript
+12098,Golang
+12125,frameworks
+12128,tooling
+12129,automation
+12132,coding
+12133,scripting
+12139,containers
+12146,PostgreSQL
+12147,Redis
+12157,AWS
+12158,Azure
+12159,GCP
+12162,troubleshooting
+12173,OOP
+12178,SQL
+12179,databases
+12180,Golang
+12182,JavaScript
+12183,TypeScript
+12184,Angular
+12185,JSP
+12187,AWS
+12189,Docker
+12192,Linux
+12214,frameworks
+12217,tooling
+12218,automation
+12221,coding
+12222,scripting
+12228,containers
+12235,PostgreSQL
+12236,Redis
+12246,AWS
+12247,Azure
+12248,GCP
+12251,troubleshooting
+12276,frameworks
+12280,tooling
+12281,automation
+12284,coding
+12285,scripting
+12289,microservices
+12291,containers
+12298,PostgreSQL
+12299,Redis
+12308,AWS
+12309,Azure
+12310,GCP
+12313,troubleshooting
+12339,frameworks
+12343,tooling
+12344,automation
+12347,coding
+12348,scripting
+12352,microservices
+12354,containers
+12361,PostgreSQL
+12362,Redis
+12371,AWS
+12372,Azure
+12373,GCP
+12376,troubleshooting
+12387,strategic roadmaps
+12389,deadlines
+12390,deliverables
+12392,Mentor
+12393,coding standards
+12402,Golang
+12403,Ruby
+12404,Python
+12405,Linux
+12416,strategic roadmaps
+12418,deadlines
+12419,deliverables
+12421,Mentor
+12422,coding standards
+12431,Golang
+12432,Ruby
+12433,Python
+12434,Linux
+12445,strategic roadmaps
+12447,deadlines
+12448,deliverables
+12450,Mentor
+12451,coding standards
+12460,Golang
+12461,Ruby
+12462,Python
+12463,Linux
+12474,strategic roadmaps
+12476,deadlines
+12477,deliverables
+12479,Mentor
+12480,coding standards
+12489,Golang
+12490,Ruby
+12491,Python
+12492,Linux
+12503,strategic roadmaps
+12505,deadlines
+12506,deliverables
+12508,Mentor
+12509,coding standards
+12518,Golang
+12519,Ruby
+12520,Python
+12521,Linux
+12532,strategic roadmaps
+12534,deadlines
+12535,deliverables
+12537,Mentor
+12538,coding standards
+12547,Golang
+12548,Ruby
+12549,Python
+12550,Linux
+12561,strategic roadmaps
+12563,deadlines
+12564,deliverables
+12566,Mentor
+12567,coding standards
+12576,Golang
+12577,Ruby
+12578,Python
+12579,Linux
+12584,Affinity
+12586,integrations
+12589,conception
+12590,deployment
+12591,deployment
+12596,wireframes
+12599,APIs
+12601,Node
+12602,JS
+12603,Angular
+12614,deployment
+12615,documentation
+12616,API development
+12618,deadlines
+12619,strong organizational skills
+12620,professionalism
+12625,APIs
+12627,Linux
+12629,troubleshooting
+12631,Python
+12637,protocols
+12638,agile software development
+12639,Git
+12642,MATLAB
+12643,LabView
+12644,GUI
+12645,Docker
+12650,authentication
+12651,encryption
+12657,protocols
+12659,oscilloscope
+12660,spectrum analyzer
+12661,signal generators
+12663,Linux
+12666,Python
+12667,Affinity
+12678,Cloud Computing
+12680,emerging technologies
+12683,designing
+12687,TOGAF
+12692,analytics
+12695,cloud computing
+12696,Agile methodologies
+12701,wireframes
+12705,test scenarios
+12707,SDLC
+12708,presentations
+12712,Entity Framework
+12717,lending
+12729,Affinity
+12733,recruiting
+12734,Transparency
+12735,Agility
+12740,middleware
+12743,deployment
+12744,documentation
+12745,API development
+12747,deadlines
+12748,strong organizational skills
+12749,professionalism
+12753,APIs
+12755,scalability
+12757,usability
+12765,frameworks
+12774,Linux
+12778,Ethernet
+12779,USB
+12780,PCIe
+12784,agile methodologies
+12785,Git
+12790,frameworks
+12792,Meteor
+12793,MongoDB
+12795,Python
+12799,SSL
+12801,authentication
+12802,encryption
+12809,Affinity
+12814,automation
+12819,constructive feedback
+12822,MySQL
+12823,SQL Server
+12824,Azure
+12825,AWS
+12826,Agile development
+12827,Scrum
+12828,Kanban
+12829,Jira
+12831,deployment
+12832,Bamboo
+12833,Jenkins
+12834,Git
+12841,DevOps
+12844,POS
+12846,Ruby
+12847,Rails
+12849,Affinity
+12850,Affinity
+12853,recruiting
+12854,Transparency
+12855,Agility
+12857,project coordination
+12866,Loan Origination
+12870,MVC
+12871,WCF
+12874,Bootstrap
+12883,upgrades
+12886,deadlines
+12889,ADO
+12890,MVC
+12891,WCF
+12892,LINQ
+12893,WEB API
+12894,JavaScript
+12895,jQuery
+12896,BootStrap
+12898,Accessibility
+12900,Affinity
+12904,recruiting
+12905,Transparency
+12906,Agility
+12907,Affinity
+12908,QA
+12910,corrective actions
+12918,documentation
+12924,JMeter
+12925,Fiddler
+12927,Microsoft SQL
+12930,BDD
+12932,exploratory testing
+12933,user acceptance testing
+12937,fiddler
+12938,MongoDb
+12939,MSSQL
+12940,Continuous Integration
+12943,problem solving
+12947,automation
+12964,QA
+12967,SOA
+12973,wireframes
+12977,test scenarios
+12979,SDLC
+12980,presentations
+12990,CSS
+12992,JavaScript
+12994,InVision
+13001,lending
+13002,Android SDK
+13007,OpenSSL
+13008,networking
+13012,Python
+13013,Scala
+13025,specifications
+13030,Linux
+13032,Python
+13035,SQL
+13039,dashboards
+13040,data visualization
+13042,ReactJS
+13050,Python
+13051,PowerShell
+13052,Android SDK
+13055,OpenSSL
+13056,networking
+13059,designing
+13061,automation
+13067,optimization
+13069,networking
+13070,protocols
+13072,Linux
+13075,subnetting
+13077,firewalls
+13080,Ansible
+13084,OpenVPN
+13085,IPSec
+13086,FreeRadius
+13087,Bind
+13095,Quantitative Finance
+13098,Object Oriented Programming
+13100,User Interface design
+13104,Strong Work Ethic
+13109,conversions
+13112,deliverables
+13113,metrics
+13116,mentoring
+13126,Oracle
+13130,software configuration management
+13135,Junit
+13141,GitHub
+13142,Agile Methodology
+13143,Apache Maven
+13144,Jenkins
+13146,JCR
+13148,Kibana
+13149,PHP
+13157,CSS
+13160,PHPUnit
+13163,coding standards
+13166,Logical thinker
+13167,Fast learner
+13174,automation
+13175,data wrangling
+13177,presentations
+13181,queries
+13197,terminology
+13203,ISTQB
+13209,constructive feedback
+13217,Javascript
+13218,user documentation
+13221,advocacy
+13226,TypeScript
+13234,continuous integration
+13236,TeamCity
+13237,Octopus
+13241,highway geometric design
+13251,deliverables
+13259,specifications
+13265,SOPs
+13276,simulations
+13283,Optimisation
+13284,Reinforcement Learning
+13285,Python
+13289,scalability
+13293,estimation
+13294,sprint planning
+13295,documentation
+13309,TypeScript
+13312,Web API
+13313,OOP
+13315,Entity Framework
+13320,analyzing
+13323,Strong interpersonal skills
+13325,Entity Framework
+13327,AWS
+13329,LMS
+13330,HTML
+13331,CSS
+13332,JavaScript
+13333,TypeScript
+13334,SQL Server
+13346,Scrum
+13356,SQL
+13357,Python
+13358,SQL
+13364,TAM
+13369,AWS
+13370,Azure
+13371,GCP
+13420,ITIL
+13431,alignment
+13432,DoD
+13436,deployment
+13438,prototyping
+13442,Computer simulation
+13445,protocols
+13449,protocols
+13456,JavaScript
+13457,CSS
+13458,HTML
+13460,configuration
+13467,deployment
+13470,NoSQL
+13481,GCP
+13482,AWS
+13486,design specifications
+13494,QA
+13498,networking
+13501,SSL
+13502,EAP
+13504,Radius
+13508,multithreading
+13511,IPC
+13515,Linux
+13516,debugging
+13517,creative problem solving
+13518,secure coding
+13532,QA
+13536,problem solving
+13539,deadlines
+13542,Installing
+13543,configuring
+13547,corrective actions
+13550,documentation
+13552,Linux
+13553,Centos
+13554,RedHat
+13559,NFS
+13560,DFS
+13561,SMB
+13563,Virtualization
+13564,Containerization
+13566,Dell
+13568,reliability
+13574,Ansible
+13576,Ruby
+13577,Scala
+13578,Python
+13579,Bash
+13584,operational efficiency
+13586,Git
+13587,GitLab
+13588,Jenkins
+13594,accessibility
+13596,conceptual design
+13603,SDLC
+13604,technical documentation
+13607,JavaScript
+13609,CSS
+13610,DOM
+13614,Flux
+13618,ECMAScript
+13628,NPM
+13630,benchmarking
+13631,optimization
+13634,Git
+13635,SVN
+13644,packaging
+13649,i18n
+13651,good communicator
+13652,facilitator
+13659,Forecasting
+13661,operational efficiency
+13664,validation
+13665,experimentation
+13670,linear algebra
+13673,regression
+13675,clustering
+13677,experimentation
+13678,hypothesis testing
+13679,Python
+13681,data manipulation
+13682,SQL
+13683,Spark
+13687,Curiosity
+13688,Scrum master
+13695,QT
+13697,Python
+13700,IP networking
+13702,roadmap
+13704,Javascript
+13708,Jenkins
+13709,AWS
+13719,scalability
+13720,maintainability
+13721,coding
+13726,mentorship
+13731,frameworks
+13733,Angular
+13739,Python
+13741,JavaScript
+13745,KPIs
+13748,ROI
+13759,messaging
+13763,tournaments
+13766,metrics
+13769,blogs
+13775,Angular
+13778,CSS
+13784,Azure
+13788,Angular
+13789,TypeScript
+13791,SQL
+13792,Spark
+13794,coding
+13796,Interpersonal skills
+13802,analytics
+13814,tooling
+13815,Scala
+13816,Python
+13819,Scala
+13820,Python
+13831,Athena
+13839,SQL
+13842,deployment
+13846,operational excellence
+13847,AWS
+13852,AWS
+13853,reliability
+13858,reliability
+13861,algorithms
+13863,troubleshooting
+13872,replication
+13878,SQL
+13879,relational databases
+13881,frontend development
+13882,microservices
+13885,Api
+13886,Cassandra
+13887,PostgreSQL
+13888,MySQL
+13890,Jenkins
+13891,Git
+13892,Ansible
+13896,teamwork
+13901,MIS
+13902,SAP BW
+13903,SAP HANA
+13906,statistical modeling
+13907,Excel
+13908,PowerPoint
+13909,Skype
+13915,debugging
+13916,constructive feedback
+13922,object oriented design
+13923,Bluetooth
+13925,QNX
+13926,Linux
+13929,frameworks
+13934,Git
+13935,interpersonal skills
+13937,gdb
+13938,valgrind
+13941,debugging
+13942,constructive feedback
+13949,APIs
+13951,object oriented design
+13953,algorithms
+13954,USB
+13956,QNX
+13957,Linux
+13960,frameworks
+13968,Bluetooth
+13969,USB
+13971,gdb
+13974,Linux
+13978,interpersonal skills
+13983,reliability
+13984,APIs
+13985,Typescript
+13990,estimation
+13991,sprint planning
+13992,documentation
+14004,TypeScript
+14014,Strong interpersonal skills
+14018,accessibility
+14021,LMS
+14022,HTML
+14023,CSS
+14024,JavaScript
+14025,TypeScript
+14027,SQL Server
+14029,conception
+14032,VB
+14036,HTML
+14037,JavaScript
+14038,CSS
+14039,Bootstrap
+14041,AJAX
+14042,Grunt
+14043,Gulp
+14044,Bower
+14045,AngularJS
+14047,jQuery
+14049,Sass
+14050,Python
+14051,PHP
+14052,Ruby
+14053,JavaScript
+14054,MySQL
+14055,PostgreSQL
+14056,Oracle
+14059,Apache
+14060,Nginx
+14061,ISS
+14063,Ruby
+14064,Rails
+14066,CakePHP
+14069,deployment
+14072,specifications
+14074,Jira
+14075,GitLab
+14078,scalability
+14079,accessibility
+14084,JavaScript
+14086,HTML
+14087,CSS
+14088,Git
+14089,Angular
+14091,Typescript
+14094,AWS
+14095,NodeJS
+14100,qualification
+14107,regulatory audits
+14113,Microcontrollers
+14115,Python
+14117,validation
+14120,GIT
+14121,BITBUCKET
+14133,scalability
+14136,architectural plans
+14138,experimentation
+14139,Dedication
+14143,tooling
+14145,AWS
+14149,protocols
+14152,Spark
+14156,low latency
+14160,OOPs
+14164,JavaScript
+14165,jQuery
+14166,Microsoft SQL Server
+14169,Git
+14170,TFS
+14172,technical documentation
+14184,analytics
+14194,JavaScript
+14195,jQuery
+14196,HTML
+14198,Google Analytics
+14200,digital analytics
+14206,deliveries
+14209,coding languages
+14210,frameworks
+14220,coding
+14222,Strong organizational skills
+14225,Frameworks
+14227,Oracle
+14228,ORM
+14230,Hibernate
+14232,OAuth
+14233,IAM
+14234,GIT
+14235,Jira
+14242,networking
+14245,D3
+14246,SVG
+14247,WebGL
+14248,Typescript
+14250,interfaces
+14251,frontend
+14252,scalability
+14253,maintainability
+14258,frontend
+14260,JavaScript
+14261,D3
+14267,Startup
+14270,mastering
+14276,plugins
+14277,demos
+14279,Python
+14281,Good interpersonal skills
+14282,acoustics
+14287,verification
+14288,validation
+14304,cascade
+14317,verification
+14318,validation
+14321,styling
+14325,brainstorming
+14329,QA
+14331,HTML
+14332,CSS
+14334,Excel
+14335,interpersonal skills
+14337,Manufacture
+14344,coating
+14350,manufacture
+14356,assembly drawings
+14357,specifications
+14359,fixtures
+14373,modelling
+14375,CATIA V5
+14377,CPD
+14379,DFMA
+14382,DFMA
+14383,DFSS
+14393,Maths
+14394,Python
+14406,traceability
+14415,CMS
+14416,Sitecore
+14420,Apache
+14421,AWS
+14422,Azure
+14430,Data Warehousing
+14434,BODS
+14456,DevOps
+14459,Python
+14460,ruby
+14462,Linux
+14466,Documentation
+14474,databases
+14479,audits
+14483,specification
+14490,cybersecurity
+14493,configuration
+14499,accountability
+14501,AWS
+14502,Azure
+14503,GCP
+14504,VMWare
+14506,firewalls
+14510,FIM
+14513,IAM
+14517,SIEM
+14521,business acumen
+14522,emerging trends
+14526,Docker
+14530,empathy
+14531,JavaScript
+14534,CSS
+14541,strategic initiatives
+14548,connectors
+14554,protocols
+14556,DNS
+14559,firewalls
+14560,troubleshooting
+14563,AWS
+14564,Azure
+14565,GCP
+14584,endpoint security
+14586,SIEM
+14591,encryption
+14594,technical documentation
+14598,visualization
+14603,GCP
+14604,AWS
+14605,Python
+14606,DOM
+14611,PhantomJS
+14612,Selenium
+14613,CPA
+14618,Google Analytics
+14619,Adobe Analytics
+14623,Data Visualization
+14624,ETL
+14629,neural networks
+14630,anomaly detection
+14632,exploratory data analysis
+14636,approvals
+14639,Architects
+14644,MSc
+14651,Mentor
+14652,coding standards
+14654,deadlines
+14655,deliverables
+14660,Coding experience
+14664,coding
+14676,refactoring
+14680,MVC
+14681,SQL Server
+14682,Oracle
+14684,LINQ
+14686,MVC
+14688,SQL server
+14692,scripting
+14693,Continuous Integration
+14709,startups
+14712,roadmap
+14719,suppliers
+14720,UAT
+14727,MVC
+14728,Javascript
+14732,classic ASP
+14733,VBA
+14734,MS Office automation
+14736,SSIS
+14737,SSRS
+14738,IIS
+14742,documentation
+14743,sequence diagrams
+14757,automation
+14759,Jenkins
+14761,Bamboo
+14767,tooling
+14769,Nagios
+14771,Splunk
+14783,XDebug
+14784,PHPUnit
+14787,Git
+14793,XML
+14794,CSS
+14795,CSS3
+14797,Composer
+14800,testers
+14807,JUnit
+14808,VmWare
+14809,Docker
+14811,Elasticsearch
+14812,Logstash
+14813,Kibana
+14815,agile development
+14817,frameworks
+14831,Medication Therapy Management
+14832,MTM
+14833,pharmacists
+14837,pharmacists
+14839,pharmacists
+14847,MTM
+14857,pharmaceuticals
+14873,databases
+14874,OOPs
+14875,QA
+14879,QA
+14884,Strong analytical skills
+14887,JavaScript
+14897,AWS
+14898,Azure
+14899,GCP
+14902,CSS
+14903,jQuery
+14904,JavaScript
+14907,Typescript
+14909,GITHUB
+14910,Jenkins
+14915,SonarQube
+14920,Core Java
+14936,UI
+14940,algorithms
+14945,UX
+14947,HTML
+14948,IIS
+14949,SharePoint
+14952,SQL Server
+14956,documentation
+14963,MVC
+14968,jQuery
+14969,JavaScript
+14970,CSS
+14971,IIS
+14973,SQL
+14975,Web API
+14980,CSS3
+14981,jQuery
+14982,GIT
+14993,coding standards
+14995,Quick learner
+14999,TDD
+15008,Agile methodologies
+15011,frameworks
+15015,testers
+15017,good interpersonal skills
+15022,Ruby
+15023,Python
+15028,Docker
+15030,Linux
+15032,Python
+15034,Python
+15037,Spark
+15038,Numpy
+15039,Pandas
+15046,Python
+15048,NLP
+15054,Pandas
+15055,Numpy
+15056,SQL
+15057,scalability
+15059,fault tolerance
+15062,rapid prototyping
+15070,scalability
+15071,resiliency
+15085,algorithms
+15086,scalability
+15088,AWS
+15090,emerging technologies
+15092,MIS
+15096,Ecommerce
+15103,wireframes
+15104,Scrum Master
+15107,ReactJS
+15108,HTML
+15109,CSS
+15110,CSS
+15113,SASS
+15114,JavaScript
+15118,JavaScript
+15124,debugging
+15127,UNIX operating systems
+15129,scalability
+15134,installing
+15139,connectivity
+15142,Apache
+15143,JBoss
+15144,WebLogic
+15145,Oracle
+15146,databases
+15149,Clustering
+15157,Oracle
+15158,JBOSS
+15160,Shell Scripting
+15163,Ticketing
+15164,Documentation
+15167,Kerberos
+15169,NAS
+15170,NFS
+15176,SQL
+15182,Active Directory
+15183,UX
+15189,Android SDK
+15195,performance tuning
+15197,algorithms
+15201,Architects
+15208,mentor
+15209,constructive feedback
+15211,retrospectives
+15214,organizer
+15218,constructive feedback
+15222,Git
+15223,Gradle
+15224,packaging
+15226,algorithms
+15236,compliance procedures
+15243,Asp
+15244,Angular
+15245,TypeScript
+15246,frameworks
+15247,Jasmine
+15248,Karma
+15249,NUnit
+15251,Web API
+15252,Asp
+15253,Asp
+15258,Html
+15259,Css
+15261,Javascript
+15262,jQuery
+15268,SQL Server
+15270,Devops
+15280,Python
+15281,Django
+15283,AWS
+15284,Memcached
+15285,RabbitMQ
+15286,Zookeeper
+15287,Docker
+15288,Redis
+15290,Puppet
+15291,Ansible
+15297,reliability
+15298,dashboards
+15303,MVC
+15304,NodeJS
+15305,Angular
+15307,WCF
+15310,ORM
+15312,SQL Server
+15316,SharePoint Online
+15322,deployment
+15328,MVC
+15329,Dependency Injection
+15330,Inversion
+15332,TFS
+15333,Visio
+15339,ALM
+15341,deployment
+15343,SQL Server
+15351,documentation
+15353,commitments
+15356,milestones
+15359,Microsoft SQL Server
+15362,ETL
+15363,pipelines
+15372,continuous integration
+15377,ERP
+15385,AFS
+15386,Symphony
+15397,verification
+15409,frameworks
+15410,frameworks
+15411,TypeScript
+15412,JavaScript
+15414,frameworks
+15417,Node
+15418,Python
+15419,Ruby
+15420,Application frameworks
+15421,Laravel
+15422,Symfony
+15423,Django
+15424,Ruby
+15425,Rails
+15426,Databases
+15428,MariaDB
+15430,CMS
+15431,WordPress
+15434,Semantic markup
+15436,UX
+15437,accessibility
+15440,frameworks
+15444,Heroku
+15445,CIO
+15449,SAAS
+15451,Scripting
+15453,QA
+15454,reliability
+15460,consistency
+15472,Powershell
+15475,SharePoint Online
+15476,Kofax
+15478,WorkDay
+15479,deadlines
+15485,scheduling
+15486,configuration
+15492,readiness
+15495,test scripts
+15501,milestones
+15506,suppliers
+15521,suppliers
+15526,ALM
+15527,scheduling
+15530,ServiceNow
+15535,mentoring
+15537,Scrum
+15538,Kanban
+15551,Python
+15555,interpersonal communication skills
+15556,tooling
+15557,automation
+15561,risk assessments
+15564,software deployment
+15575,QA
+15590,Jenkins
+15591,Ansible
+15603,QA
+15604,Scrum master
+15609,SQL
+15610,relational databases
+15611,SQL Server
+15612,Oracle
+15616,XML
+15617,XSLT
+15622,Git
+15623,Agile development
+15626,perl
+15631,Ruby
+15632,Python
+15634,Frontend
+15635,UX
+15638,automation
+15640,algorithms
+15648,Agile Software Development
+15659,Scala
+15664,Jira
+15668,Git
+15669,GitHub
+15670,Vim
+15672,workshops
+15678,resiliency
+15680,routing
+15682,microservices
+15691,advocacy
+15692,TDD
+15697,functional programming
+15700,JavaScript
+15701,ReactJs
+15702,frameworks
+15703,easyMock
+15704,Mockito
+15707,Selenium
+15710,Jenkins
+15713,Bamboo
+15715,Docker
+15717,databases
+15719,AWS
+15720,Azure
+15723,XP
+15724,Scrum
+15725,Kanban
+15727,specifications
+15731,functional specifications
+15737,user acceptance testing
+15738,UAT
+15745,CIS
+15747,SDLC
+15750,CIS
+15754,SOQL
+15757,Aura
+15760,Scrum
+15761,Kanban
+15767,technical documentation
+15775,APIs
+15781,Docker
+15791,API
+15799,Docker
+15803,Oracle
+15808,HTML
+15809,CSS
+15812,WordPress
+15815,PHP
+15816,HTML
+15817,JavaScript
+15818,CSS
+15821,MySQL
+15822,XML
+15823,Git
+15824,WordPress
+15825,PHP
+15826,Ajax
+15827,MySQL
+15828,Adobe Photoshop
+15829,Illustrator
+15830,WordPress
+15834,Internet Explorer
+15837,WCAG
+15838,Search engine optimization
+15848,jQuery
+15853,scalability
+15860,HTML
+15861,CSS
+15863,SASS
+15864,bootstrap
+15866,JavaScript frameworks
+15867,jQuery
+15868,Angular
+15871,usability
+15872,CSS
+15880,AWS
+15883,scripting
+15898,Mentoring
+15903,logging
+15912,AWS
+15914,Microsoft SQL Server
+15916,CouchBase
+15917,MySQL
+15924,SQL
+15928,Cloud Computing
+15930,Virtualization
+15931,Networking
+15933,firewalls
+15936,orchestration
+15939,AWS
+15941,business continuity
+15945,spark
+15953,Spark
+15957,Databases
+15958,Oracle
+15959,Netezza
+15972,SDLC
+15974,Javascript
+15976,CSS3
+15979,AWS
+15987,Architects
+15990,experimentation
+15996,SDLC
+15998,Javascript
+16000,CSS3
+16003,AWS
+16012,Architects
+16015,experimentation
+16021,SDLC
+16023,Javascript
+16025,CSS3
+16028,AWS
+16037,Architects
+16040,experimentation
+16046,IoT
+16049,ZigBee
+16050,Bluetooth
+16058,protocols
+16067,LabVIEW
+16068,Python
+16074,workflow
+16075,persistence
+16076,messaging
+16077,validation
+16078,grid computing
+16079,scalability
+16081,clustering
+16083,failover
+16088,JDBC
+16089,RMI
+16090,J2EE
+16091,XML
+16093,TDD
+16095,relational databases
+16099,SQL
+16101,HQL
+16103,JAAS
+16104,JNDI
+16105,JMX
+16106,JTA
+16107,JMS
+16111,SQL
+16112,JDBC
+16114,EJB
+16116,Hibernate
+16118,JMS
+16119,RMI
+16120,Eclipse
+16122,application servers
+16123,JBOSS
+16128,Jenkins
+16129,nexus
+16130,Gradle
+16134,Gameplay Programming
+16138,Unreal Engine
+16140,integrations
+16150,SQL
+16151,JavaScript
+16152,CSS
+16153,Linux
+16154,Git
+16163,relational databases
+16164,analytics
+16166,data warehousing
+16167,dimensional modeling
+16169,databases
+16175,technical documentation
+16176,deployment
+16177,configuration
+16178,troubleshooting
+16182,algorithms
+16192,CI
+16198,firmware
+16210,RRC
+16213,Optimization
+16215,Facilitation
+16221,requirement gathering
+16223,frameworks
+16225,MySQL
+16227,PostgreSQL
+16231,Tableau
+16238,dbt
+16241,AWS
+16244,Excel
+16245,SQL
+16246,numpy
+16247,Spark
+16248,Scala
+16249,Python
+16250,Ruby
+16251,Scala
+16252,Excellent organizational skills
+16258,Data Modeling
+16263,algorithms
+16273,CI
+16279,firmware
+16292,RRC
+16301,GPU
+16302,documentation
+16303,schematics
+16308,X86
+16316,Windows NT
+16318,QNX
+16319,embedded systems
+16333,documentation
+16334,guides
+16336,Python
+16337,Linux
+16338,QNX
+16339,Mac OS
+16341,JIRA
+16342,Chrome
+16343,Confluence
+16344,Agile Scrum
+16348,troubleshooting
+16350,automotive
+16351,IoT
+16352,data analytics
+16353,cloud computing
+16354,AWS
+16355,Docker
+16361,demos
+16369,specifications
+16373,POSIX
+16375,scheduling
+16384,SVN
+16393,frameworks
+16394,optimizations
+16402,innovativeness
+16405,QNX
+16410,MISRA
+16412,OEM
+16416,embedded operating systems
+16417,QNX
+16418,Linux
+16420,VXworks
+16422,PPC
+16428,defect tracking
+16430,Agile methodologies
+16432,documentation
+16433,Documentation
+16440,Sprints
+16442,automation
+16449,test metrics
+16453,SDLC
+16457,ALM
+16458,JIRA
+16459,data visualization
+16463,SQL
+16464,Oracle
+16470,Jira
+16472,full SDLC
+16480,reliability
+16483,AngularJS
+16488,TypeScript
+16489,frameworks
+16493,HTML
+16494,CSS
+16495,JavaScript
+16497,Git
+16498,Node
+16499,npm
+16508,oversight
+16515,Adobe Experience Manager
+16516,Adobe Analytics
+16519,mentoring
+16520,PHP
+16521,WordPress
+16522,Python
+16528,Docker
+16535,Modelling
+16536,propulsion
+16539,interfaces
+16542,interfaces
+16545,software documentation
+16549,documentation
+16558,Visio
+16560,traceability
+16561,verification
+16562,validation
+16563,fidelity
+16564,simulation
+16565,Bids
+16577,Javascript
+16579,Javascript
+16580,HTML
+16581,CSS
+16589,analysts
+16597,Git
+16598,GitHub
+16600,TypeScript
+16602,troubleshooting
+16628,automation
+16630,Apache Spark
+16632,AWS
+16633,Azure
+16634,Docker
+16636,CDC
+16639,JSON
+16647,NumPy
+16648,pandas
+16649,frameworks
+16650,queries
+16651,Python
+16655,Pandas
+16660,PostgreSQL
+16662,S3
+16668,NodeJS
+16669,Angular
+16670,Javascript
+16676,CSS3
+16677,JavaScript
+16678,Jquery
+16679,GIT
+16680,bitbucket
+16681,SVN
+16684,MVC
+16685,SQL
+16687,jQuery
+16688,TDD
+16689,IoC
+16690,Azure
+16691,MVVM
+16692,microservices
+16693,containerization
+16695,deadlines
+16701,scripting
+16703,deployment
+16710,Oracle database
+16718,shell scripting
+16723,Proactive
+16726,HRM
+16727,Workday
+16733,QA
+16740,QA
+16748,QA
+16751,SQL
+16752,GIT
+16753,SSH
+16755,Selenium
+16756,Webdriver
+16761,bash
+16763,JIRA
+16766,QA
+16768,TDD
+16772,Elixir
+16775,GitLab
+16776,Github
+16777,Jenkins
+16778,Docker
+16780,Elasticsearch
+16781,Redis
+16782,AWS
+16796,DevOps
+16798,Python
+16799,Golang
+16805,Git
+16806,deployment
+16813,suppliers
+16816,inspections
+16821,specifications
+16830,maritime
+16834,interpersonal skills
+16848,PHP
+16851,deployment
+16856,Spring MVC
+16860,Docker
+16861,PostgreSQL
+16862,XML
+16863,JAXB
+16864,Git
+16865,Jenkins
+16866,Kibana
+16868,Logstash
+16874,PHP
+16876,Laravel
+16877,WordPress
+16880,indexing
+16881,optimization
+16882,normalization
+16891,Automation
+16892,technical documentation
+16893,deliverables
+16895,brainstorming
+16899,Scrum
+16904,automation
+16907,interfaces
+16913,modifications
+16915,debugging
+16918,fulfillment
+16919,functional specifications
+16933,QA
+16934,UAT
+16935,configuration
+16936,modification
+16937,correspondence
+16944,Telecom
+16950,Scripting
+16952,designing
+16953,configuring
+16957,QTP
+16960,J2EE
+16961,UNIX
+16962,SQL
+16970,SDLC
+16971,RDBMS
+16976,Telecom
+16982,Scripting
+16984,designing
+16985,configuring
+16989,QTP
+16992,J2EE
+16993,UNIX
+16994,SQL
+17004,Quality Assurance
+17005,Automation
+17008,UI Automation
+17011,Automation
+17014,JQuery
+17016,API testing
+17017,automation
+17020,AWS
+17021,QA
+17028,Automation
+17030,test automation
+17034,ALM
+17035,Jira
+17036,automation
+17038,Desktop
+17040,Selenium
+17041,SoapUI
+17042,SQL
+17043,queries
+17052,IPM
+17053,retrospectives
+17055,Automation
+17058,ALM
+17059,Testrail
+17060,JIRA
+17061,Agile methodologies
+17062,Analysts
+17071,specifications
+17074,specifications
+17078,classic ASP
+17080,integrations
+17084,JavaScript
+17085,JQuery
+17086,DHTML
+17088,HTML
+17089,CSS
+17090,Bootstrap
+17091,SQL Server
+17094,SoA
+17097,XUnit
+17100,Git
+17105,interpersonal communication skills
+17106,logging
+17124,CSS
+17126,Billing
+17128,deadlines
+17130,Agile methodology
+17137,programmers
+17153,responsiveness
+17165,styling
+17171,HTML
+17175,XCode
+17177,JavaScript
+17178,GIT
+17182,performance tuning
+17183,Strong analytical skills
+17184,optimization
+17188,TypeScript
+17190,CLI
+17192,GIT
+17193,XCode
+17196,JSON
+17200,continuous integration
+17201,deployment
+17205,Perl
+17206,Python
+17209,DevOps
+17212,continuous integration
+17213,deployment
+17217,Perl
+17218,Python
+17221,DevOps
+17226,MATLAB
+17229,AWS
+17230,deployment
+17231,automation
+17233,containers
+17236,SAAS
+17237,API
+17239,Agile Software Development
+17240,JavaScript
+17244,CSS
+17245,exceptional customer service
+17252,specifications
+17263,selenium
+17268,Architects
+17274,Agile methodologies
+17275,ceremonies
+17278,NodeJS
+17279,frameworks
+17281,data modelling
+17282,databases
+17283,MySQL
+17286,microservices
+17287,deployment
+17289,Azure
+17290,Continuous Integration
+17295,EMR
+17304,JS
+17327,SQL Server
+17328,databases
+17329,documentation
+17331,HTML
+17332,CSS
+17333,JavaScript
+17334,troubleshooting
+17339,templates
+17345,HTML
+17346,CSS
+17347,JavaScript
+17351,Microsoft Excel
+17357,deployment
+17358,ECM
+17365,solar PV
+17367,Excel
+17368,PowerPoint
+17373,Javascript
+17374,SQL
+17376,IaaS
+17377,PaaS
+17381,AWS
+17384,coding standards
+17393,S3
+17400,Orchestration
+17402,Networking
+17404,Jenkins
+17405,Gitlab
+17406,Sonarqube
+17408,Python
+17411,configuration
+17412,optimization
+17413,databases
+17414,test automation tools
+17419,troubleshooting
+17424,architecture frameworks
+17428,Spring MVC
+17429,Grails
+17433,JPA
+17440,Angular
+17444,Git
+17445,Maven
+17451,Strong interpersonal skills
+17458,troubleshooting
+17459,scalability
+17465,JavaScript
+17467,HTML
+17472,JavaScript
+17474,HTML
+17475,relocation
+17482,web layout
+17487,jQuery
+17488,JSON
+17489,AJAX
+17490,API
+17491,Python
+17499,Scala
+17512,relational databases
+17514,SQL
+17520,APIs
+17531,agile software development
+17532,collaborative working
+17533,empowerment
+17534,honesty
+17535,Entity Framework
+17538,Bootstrap
+17539,jQuery
+17540,WinForms
+17541,WPF
+17542,WCF
+17548,frameworks
+17550,wireframes
+17553,SDLC
+17555,optimization
+17561,API development
+17567,HTML
+17568,CSS
+17574,ReSharper
+17579,TeamCity
+17580,CI
+17582,Symfony
+17589,MySQL
+17591,HTML
+17592,CSS
+17593,JavaScript
+17594,Ajax
+17595,Git
+17601,Selenium
+17602,Behat
+17604,iterative design
+17606,Linux
+17613,Python
+17614,Ruby
+17615,PHP
+17616,MySQL
+17617,SOQL
+17618,Oracle
+17621,Apex
+17624,SOQL
+17631,auditing
+17635,BitBucket
+17636,Jenkins
+17639,templates
+17646,approvals
+17653,application packaging
+17654,deployment
+17655,vulnerability
+17658,troubleshooting
+17659,firewalls
+17661,installing
+17665,scripting
+17673,documentation
+17675,routing
+17677,Java programming
+17680,RDBMS
+17681,NoSQL
+17682,Hadoop
+17690,Chartered Engineer
+17693,site surveys
+17695,MSc
+17697,ETAP
+17699,AutoCAD
+17700,Python
+17701,Django
+17702,MongoDB
+17703,AWS
+17715,Python
+17721,automation
+17722,technical documentation
+17727,Apache Spark
+17729,Pandas
+17741,empathy
+17745,Modelling
+17746,propulsion
+17749,interfaces
+17752,interfaces
+17755,software documentation
+17759,documentation
+17768,Visio
+17770,traceability
+17771,verification
+17772,validation
+17773,fidelity
+17774,simulation
+17775,Bids
+17781,AWS
+17782,Docker
+17784,Redis
+17785,MongoDB
+17786,Neo4j
+17789,ElasticSearch
+17791,TDD
+17792,DDD
+17796,proactivity
+17800,DDD
+17803,deployment
+17808,GitLab
+17811,JVM
+17815,Git
+17816,SQL
+17817,NoSQL
+17820,RabbitMQ
+17825,Oracle
+17827,queries
+17833,Gitlab
+17836,spatial data management
+17843,specifications
+17846,specifications
+17847,schematic design
+17849,Altium Designer
+17863,Altium
+17867,JavaScript
+17877,CSS
+17880,redis
+17903,process redesign
+17911,ACLS
+17914,AJAX
+17915,Javascript
+17916,Angular
+17917,Python
+17920,CMDB
+17923,JavaScript
+17928,Rust
+17935,craftsmanship
+17937,data analytics
+17941,GCP
+17944,fixtures
+17955,Fatigue
+17961,sprint planning
+17963,retrospectives
+17967,reliability
+17968,maintainability
+17970,reliability
+17973,documentation
+17977,continuous integration
+17978,deployment
+17983,deadlines
+17984,mentorship
+17986,J2EE
+17989,Tomcat
+17990,SQL
+17991,Eclipse
+17993,Python
+17994,HTML
+18004,frameworks
+18007,instrumentation
+18010,cost optimization
+18011,configuration
+18013,Mentor
+18016,databases
+18017,networking
+18018,DevOps
+18034,Jenkins
+18038,Git
+18039,GitHub
+18048,maintainability
+18050,Docker
+18051,PostgreSQL
+18052,Apache Kafka
+18056,fintech
+18064,configuration
+18068,FileNet
+18069,JavaScript
+18070,SQL
+18071,application servers
+18072,WebLogic
+18073,WebSphere
+18074,Tomcat
+18075,Oracle
+18077,Linux
+18078,Unix
+18079,Windows servers
+18081,databases
+18082,application servers
+18084,Dynatrace
+18085,monitors
+18088,Kofax
+18092,Appian
+18094,DocuSign
+18097,prototype
+18099,troubleshooting
+18100,technical documentation
+18105,HTML
+18106,JavaScript
+18107,CSS
+18109,jQuery
+18110,jQuery UI
+18111,Git
+18113,frameworks
+18114,APIs
+18132,sensors
+18136,persistence
+18141,Python
+18142,MongoDB
+18143,RabbitMQ
+18144,Redis
+18145,AWS
+18146,Microservices
+18152,home automation
+18154,AWS
+18155,S3
+18166,Maven
+18168,Cucumber
+18170,Hibernate
+18171,MySQL
+18172,GitHub
+18174,OTT
+18204,designing
+18207,usability
+18208,scalability
+18209,reliability
+18220,Python
+18221,JavaScript
+18222,Hibernate
+18223,Reactjs
+18226,Interpreter
+18227,Prototype
+18228,test automation tools
+18229,Selenium Webdriver
+18230,Appium
+18231,JavaScript
+18233,JUnit
+18234,TestNG
+18236,Jasmine
+18238,TDD
+18240,BDD
+18241,Continuous Integration
+18242,CI
+18244,Jenkins
+18250,algorithms
+18255,Critical thinker
+18258,frontend development
+18260,CSS
+18261,JS
+18265,TDD
+18273,revision
+18275,web servers
+18276,databases
+18282,Docker
+18285,emerging trends
+18286,Announcements
+18287,integrations
+18288,graphic designers
+18293,Typescript
+18295,APIs
+18299,Mentor
+18302,Typescript
+18303,JavaScript
+18311,Git
+18326,Python
+18331,MySQL
+18341,UI
+18343,JavaScript
+18348,Deployment
+18349,IIS
+18350,TFS
+18352,Git
+18355,SCRUM
+18361,documentation
+18366,QNX
+18367,VxWorks
+18386,JSON
+18389,continuous integration
+18391,Embedded Software
+18393,protocols
+18395,documentation
+18396,Modelling
+18397,Simulation
+18398,Verification
+18399,Validation
+18410,Simulink
+18413,MATLAB
+18414,Python
+18422,Javascript
+18424,CSS
+18425,SQL
+18427,enquiries
+18429,guides
+18436,deadlines
+18441,judgement
+18463,MongoDB
+18465,UFT
+18470,SQL
+18474,JIRA
+18477,HP ALM
+18478,HP LoadRunner
+18479,Selenium
+18481,UI
+18483,Django
+18484,NLP
+18485,AWS
+18486,S3
+18491,Docker
+18507,Citrix
+18514,analytical skills
+18516,Virtualization
+18518,Networking
+18527,MVC
+18528,Web API
+18531,ReactJS
+18532,JQuery
+18533,AngularJS
+18534,Javascript
+18537,frameworks
+18543,relational databases
+18544,PHP
+18546,JavaScript
+18547,REST API
+18548,OAUTH
+18550,OOP
+18554,Scrum
+18555,Kanban
+18556,XP
+18563,MySQL
+18576,databases
+18588,EMR
+18589,S3
+18592,Athena
+18601,Alteryx
+18602,Tableau
+18603,Microsoft SQL
+18604,Oracle
+18605,Cognos
+18609,upgrades
+18615,deployment
+18619,Bitbucket
+18623,EMR
+18624,S3
+18627,Athena
+18630,EC2
+18632,Linux system administration
+18637,EMR
+18638,S3
+18641,Athena
+18644,EC2
+18648,Jira
+18649,Confluence
+18651,agility
+18653,deployment
+18656,databases
+18665,Spring MVC
+18667,AMQP
+18675,UX
+18676,API
+18687,MongoDB
+18688,Cassandra
+18689,Hadoop
+18690,scalability
+18693,Linux
+18697,SVN
+18698,GitLab
+18703,basic SQL
+18712,resiliency
+18725,Instrumentation
+18726,metrics
+18728,resiliency
+18731,automation
+18732,orchestration
+18733,Automation
+18736,SOPs
+18748,DevOps
+18750,networking
+18752,Python
+18753,Ruby
+18754,Bash
+18755,Devops
+18757,Integrations
+18758,UNIX
+18760,utilities
+18766,interpersonal skills
+18768,schedules
+18769,SLA
+18772,Maven
+18773,Sonar
+18786,mentorship
+18787,continuous process improvement initiatives
+18798,Eclipse
+18802,Jenkins
+18803,Maven
+18806,docker
+18814,OOAD
+18821,core Java
+18822,Hibernate
+18830,HTML
+18831,CSS
+18832,javascript
+18833,jquery
+18840,OOP
+18841,MVC
+18850,XML
+18851,JSON
+18852,AJAX
+18853,RDBMS
+18854,NoSQL
+18856,Git
+18857,JIRA
+18859,queries
+18860,scripting
+18861,agility
+18862,Excellent interpersonal skills
+18866,CSS
+18868,Bootstrap
+18873,WCF
+18877,SSIS
+18878,SSRS
+18885,SQL Server Reporting Services
+18886,SSRS
+18887,SQL Server Integration Services
+18888,SSIS
+18894,CDC
+18895,Replication
+18899,metadata management
+18907,prioritization
+18909,specs
+18920,Maven
+18921,Jenkins
+18922,Jira
+18923,git
+18924,XML
+18925,JSON
+18927,TDD
+18928,BDD
+18929,Restful Webservices
+18931,Apache Tomcat
+18936,Agile
+18937,DevOps
+18939,Qualification
+18940,ServiceNow
+18943,Service Catalog
+18948,Rest API
+18954,Git
+18955,SVN
+18959,firmware
+18964,middleware
+18968,technical documentation
+18973,test scripts
+18975,firmware
+18984,Python
+18985,FreeRTOS
+18992,UART
+18993,I2C
+18994,USB
+18998,servo control
+18999,stepper motors
+19000,vacuum pumps
+19009,Ethernet
+19011,GIT
+19023,Hive
+19024,Impala
+19035,vendors
+19044,Elasticsearch
+19047,MongoDB
+19048,Cassandra
+19049,SQL
+19050,designing
+19051,microservices
+19054,performance tuning
+19056,HTML
+19057,JavaScript
+19059,MS SQL Server
+19062,Typescript
+19063,Angular
+19069,JQuery
+19070,SQL
+19072,Databases
+19073,Oracle
+19076,GIT
+19077,JENKINS
+19082,SDLC
+19084,organizational skills
+19098,Relational Databases
+19099,SQL
+19100,ORM
+19102,Hibernate
+19103,DBA
+19113,frameworks
+19115,Angular
+19116,Node
+19119,CouchDB
+19120,Cassandra
+19121,MongoDB
+19122,containers
+19124,Docker
+19128,ADFS
+19137,DNS
+19139,OAuth
+19143,python
+19144,perl
+19145,Ansible
+19148,GIT
+19149,JavaScript
+19155,Jenkins
+19157,TeamCity
+19159,Azure
+19167,escalation
+19169,service continuity
+19172,reliability
+19173,coordination
+19174,exhibitions
+19177,telco
+19179,Linux
+19183,FTP
+19184,RTSP
+19185,TCP
+19187,HTML
+19189,IPTV
+19192,VMware
+19193,AWS
+19194,Azure
+19195,Hindi
+19198,Autonomy
+19199,milestones
+19203,JS
+19206,HTML
+19208,CSS
+19209,CSS3
+19213,responsive design
+19219,Continuous Integration
+19220,CI
+19222,Bamboo
+19224,reliability
+19225,scalability
+19229,teamwork
+19235,testers
+19236,HTML
+19237,CSS
+19238,SQL
+19244,Bootstrap
+19245,CSS
+19246,HTML
+19247,Typescript
+19248,NPM
+19249,Backend
+19251,Automation
+19252,AutoIT
+19257,integrations
+19263,Python
+19264,Perl
+19265,Ruby
+19273,Strong organizational skills
+19278,operational excellence
+19279,Frontend
+19285,Cordova
+19290,Backend
+19295,Apache Cordova
+19300,Typescript
+19301,AWS
+19303,data warehousing
+19311,CRM
+19312,ERP
+19313,scalability
+19314,reliability
+19318,consistency
+19322,analysts
+19325,query tuning
+19326,queries
+19342,Python
+19346,problem solving
+19351,continuous integration
+19353,Jenkins
+19357,automation tools
+19360,AWS
+19361,Azure
+19364,Docker
+19366,scripting
+19367,Python
+19368,Bash
+19369,Agile Development
+19371,Github
+19372,Bitbucket
+19376,AWS
+19377,Azure
+19378,configurations
+19383,MVC architecture
+19387,AWS
+19388,Azure
+19390,Git
+19391,SVN
+19394,TDD
+19395,BDD
+19400,scheduling
+19405,Python
+19406,APIs
+19407,frameworks
+19411,Flask
+19421,secure coding
+19425,mentor
+19426,Cocos2d
+19431,frameworks
+19441,LIN
+19442,J1939
+19444,Certifications
+19447,Certifications
+19458,Linux
+19468,deliveries
+19469,documentation
+19472,Honesty
+19504,logging
+19506,Relational Databases
+19508,JSON
+19510,Angular
+19512,AWS
+19513,GCP
+19514,Azure
+19516,API
+19531,protocols
+19533,Scala
+19535,Spark
+19538,Scala
+19539,Core Java
+19547,Spark
+19548,Scala
+19550,Analytics
+19555,scripting
+19566,client coordination
+19571,Agile methodology
+19572,JIRA
+19580,databases
+19583,metrics
+19587,accountability
+19592,MongoDB
+19593,devops
+19595,databases
+19596,automation tools
+19597,Linux
+19598,Scripting
+19605,JMX
+19614,frontend development
+19616,Javascript
+19617,HTML
+19618,CSS
+19620,frameworks
+19628,algorithms
+19635,APIs
+19636,middleware
+19639,Cassandra
+19640,Redis
+19641,Riak
+19642,HBase
+19643,RDBMS
+19647,queries
+19649,Angular
+19662,Agile methodologies
+19669,SQL
+19672,operational efficiency
+19677,Docker
+19678,Containers
+19680,Python
+19681,Jenkins
+19687,GCP
+19688,AWS
+19695,ETL
+19697,RDBMS
+19699,Presto
+19700,Hive
+19701,Spark
+19706,SQL
+19707,Python
+19709,SaaS
+19710,PaaS
+19714,velocity
+19728,PHP
+19729,Python
+19731,configuration
+19733,ARP
+19734,DHCP
+19736,DNS
+19737,routing
+19738,iptables
+19740,troubleshooting
+19745,Configuration
+19747,Automation
+19749,deployment
+19760,Automation
+19764,Firewalls
+19768,HIPAA
+19770,Drupal
+19775,responsiveness
+19778,technical documentation
+19779,analysts
+19785,JavaScript
+19786,XML
+19788,JavaScript frameworks
+19791,databases
+19797,Organizational skills
+19799,backend development
+19802,JavaScript
+19803,ReactJs
+19805,Microservices
+19807,SCRUM
+19808,KANBAN
+19809,databases
+19810,SQL Server
+19811,Oracle
+19814,stakeholder management
+19818,Angular
+19819,Javascript
+19820,HTML
+19821,CSS
+19825,Jenkins
+19828,Scripting
+19829,Python
+19837,visualization
+19839,scalability
+19841,scalability
+19846,deployment
+19849,scalability
+19853,deadlines
+19861,algorithms
+19865,Docker
+19868,Linux
+19869,GCP
+19870,AWS
+19878,Redis
+19879,MongoDB
+19883,Clustering
+19887,RabbitMQ
+19888,Redis
+19890,specification
+19891,quality assurance
+19892,documentation
+19897,Xcode
+19901,SDK development
+19902,GWT
+19903,jQuery
+19906,UI automation
+19908,NoSQL
+19910,documentation
+19911,Troubleshooting
+19914,Hibernate
+19916,Databases
+19918,JIRA
+19919,Maven
+19921,Git
+19923,Docker
+19924,Gradle
+19925,Core Java
+19926,Maven
+19928,Javascript
+19930,Angular
+19931,SQL
+19932,NoSql
+19933,Hibernate
+19935,JPA
+19936,Shell Scripting
+19938,JSON
+19941,AWS
+19952,microservices
+19954,RabbitMQ
+19956,Relational Databases
+19957,SQL
+19959,JPA
+19961,JUnit
+19962,TestNG
+19964,Git
+19966,Maven
+19969,AWS
+19970,containerization
+19976,proactivity
+19977,scalability
+19980,frontend development
+19982,Docker
+19991,Web API
+19992,microservices
+19998,Asp
+20002,Microservices
+20005,SQL
+20008,Angular
+20009,JavaScript
+20010,HTML
+20011,CSS
+20013,Grunt
+20014,Gulp
+20030,JavaScript
+20034,responsiveness
+20036,automation
+20042,Hibernate
+20052,Apache zookeeper
+20056,Jira
+20059,authorization
+20062,Laravel
+20068,integrations
+20069,Laravel
+20072,APIs
+20074,MySQL
+20075,Javascript
+20078,ECMAScript
+20082,AWS
+20083,Microsoft Azure
+20093,Automation
+20094,Azure
+20097,Ansible
+20098,DevOps
+20102,iTunes
+20111,GitLab
+20114,Azure
+20116,deployment
+20122,AWS
+20124,IaaS
+20125,PaaS
+20126,SaaS
+20127,Docker
+20128,Linux
+20132,Penetration Testing
+20135,Git
+20141,Analytics
+20147,Cybersecurity
+20154,Splunk
+20162,DNS
+20163,firewalls
+20167,JavaScript
+20168,Python
+20169,Unix
+20170,regular expressions
+20174,Dashboards
+20178,troubleshooting
+20179,problem solving
+20180,interpersonal skills
+20190,emerging technologies
+20195,HTML
+20196,CSS
+20197,JavaScript
+20198,deployment
+20208,Ionic Framework
+20212,CSS3
+20213,Javascript
+20222,process mapping
+20227,functional specifications
+20228,OOD
+20229,HTML
+20230,XML
+20235,docker
+20236,Angular
+20238,functional specifications
+20244,CSS3
+20245,SASS
+20246,Bootstrap
+20260,Git
+20263,javascript
+20265,REST API
+20276,SSIS
+20280,JQuery
+20281,CSS3
+20282,JavaScript
+20286,Web API
+20294,J2EE
+20296,MVC architecture
+20299,CSS
+20300,JSP
+20301,JSTL
+20302,JavaScript
+20303,frameworks
+20304,DB2
+20305,PostgreSQL
+20306,JMS
+20307,EJB
+20314,Crucible
+20315,HTML
+20316,JSP
+20317,JSTL
+20318,CSS
+20319,JQuery
+20321,JMS
+20331,queries
+20344,DBT
+20348,Oracle DB
+20353,csv
+20356,API
+20357,documentation
+20364,queries
+20369,Tableau
+20375,Coding
+20379,QA
+20383,Core Java
+20385,MySQL
+20386,Sonar
+20387,Jenkins
+20389,Jira
+20391,JUnit
+20404,Django
+20407,DDS
+20415,OOPs
+20416,Django
+20417,Python
+20418,Websockets
+20419,DDS
+20420,REST API
+20421,AWS
+20428,firmware
+20430,deployment
+20431,microcontrollers
+20432,CORTEX
+20433,SoC
+20436,DeviceNet
+20441,verification
+20442,scalability
+20446,modification
+20447,optimization
+20448,diagnostics
+20468,Eclipse
+20470,GCC
+20471,firmware
+20472,specifications
+20476,RTOS
+20489,PID
+20492,LIN
+20494,SPI
+20495,I2C
+20501,Simulink
+20503,Multimeter
+20507,HTML
+20508,CSS
+20509,JavaScript
+20510,JQuery
+20511,JSON
+20512,AJAX
+20513,Python
+20514,VHDL
+20517,deadlines
+20535,RDBMS
+20540,Git
+20541,Docker
+20542,Jenkins
+20546,Logging
+20549,API
+20551,documentation
+20556,JMS
+20557,specification
+20560,scalability
+20564,Object Oriented Programming
+20566,HTML
+20568,JavaScript
+20572,networking
+20573,analyzing
+20574,Virtualization
+20576,protocols
+20577,DNS
+20578,SQL
+20589,Coding
+20598,WinForms
+20599,WPF
+20601,OOAD
+20612,jQuery
+20613,JSP
+20614,Servlet
+20615,Core Java
+20618,ORM
+20619,Hibernate
+20621,Oracle
+20622,ReactJS
+20624,Typescript
+20627,HTML
+20628,JavaScript
+20630,frameworks
+20632,Web API
+20633,HTML
+20643,SQL
+20644,Data Profiling
+20645,categorization
+20647,Python
+20649,AWS
+20650,Azure
+20651,GCP
+20652,integrations
+20654,Microservices
+20658,APIs
+20659,Salesforce
+20660,Zoho
+20661,Mailchimp
+20662,Infusionsoft
+20663,Xero
+20664,Quickbooks
+20665,Shopify
+20675,OAuth
+20677,encryption
+20680,Salesforce
+20681,Zoho
+20682,Mailchimp
+20683,Xero
+20684,Quickbooks
+20685,Shopify
+20696,SAP Business Objects
+20697,Oracle
+20699,estimation
+20700,defect management
+20704,Oracle
+20705,SQL Server
+20717,deployment
+20720,Python
+20724,GCP
+20729,Jenkins
+20735,integrations
+20736,CMS
+20737,CRM
+20738,ERP
+20745,QA
+20746,regression testing
+20750,MIS
+20762,JavaScript
+20763,JQuery
+20764,AJAX
+20765,XML
+20766,JSON
+20769,XML
+20770,data manipulation
+20774,responsive web design
+20778,Magento
+20780,Hybris
+20784,scrum
+20787,organizational skills
+20789,interpersonal skills
+20792,architectures
+20793,integrations
+20797,usability
+20800,JavaScript
+20801,jQuery
+20807,Photoshop
+20811,deployment
+20814,documentation
+20816,documentation
+20821,JavaScript
+20823,SQL
+20824,XML
+20827,Unix
+20828,Linux
+20830,Databases
+20831,Oracle
+20832,Sybase
+20833,MSSQL
+20834,MySQL
+20836,LDAP
+20837,SAP
+20840,Oracle
+20841,IBM
+20842,Novell
+20844,RBAC
+20845,documentation
+20849,test scripts
+20863,devops
+20866,NodeJS
+20868,cryptography
+20872,integrations
+20876,alignment
+20880,relational databases
+20882,PostgreSQL
+20883,RPC
+20886,Jira
+20887,Jenkins
+20896,SDLC
+20897,agile methodologies
+20899,DevOps
+20902,Mainframe
+20903,Oracle
+20906,UI
+20908,UI
+20910,UI
+20914,UI
+20917,UI
+20920,Python
+20934,Linux
+20935,DoD
+20936,IC
+20937,containerization
+20939,Docker
+20942,Git
+20944,JIRA
+20950,CDI
+20951,Servlet
+20952,JavaScript
+20953,TypeScript
+20955,CSS3
+20957,Git
+20961,QA
+20964,estimating
+20965,upgrades
+20971,RPGLE
+20986,Analytics
+20992,AWS
+21001,databases
+21002,Microsoft SQL Server
+21003,architectural patterns
+21004,Cloud computing
+21010,workshops
+21012,empathy
+21022,Git
+21024,Teamwork
+21025,Analytical Skills
+21028,presenter
+21029,credibility
+21033,suppliers
+21034,organizing
+21035,trainings
+21036,Mentor
+21046,JavaScript
+21047,frameworks
+21062,GitLab
+21063,JIRA
+21066,AWS
+21072,mentorship
+21082,DevOps
+21085,Automation
+21088,Kanban
+21094,ERP
+21095,CRM
+21098,Sage
+21103,VBA
+21105,RDBMS
+21106,JavaScript
+21107,jQuery
+21108,jSon
+21111,XML
+21112,Web API
+21113,PHP
+21114,CSS
+21115,HTML
+21128,Microsoft Azure
+21132,XP
+21134,Scrum
+21135,Kanban
+21142,messaging
+21144,Scrum
+21149,GCP
+21153,Containers
+21154,Microservices
+21163,OOP
+21175,AWS
+21179,TypeScript
+21185,CSS3
+21186,JSON
+21187,XML
+21188,MVC
+21190,Entity Framework
+21191,Azure
+21192,specifications
+21204,SQL
+21205,scripting
+21211,algorithms
+21217,EC2
+21219,S3
+21222,greenfield projects
+21223,Struts
+21225,Relational Databases
+21232,Guice
+21236,DSL
+21237,DDD
+21239,data analytics
+21243,Spark
+21249,complex problem solving
+21251,problem solving
+21255,structuring
+21258,clustering
+21259,PCA
+21260,SVM
+21262,regression
+21263,neural networks
+21268,Python
+21269,Matlab
+21270,Spark
+21273,Javascript
+21275,Tableau
+21278,Spark
+21280,IoT
+21291,Ruby
+21292,Rails
+21293,Heroku
+21296,Agile methodologies
+21298,certification
+21315,Strong work ethic
+21316,compassion
+21319,suppliers
+21320,Strategic thinker
+21327,Maths
+21331,JavaScript
+21332,Python
+21340,JavaScript
+21359,JIRA
+21363,documentation
+21364,Linux
+21366,JIRA
+21367,Confluence
+21371,queries
+21372,CCTV
+21375,Servicing
+21380,interfaces
+21382,functional programming
+21388,XCode
+21391,Firebase
+21394,APIs
+21395,Apollo
+21404,automation
+21414,deployment
+21415,maths
+21416,coding
+21418,TypeScript
+21421,deployment
+21426,Typescript
+21432,numeracy
+21435,maths
+21449,data modelling
+21450,automation
+21453,Analytics
+21456,pipelines
+21465,penetration testing
+21467,SQL
+21468,Python
+21473,agile methodologies
+21474,coding standards
+21475,AWS
+21476,GCP
+21477,Azure
+21478,Python
+21479,SQL
+21481,DBT
+21484,frameworks
+21485,Flask
+21486,Django
+21487,API development
+21489,Agile methodology
+21494,JavaScript
+21496,JSP
+21497,JMS
+21498,J2EE
+21499,Hibernate
+21500,CSS
+21501,DHTML
+21502,HTML
+21503,XML
+21504,authorization
+21505,PKI
+21507,JIRA
+21508,Confluence
+21509,Git
+21510,GitLab
+21511,corrective actions
+21514,usability
+21515,usability
+21527,HTML
+21528,CSS
+21529,JavaScript
+21530,TypeScript
+21533,Openness
+21542,structured cabling
+21550,Python
+21552,Scripting
+21553,Python
+21557,frameworks
+21564,Github
+21565,Jenkins
+21566,Gradle
+21569,APIs
+21571,usability
+21577,UI automation
+21579,automation
+21583,Git
+21584,Jenkins
+21586,responsiveness
+21587,Cocoa Touch
+21591,performance tuning
+21593,tuning
+21597,Git
+21598,SVN
+21600,QA
+21603,JavaScript
+21604,HTML
+21608,Bootstrap
+21611,NPM
+21614,JQUERY
+21615,Typescript
+21619,JIRA
+21622,git
+21623,Bitbucket
+21625,Adobe Photoshop
+21626,Indesign
+21629,CSS
+21635,Twig
+21642,upgrades
+21648,refactoring
+21656,Docker
+21657,Gradle
+21658,Microservices
+21663,problem solving
+21666,HTML
+21667,CSS
+21671,Stakeholder Engagement
+21675,HTML
+21682,deployment
+21685,monitors
+21686,adjustments
+21689,verification
+21716,Agile
+21717,Scrum
+21719,Confluence
+21720,Jira
+21721,Testrail
+21722,Trello
+21723,PMC
+21724,Sharepoint
+21725,GitLab
+21726,SVN
+21731,databases
+21736,DMS
+21739,system implementations
+21743,DMS
+21745,SQL
+21746,Oracle
+21747,Socket Programming
+21755,Python
+21758,AWS
+21760,BDD
+21762,MySQL
+21764,Docker
+21768,APIs
+21781,AutoCAD Electrical
+21786,WordPress
+21787,Teamwork
+21789,deadlines
+21806,Git
+21808,UI testing
+21813,Bash scripting
+21819,Networking skills
+21821,routing
+21823,PoE
+21824,WLAN
+21825,MPLS
+21829,VMWare
+21833,Veeam
+21838,SharePoint administration
+21845,documentation
+21846,SoW
+21847,PID
+21849,documentation
+21856,alignment
+21861,sprint planning
+21862,retrospectives
+21869,SOQL
+21876,SQL
+21880,mindset
+21882,Certifications
+21887,Azure
+21889,deployment
+21891,automation
+21907,Laravel
+21908,Symphony
+21910,MySQL
+21911,Git
+21915,DevOps
+21916,automation
+21917,Linux
+21918,VMware
+21920,Docker
+21922,Ansible
+21923,deployment
+21926,scripting
+21927,databases
+21928,application servers
+21930,routing
+21942,automation
+21944,roadmap
+21945,AWS
+21946,scripting
+21949,networking
+21952,automation
+21954,mentoring
+21957,confidentiality
+21960,corrective action
+21963,regulatory compliance
+21965,Persuasion
+21974,embedded software
+21976,deployment
+21977,deployment
+21978,maintainability
+21980,documentation
+21981,specifications
+21993,Python
+21999,SQL
+22000,Python
+22009,Python
+22015,SQL
+22016,Python
+22036,troubleshooting
+22037,consistency
+22038,troubleshooting
+22055,maintainability
+22073,diagnostics
+22074,Python
+22075,SQL
+22081,GPRS
+22083,Visio
+22086,networking
+22090,modifications
+22094,connectivity
+22096,supervision
+22101,Middleware
+22102,databases
+22107,Apache
+22108,SQL Server
+22109,Oracle
+22110,AWS
+22111,Linux
+22113,cloud computing
+22114,automation
+22123,PHP
+22126,Builders
+22128,optimization
+22129,scalability
+22134,Azure
+22135,AWS
+22139,integrations
+22140,SQL Server
+22141,PostgreSQL
+22142,RabbitMQ
+22144,Octopus
+22145,Gitlab
+22146,Microservices
+22147,Docker
+22148,GitHub
+22149,Confluence
+22150,Jira
+22151,ElasticSearch
+22154,AWS
+22156,Problem solver
+22160,troubleshooting
+22162,frameworks
+22172,effort estimation
+22173,maintainability
+22179,deployment
+22186,frameworks
+22188,microservices
+22189,AWS
+22190,Azure
+22191,GCP
+22193,algorithms
+22198,authentication
+22199,messaging
+22201,RabbitMQ
+22203,job scheduling
+22204,SQL
+22206,data modeling
+22213,automation
+22215,ERP
+22216,SAP
+22217,Oracle
+22218,Netsuite
+22224,Docker
+22232,workshops
+22239,tooling
+22251,coding
+22252,python
+22253,specifications
+22254,fintech
+22256,workshops
+22259,fintech
+22260,vendor
+22261,consultancy
+22266,Apache Kafka
+22267,RDBMS
+22271,Python
+22272,Docker
+22276,AWS
+22282,networking
+22288,networking
+22289,Telecommunications
+22295,XP
+22300,hydraulics
+22306,APIs
+22307,microservices
+22310,Groovy
+22313,Couchbase
+22314,MongoDB
+22319,OCR
+22322,NLP
+22323,ML
+22324,documentation
+22325,deliverables
+22329,consistency
+22332,provisioning
+22333,tuning
+22338,Paychex
+22341,vendor
+22344,documentation
+22351,documentation
+22354,Python
+22356,APIs
+22358,SQL
+22362,web scraping
+22368,PDF
+22376,scalability
+22378,integrations
+22379,VMware ESX
+22382,PHP
+22386,algorithms
+22387,Linux
+22388,shell scripting
+22395,VirtualBox
+22396,KVM
+22398,PHP
+22399,Apache
+22400,Symfony
+22401,NGINX
+22403,zfs
+22408,authentication
+22416,documentation
+22417,technical manuals
+22419,Monitors
+22420,patents
+22421,mentor
+22422,performance metrics
+22431,discretion
+22433,overtime
+22437,Python
+22438,databases
+22439,MySQL
+22440,PostgreSQL
+22441,MongoDB
+22442,Redis
+22444,Docker
+22456,integrations
+22458,documentation
+22460,vendors
+22462,feasibility studies
+22464,automation
+22465,sensors
+22466,actuators
+22473,specification
+22477,VB
+22478,MFC
+22486,UI
+22488,diagnostics
+22492,EDA
+22498,AWS
+22499,data analytics
+22505,Apache Spark
+22507,data modelling
+22511,Redis
+22512,MongoDB
+22515,EC2
+22516,EMR
+22517,S3
+22519,Python
+22526,organizational skills
+22529,Git
+22531,budgets
+22534,AWS
+22535,Microsoft Azure
+22536,automation
+22538,virtualization
+22540,IAM
+22541,EC2
+22542,S3
+22543,Directory Services
+22550,VMware vSphere
+22556,vSphere
+22557,vCenter
+22569,IBM
+22573,XenApp
+22574,Netscaler
+22588,scheduling
+22593,remediation
+22606,oral and written communication skills
+22610,vendors
+22611,NOC
+22612,Logistics
+22614,installations
+22618,NOC
+22619,configurations
+22621,installations
+22622,vendors
+22629,CPE
+22630,PE
+22634,templates
+22636,configurations
+22646,ISO
+22647,ISO
+22648,ISO
+22652,rollout
+22654,deployment
+22666,Microsoft Azure
+22669,Git
+22670,GUI
+22673,Generators
+22674,compressors
+22675,pumps
+22676,switchgear
+22678,electrical installation
+22679,generators
+22680,generators
+22686,docker
+22689,Jenkins
+22692,microservices
+22695,junit
+22696,SQL
+22697,Oracle
+22699,SQL server
+22700,PostgreSQL
+22705,Azure
+22710,copper cabling
+22720,architectural drawings
+22723,specifications
+22728,Fibre
+22729,JavaScript
+22730,TypeScript
+22733,Test automation
+22743,quotations
+22744,Fatigue
+22747,fatigue testing
+22751,CSV
+22755,CSV
+22758,CSV
+22760,GAMP
+22765,SCADA
+22780,validation
+22781,deployment
+22788,assessments
+22789,audits
+22790,deviations
+22791,CAPA
+22793,revisions
+22796,equipment procurement
+22801,architects
+22802,frameworks
+22806,integrations
+22811,HCM
+22814,Typescript
+22817,IoT
+22820,Curiosity
+22828,JavaScript
+22829,AJAX
+22831,JavaScript
+22832,grunt
+22833,gulp
+22840,IIS
+22844,Entity Framework
+22845,MVS
+22846,LINQ
+22847,API development
+22859,Rest API
+22865,SSIS
+22868,Python
+22869,Azure
+22870,test automation
+22872,configuration management
+22877,Full UK Driving Licence
+22883,PPM
+22886,reliability
+22906,Maths
+22910,certification
+22911,electrical installations
+22918,Supervisory experience
+22925,analytics
+22929,functional specifications
+22935,mentoring
+22939,Node
+22949,Jira
+22950,Gitlab
+22952,SQL
+22953,databases
+22955,AWS
+22956,GCP
+22979,XP
+22985,utilization
+22988,troubleshooting
+22993,Active Directory
+22995,SLA
+23007,Git
+23008,packaging
+23009,GNU tools
+23012,algorithms
+23015,CUDA
+23017,GNU tools
+23026,Perforce
+23027,Git
+23028,CVS
+23029,SVN
+23031,compilers
+23032,Linux
+23039,CRM
+23045,Wordpress
+23046,Woocommerce
+23050,budgets
+23051,timelines
+23058,Angular
+23061,CSS
+23064,Jenkins
+23065,Maven
+23076,MVVM
+23078,GIT
+23080,Agile software development
+23082,DevOps
+23085,PHP
+23089,JS
+23090,testers
+23094,Python
+23095,Prioritisation
+23096,organisational skills
+23098,Problem Solving
+23099,Adaptability
+23109,dashboards
+23112,Microsoft Azure
+23114,verbal communication skills
+23117,Leisure
+23118,algorithms
+23121,exceptional customer service
+23128,wireframes
+23129,WordPress
+23130,CSS
+23134,Pardot
+23138,Photoshop
+23143,WooCommerce
+23144,WordPress
+23146,CSS
+23147,JavaScript
+23148,GIT
+23154,XML
+23155,AJAX
+23156,jQuery
+23162,SaaS
+23166,PowerShell
+23167,JavaScript
+23168,Python
+23172,documentation
+23174,IAM
+23175,IAM
+23185,SSO
+23187,Microsoft Active Directory
+23193,JavaScript
+23194,Python
+23197,APIs
+23200,APIs
+23202,API
+23203,middleware
+23208,prototyping
+23209,coding
+23210,deployment
+23212,APIs
+23213,integrations
+23214,Agile methodology
+23215,APIs
+23219,API
+23220,configurations
+23224,API development
+23233,APIs
+23244,Cassandra
+23246,NoSQL
+23248,SIEM
+23251,networking
+23255,analytics
+23256,intrusion detection
+23262,mentoring
+23266,data warehousing
+23276,SQL
+23279,SSAS
+23280,SSRS
+23281,ETL tools
+23282,SSIS
+23288,confidentiality
+23293,Apache Spark
+23296,AWS
+23297,Ansible
+23300,Oracle
+23307,SQL
+23309,organisational skills
+23310,coding
+23311,debugging
+23312,modification
+23313,technical documentation
+23316,configuration management
+23319,documentation
+23321,specifications
+23324,deliverables
+23330,Python
+23333,documentation
+23341,Designing
+23347,Tooling
+23355,timelines
+23366,EMEA
+23367,APAC
+23370,modeling
+23374,onboarding
+23382,JMeter
+23392,Nagios
+23393,Graphite
+23396,optimization
+23397,modernization
+23398,modernization
+23399,milestones
+23400,architects
+23402,vendors
+23418,WebSphere MQ
+23424,EC2
+23446,JavaScript
+23447,WebGL
+23462,PHP
+23464,Git
+23465,SVN
+23469,SQL
+23470,Python
+23471,Docker
+23474,AWS
+23475,GCP
+23476,DBT
+23481,Teamwork
+23485,Core Java
+23486,mentor
+23487,low latency
+23489,continuous integration
+23490,automation testing
+23495,Core Java
+23499,queries
+23502,APIs
+23504,Node
+23505,js
+23507,Git
+23510,AWS
+23511,Microservices
+23514,Docker
+23517,Accountability
+23528,remediation
+23534,linux
+23536,Varnish
+23542,AWS
+23543,Docker
+23545,Bash
+23546,python
+23547,ruby
+23548,agility
+23551,AWS
+23552,Azure
+23554,remediation
+23563,Docker
+23568,Jenkins
+23572,CSS3
+23579,CSS3
+23582,Responsive Design
+23583,sass
+23585,processors
+23586,usability
+23587,accessibility
+23588,progressive enhancement
+23593,Photoshop
+23594,Illustrator
+23596,Ruby
+23597,Rails
+23598,Gulp
+23599,Grunt
+23600,Bower
+23601,npm
+23605,Mailchimp
+23611,QA
+23615,BDD
+23616,TDD
+23631,Cucumber
+23640,deployment
+23655,SQL
+23658,Git
+23659,Jira
+23660,BitBucket
+23670,Oracle RDBMS
+23674,coding
+23676,HTML
+23677,CSS
+23679,Microsoft SQL Server
+23680,PostgreSQL
+23682,Pipelines
+23683,AWS
+23684,Azure
+23685,Git
+23691,eCommerce
+23698,resource estimation
+23699,timelines
+23707,Mentor
+23714,statistical programming
+23717,automation
+23733,Mentor
+23744,accessibility
+23748,Docker
+23752,ETL
+23756,SSIS
+23758,SSRS
+23767,CSV
+23768,XML
+23769,JSON
+23776,JavaScript
+23778,PowerShell
+23779,Python
+23787,scalability
+23788,algorithms
+23789,Golang
+23790,mentorship
+23806,upgrades
+23808,assurance
+23812,queries
+23813,stored procedures
+23816,SCRUM
+23817,Confluence
+23818,Jira
+23821,CSS
+23823,CSR
+23826,job descriptions
+23845,test scripts
+23846,Quality Assurance
+23848,analyses
+23858,alignment
+23860,QA
+23870,Problem solving
+23873,experimentation
+23874,curiosity
+23875,Analytical Thinking
+23884,Quality Assurance
+23886,analyses
+23890,schedules
+23893,DNP3
+23894,Modbus
+23907,Labview
+23908,Citect
+23909,iFix
+23911,WonderWare
+23912,Rockwell
+23913,Ethernet
+23914,Cellular
+23915,DNP3
+23916,Modbus
+23924,Schneider
+23926,Allen Bradley
+23932,database queries
+23933,SQL
+23936,Google Analytics
+23939,Adobe Creative Suite
+23940,Photoshop
+23941,Adobe Illustrator
+23946,reliability
+23953,pipelines
+23957,data modeling
+23966,UX
+23967,DevOps
+23968,QA
+23976,Good interpersonal skills
+23982,telemetry
+23987,automation
+23988,Perforce
+23989,Git
+23996,testers
+24001,sprint planning
+24002,retrospectives
+24008,Jira
+24009,Confluence
+24025,RF
+24030,deadlines
+24031,problem solver
+24037,scalability
+24042,EC2
+24043,load balancing
+24045,MySQL
+24051,Android SDK
+24053,architectures
+24054,emerging technologies
+24057,velocity
+24060,usability
+24064,SDK
+24067,XML
+24069,configuration
+24073,ESD
+24082,SLA
+24085,troubleshooting
+24088,Laptops
+24089,Printers
+24092,Desktop
+24094,professionalism
+24095,operational excellence
+24097,Punctuality
+24102,Excellent communicator
+24104,SLA
+24105,Full UK Driving Licence
+24108,Data Analytics
+24113,SQL
+24114,JS
+24115,CSS
+24117,JPA
+24118,Python
+24119,JUNIT
+24125,Automation
+24126,Analytics
+24133,Core Java
+24137,reliability
+24139,Perl
+24141,Unix
+24143,algorithms
+24144,relational databases
+24147,eCommerce
+24153,databases
+24155,algorithms
+24158,SQL
+24161,AWS
+24167,UI
+24169,agile development
+24171,design specifications
+24173,modifications
+24175,interpersonal skills
+24190,responsiveness
+24196,architectural patterns
+24200,MVC
+24201,JDBC
+24202,documentation
+24207,CAD
+24209,databases
+24220,usability
+24231,SME
+24232,Architects
+24233,Scrum master
+24241,configuration
+24242,AWR
+24246,RMAN
+24250,verbal communication skills
+24252,debugging
+24255,JIRA
+24257,architectural patterns
+24261,Maven
+24262,JPA
+24263,Hibernate
+24264,CI
+24265,microservices
+24268,WebSphere
+24269,JBoss
+24270,Tomcat
+24271,relational databases
+24272,Oracle
+24273,MSSQL
+24274,MySQL
+24277,scalability
+24283,validation
+24285,refactoring
+24287,validation
+24289,refactoring
+24291,frameworks
+24292,Backend
+24294,JSP
+24295,jQuery
+24296,Nodejs
+24297,CSS
+24298,Git
+24299,GitHub
+24300,JUnit
+24301,Jenkins
+24302,JMeter
+24309,risk assessments
+24312,calibration
+24314,Excel
+24318,deadlines
+24322,refactoring
+24330,Microsoft SQL Server
+24331,stored procedures
+24333,frameworks
+24334,AngularJS
+24336,jQuery
+24337,MVVM
+24340,WPF
+24341,Azure
+24343,MongoDB
+24346,disabilities
+24351,Angular
+24352,Ruby
+24353,Nodejs
+24354,Python
+24355,AppleScript
+24360,Critical thinker
+24366,Scrum Master
+24369,coding
+24372,Junit
+24373,SonarQube
+24378,methodology
+24379,JIRA
+24380,Scrum Master
+24391,scalability
+24392,deployment
+24403,containers
+24406,Oracle
+24407,Java programming
+24415,deployment
+24416,Core Java
+24417,JSP
+24418,Servlets
+24419,HTML
+24421,XML
+24422,XSLT
+24424,IP networking
+24425,VPN
+24426,DNS
+24427,Load balancing
+24428,firewall
+24432,S3
+24435,Salesforce
+24437,Scrum
+24438,Kanban
+24455,performance tuning
+24459,queries
+24462,DevOps
+24463,Jenkins
+24464,docker
+24465,Gitlab
+24471,data warehousing
+24474,interpersonal skills
+24475,Excellent interpersonal
+24476,SQL
+24480,Spotfire
+24482,Linux
+24490,MATLAB Simulink
+24499,configuration
+24507,Typescript
+24510,AWS
+24515,organizational skills
+24517,project documentation
+24518,SQL
+24519,MySQL
+24520,PostgreSQL
+24522,CSS
+24523,XHTML
+24524,XML
+24525,JavaScript
+24526,JQuery
+24527,Ajax
+24531,readiness
+24535,Frameworks
+24538,algorithm design
+24541,Git
+24542,MySQL
+24543,XML
+24544,JSON
+24546,UI
+24558,responsive design
+24561,CSS3
+24564,automation
+24566,jQuery
+24570,AJAX
+24591,databases
+24593,SOA
+24594,architectural patterns
+24595,load balancing
+24598,Docker
+24604,CSS
+24608,evaluations
+24609,schedules
+24611,liaison
+24617,authorization
+24618,databases
+24620,PHP
+24622,PHP
+24624,JavaScript
+24629,API
+24637,JMeter
+24640,Oracle
+24641,Core Java
+24642,Advance Java
+24644,technical documentation
+24647,optimization
+24649,configuration
+24650,performance tuning
+24652,factoring
+24658,Java programming
+24660,scalability
+24666,PaaS
+24678,algorithms
+24684,Git
+24688,authentication
+24692,Python
+24693,AWS
+24697,SQL
+24698,NoSQL
+24700,Azure
+24702,stored procedures
+24714,API development
+24715,Hibernate
+24717,Core Java
+24721,Relational Databases
+24722,SQL
+24723,ORM
+24726,JSON
+24727,Git
+24730,Maven
+24731,Agile Development
+24736,web api
+24737,linq
+24739,Ajax
+24740,Javascript
+24741,Jquery
+24750,JPA
+24751,Hibernate
+24752,HTML
+24753,CSS
+24754,JavaScript
+24755,jQuery
+24756,Bootstrap
+24759,MySQL
+24760,NoSQL
+24761,Git
+24762,AWS
+24763,Core Java
+24764,SQL
+24765,Hibernate
+24766,JPA
+24767,scalability
+24771,deployment
+24772,HTML
+24773,CSS
+24775,extensions
+24778,PHP
+24779,MySQL
+24780,Javascript
+24784,responsive design
+24785,Magento
+24787,customization
+24797,GIT
+24798,Jenkins
+24799,Confluence
+24806,batch processing
+24807,Core Java
+24811,frameworks
+24812,Hibernate
+24816,Spring MVC
+24819,jpa
+24820,spring mvc
+24830,Salesforce Administrator
+24832,IDE
+24833,SOQL
+24834,JIRA
+24842,timelines
+24846,algorithms
+24853,problem solver
+24856,Core Java
+24857,Multithreading
+24865,PKI
+24879,XML
+24880,JSON
+24881,Javascript
+24886,JSON
+24892,Microservices
+24896,AWS
+24902,validation
+24909,reconciliation
+24912,TeamCity
+24914,Git
+24915,Jenkins
+24918,Splunk
+24929,Modbus
+24930,TCP
+24931,Linux
+24933,Datacom
+24937,Agile methodologies
+24943,refactoring
+24946,deployment
+24947,DevOps
+24949,requirement gathering
+24953,TDD
+24954,authentication
+24957,JSON
+24958,XML
+24961,NoSQL
+24962,Maven
+24963,Git
+24967,RDBMS
+24968,NoSQL
+24969,protocols
+24970,conventions
+24975,MSSQL
+24976,MySQL
+24981,Amazon SQS
+24982,GIT
+24987,Gradle
+24991,debugging
+24994,Agile
+24995,Kanban
+24996,Refactoring
+25000,architects
+25001,QA
+25004,plannings
+25009,Critical thinker
+25013,QA
+25034,git
+25039,OpenCV
+25047,SVN
+25048,Redmine
+25054,continuous integration
+25056,Jenkins
+25061,APIs
+25064,JavaScript
+25067,Good interpersonal skills
+25070,Angular
+25071,NodeJS
+25073,algorithms
+25080,MSSQL
+25081,MySQL
+25084,Junit
+25085,frameworks
+25097,Sonar
+25100,strong work ethic
+25102,scalability
+25103,Technical documentation
+25111,Maven
+25112,Jenkins
+25113,Gradle
+25116,OAuth
+25121,JIRA
+25123,Python
+25126,Python
+25128,containerization
+25129,docker
+25134,connectivity
+25142,protocols
+25143,MQ
+25145,deployment
+25151,DevOps
+25152,API development
+25157,architects
+25159,TypeScript
+25170,SQL
+25171,NoSQL
+25175,Scrum
+25177,Fluent English
+25182,auditing
+25190,swaps
+25193,lending
+25197,Angular
+25199,deployment
+25204,Cassandra
+25225,deployment
+25233,SonarQube
+25240,Core Java
+25241,Java Enterprise Edition
+25243,JMS
+25244,JPA
+25247,Hibernate
+25251,DevOps
+25260,Python
+25262,pandas
+25265,Elasticsearch
+25268,accountability
+25269,Excellent written and oral communication skills
+25278,SQL Server
+25281,MVC
+25284,Entity Framework
+25286,Web API
+25288,HTML
+25289,CSS
+25297,GIT
+25306,python
+25307,CAPL
+25308,VB
+25309,Scala
+25311,Matlab
+25312,Simulink
+25315,test scenarios
+25321,Python
+25322,CAPL
+25327,Python
+25328,perl
+25330,CANoe
+25332,CANape
+25333,INCA
+25343,protocols
+25345,UDS
+25350,Matlab
+25351,Simulink
+25352,Stateflow
+25355,BMS
+25364,Python
+25365,perl
+25367,CAPL
+25368,CANoe
+25370,CANape
+25371,INCA
+25375,protocols
+25377,UDS
+25387,SIL
+25391,reliability
+25398,pipelines
+25402,data modeling
+25408,Frontend Development
+25409,algorithms
+25414,Git
+25415,remediation
+25417,vulnerability
+25421,secure coding
+25422,authentication
+25423,cryptography
+25426,Rust
+25427,Python
+25428,Nodejs
+25434,AWS
+25435,GCP
+25436,Azure
+25441,threat modeling
+25449,problem solving
+25452,coding standards
+25453,agile development
+25456,fintech
+25457,scalability
+25459,Scala
+25461,Hadoop
+25462,SQL
+25463,algorithms
+25470,Spark
+25477,Continuous Integration
+25479,Puppet
+25480,deployment
+25515,Frontend Development
+25516,algorithms
+25521,Git
+25522,remediation
+25524,vulnerability
+25528,secure coding
+25529,authentication
+25530,cryptography
+25533,Rust
+25534,Python
+25535,Nodejs
+25541,AWS
+25542,GCP
+25543,Azure
+25548,threat modeling
+25556,problem solving
+25561,Frontend Development
+25562,algorithms
+25567,Git
+25568,coding standards
+25569,agile development
+25572,fintech
+25573,scalability
+25575,Scala
+25577,Hadoop
+25578,SQL
+25579,algorithms
+25586,Spark
+25593,Continuous Integration
+25595,Puppet
+25596,deployment
+25629,coding standards
+25630,agile development
+25633,fintech
+25634,scalability
+25636,Scala
+25638,Hadoop
+25639,SQL
+25640,algorithms
+25647,Spark
+25654,Continuous Integration
+25656,Puppet
+25657,deployment
+25690,coding standards
+25691,agile development
+25694,fintech
+25695,scalability
+25697,Scala
+25699,Hadoop
+25700,SQL
+25701,algorithms
+25708,Spark
+25715,Continuous Integration
+25717,Puppet
+25718,deployment
+25752,scalability
+25756,Angular
+25757,TypeScript
+25763,Javascript
+25764,Typescript
+25765,PHP
+25766,NodeJS
+25768,AWS
+25769,GCP
+25774,scalability
+25775,reliability
+25778,Git
+25785,mentor
+25792,Angular
+25800,Scala
+25801,NodeJS
+25802,Python
+25804,TypeScript
+25810,CouchBase
+25811,ElasticSearch
+25812,Redis
+25815,RabbitMQ
+25816,ActiveMQ
+25817,MSMQ
+25820,TypeScript
+25824,TDD
+25826,greenfield projects
+25827,localization
+25828,scalability
+25830,Scala
+25831,Python
+25833,Scala
+25839,Spark
+25840,functional programming
+25841,scalability
+25843,Scala
+25844,Python
+25846,Scala
+25852,Spark
+25853,functional programming
+25854,scalability
+25856,Scala
+25857,Python
+25859,Scala
+25865,Spark
+25866,functional programming
+25867,algorithms
+25870,supplier
+25874,frameworks
+25876,SQL
+25877,Python
+25879,Scala
+25880,interpersonal skills
+25882,MSc
+25884,NLP
+25887,OTA
+25888,algorithms
+25891,supplier
+25895,frameworks
+25897,SQL
+25898,Python
+25900,Scala
+25901,interpersonal skills
+25903,MSc
+25905,NLP
+25908,OTA
+25909,algorithms
+25912,supplier
+25916,frameworks
+25918,SQL
+25919,Python
+25921,Scala
+25922,interpersonal skills
+25924,MSc
+25926,NLP
+25929,OTA
+25930,algorithms
+25933,supplier
+25937,frameworks
+25939,SQL
+25940,Python
+25942,Scala
+25943,interpersonal skills
+25945,MSc
+25947,NLP
+25950,OTA
+25951,JavaScript
+25952,TypeScript
+25957,JavaScript
+25958,NodeJS
+25959,ReactJS
+25960,Git
+25963,UX
+25964,cloud computing
+25975,mentor
+25977,JavaScript
+25978,Scala
+25987,greenfield projects
+25988,localization
+25991,API
+26000,mentor
+26003,JavaScript
+26004,Scala
+26007,MVVM
+26009,TDD
+26015,greenfield projects
+26016,localization
+26017,presentations
+26024,mentor
+26027,JavaScript
+26028,Scala
+26031,MVVM
+26032,MVP
+26034,TDD
+26035,databases
+26036,load balancing
+26039,Agility
+26041,Automation
+26045,greenfield projects
+26046,localization
+26048,mentor
+26055,Angular
+26064,Scala
+26065,NodeJS
+26066,Python
+26068,TypeScript
+26074,CouchBase
+26075,ElasticSearch
+26076,Redis
+26079,RabbitMQ
+26080,ActiveMQ
+26081,MSMQ
+26084,TypeScript
+26088,TDD
+26090,greenfield projects
+26091,localization
+26093,Mentor
+26098,Angular
+26107,TypeScript
+26113,Cassandra
+26114,ElasticSearch
+26115,Redis
+26119,RabbitMQ
+26122,Containers
+26129,greenfield projects
+26130,localization
+26133,API
+26142,mentor
+26145,JavaScript
+26146,Scala
+26149,MVVM
+26151,TDD
+26157,greenfield projects
+26158,localization
+26161,API
+26170,mentor
+26173,JavaScript
+26174,Scala
+26177,MVVM
+26179,TDD
+26185,greenfield projects
+26186,localization
+26188,mentor
+26195,Angular
+26204,Scala
+26205,NodeJS
+26206,Python
+26208,TypeScript
+26214,CouchBase
+26215,ElasticSearch
+26216,Redis
+26219,RabbitMQ
+26220,ActiveMQ
+26221,MSMQ
+26224,TypeScript
+26228,TDD
+26230,greenfield projects
+26231,localization
+26233,mentor
+26240,Angular
+26248,Scala
+26249,NodeJS
+26250,Python
+26252,TypeScript
+26258,CouchBase
+26259,ElasticSearch
+26260,Redis
+26263,RabbitMQ
+26264,ActiveMQ
+26265,MSMQ
+26268,TypeScript
+26272,TDD
+26274,greenfield projects
+26275,localization
+26276,coding standards
+26277,agile development
+26279,scalability
+26280,Scala
+26281,SQL
+26282,Cassandra
+26283,Hadoop
+26284,algorithms
+26288,Git
+26289,TeamCity
+26290,Continuous Integration
+26291,Puppet
+26292,deployment
+26294,RabbitMQ
+26295,ActiveMQ
+26296,MSMQ
+26297,Spark
+26298,Hadoop
+26299,NoSQL
+26301,presentations
+26308,mentor
+26311,JavaScript
+26312,Scala
+26315,MVVM
+26316,MVP
+26318,TDD
+26319,databases
+26320,load balancing
+26323,Agility
+26325,Automation
+26329,greenfield projects
+26330,localization
+26331,presentations
+26338,mentor
+26341,JavaScript
+26342,Scala
+26345,MVVM
+26346,MVP
+26348,TDD
+26349,databases
+26350,load balancing
+26353,Agility
+26355,Automation
+26359,greenfield projects
+26360,localization
+26361,scalability
+26363,Scala
+26364,Python
+26366,Scala
+26372,Spark
+26373,functional programming
+26374,coding standards
+26375,agile development
+26377,scalability
+26378,Scala
+26379,SQL
+26380,Cassandra
+26381,Hadoop
+26382,algorithms
+26386,Git
+26387,TeamCity
+26388,Continuous Integration
+26389,Puppet
+26390,deployment
+26392,RabbitMQ
+26393,ActiveMQ
+26394,MSMQ
+26395,Spark
+26396,Hadoop
+26397,NoSQL
+26403,algorithms
+26410,Git
+26412,scalability
+26414,modeling
+26415,tuning
+26418,Scala
+26419,Python
+26423,experimentation
+26425,Apache Spark
+26431,functional programming
+26432,coding standards
+26433,agile development
+26435,scalability
+26436,Scala
+26437,SQL
+26438,Cassandra
+26439,Hadoop
+26440,algorithms
+26444,Git
+26445,TeamCity
+26446,Continuous Integration
+26447,Puppet
+26448,deployment
+26450,RabbitMQ
+26451,ActiveMQ
+26452,MSMQ
+26453,Spark
+26454,Hadoop
+26455,NoSQL
+26457,Scala
+26458,Scala
+26460,SQL Server
+26461,Oracle
+26462,MySql
+26467,SQL Server
+26468,Oracle
+26469,MySql
+26472,Frontend Development
+26474,JavaScript
+26476,algorithms
+26483,Git
+26484,presentations
+26491,mentor
+26494,JavaScript
+26495,Scala
+26498,MVVM
+26499,MVP
+26501,TDD
+26502,databases
+26503,load balancing
+26506,Agility
+26508,Automation
+26512,greenfield projects
+26513,localization
+26515,Mentor
+26520,Angular
+26529,TypeScript
+26535,Cassandra
+26536,ElasticSearch
+26537,Redis
+26541,RabbitMQ
+26544,Containers
+26551,greenfield projects
+26552,localization
+26557,algorithms
+26564,Git
+26569,algorithms
+26576,Git
+26577,Scala
+26578,Scala
+26580,SQL Server
+26581,Oracle
+26582,MySql
+26585,Frontend Development
+26587,JavaScript
+26589,algorithms
+26596,Git
+26599,Frontend Development
+26601,JavaScript
+26603,algorithms
+26610,Git
+26612,Mentor
+26617,Angular
+26626,TypeScript
+26632,Cassandra
+26633,ElasticSearch
+26634,Redis
+26638,RabbitMQ
+26641,Containers
+26648,greenfield projects
+26649,localization
+26654,algorithms
+26661,Git
+26666,SQL Server
+26667,Oracle
+26668,MySql
+26669,Scala
+26670,Scala
+26672,SQL Server
+26673,Oracle
+26674,MySql
+26675,Scala
+26676,SQL
+26677,Cassandra
+26678,Hadoop
+26679,Git
+26680,TeamCity
+26681,Continuous Integration
+26682,Puppet
+26683,deployment
+26688,algorithms
+26695,Git
+26706,Linux
+26708,Jira
+26709,teamwork
+26722,SPA
+26732,IaaS
+26733,SaaS
+26734,PaaS
+26736,JIRA
+26748,SQL
+26752,Containerization
+26753,Docker
+26755,AWS
+26760,Splunk
+26777,automation
+26780,deployment
+26782,Graph databases
+26783,Neo4j
+26784,Elasticsearch
+26785,AWS
+26790,deployment
+26792,middleware
+26794,audits
+26795,documentation
+26800,vulnerability assessment
+26802,SonarQube
+26808,deployment
+26810,middleware
+26812,audits
+26813,documentation
+26818,vulnerability assessment
+26820,SonarQube
+26826,operational efficiency
+26831,programmers
+26832,interfaces
+26849,remediation
+26853,deadlines
+26854,deliverables
+26858,test automation
+26868,optimizations
+26877,Python
+26879,API
+26881,retrospectives
+26888,usability
+26893,Mentor
+26896,CSS
+26897,JavaScript
+26902,CSS
+26903,JavaScript
+26904,responsive design
+26906,functional programming
+26909,TDD
+26912,Python
+26914,SVN
+26915,APIs
+26916,databases
+26921,deployment
+26923,middleware
+26925,audits
+26926,documentation
+26931,vulnerability assessment
+26933,SonarQube
+26947,GDB
+26948,Trace32
+26952,TDM
+26953,PCM
+26954,Hypervisor
+26970,trainings
+26974,deadlines
+26981,debugging
+26983,QNX
+26988,Perforce
+26998,GStreamer
+27000,transcoding
+27005,Python
+27007,Embedded Linux
+27010,QNX
+27014,embedded systems
+27017,Linux
+27022,validation
+27023,deployment
+27040,QNX
+27046,Gstreamer
+27053,embedded systems
+27056,Linux
+27062,configuration management
+27064,validation
+27065,deployment
+27072,Linux
+27090,Python
+27093,Linux Kernel
+27100,vendors
+27104,embedded systems
+27109,operational efficiency
+27114,programmers
+27115,interfaces
+27132,remediation
+27136,deadlines
+27137,deliverables
+27144,test automation
+27146,embedded software
+27150,debugging
+27152,QNX
+27157,Perforce
+27169,GStreamer
+27171,transcoding
+27177,Python
+27180,operational efficiency
+27185,programmers
+27186,interfaces
+27203,remediation
+27207,deadlines
+27208,deliverables
+27215,test automation
+27217,embedded software
+27221,debugging
+27223,QNX
+27228,Perforce
+27240,GStreamer
+27242,transcoding
+27248,Python
+27251,operational efficiency
+27256,programmers
+27257,interfaces
+27274,remediation
+27278,deadlines
+27279,deliverables
+27283,test automation
+27293,optimizations
+27302,Python
+27304,API
+27308,specifications
+27309,Python
+27311,pipelines
+27319,textual analysis
+27324,Python
+27335,NLTK
+27336,roadmap
+27338,openness
+27339,Python
+27342,SQL
+27345,AWS
+27349,NodeJS
+27350,frameworks
+27351,javascript
+27354,JavaScript
+27355,HTML
+27356,CSS
+27362,SQL Server
+27365,MVC
+27367,Agile methodologies
+27375,Python
+27378,Apache Spark
+27383,Big Data Analytics
+27384,ETL
+27385,Data Marts
+27388,Hadoop
+27389,Apache Spark
+27390,PostgreSQL
+27399,Python
+27405,performance tuning
+27411,tuning
+27416,benchmarking
+27417,optimization
+27420,Git
+27421,SVN
+27423,continuous integration
+27424,responsiveness
+27426,databases
+27427,MongoDB
+27430,Apache Spark
+27435,Python
+27436,Scala
+27437,Git
+27438,Apache Kafka
+27444,Apache Kafka
+27445,Hadoop
+27446,pandas
+27447,NumPy
+27448,Python
+27449,ML
+27450,MongoDB
+27451,API
+27455,Android SDK
+27456,JSON
+27457,APIs
+27458,architectures
+27459,emerging technologies
+27466,Jenkins
+27467,Git
+27471,SPAs
+27492,responsive design
+27494,accessibility
+27497,SQL
+27499,PHP
+27500,JavaScript
+27516,Quick learner
+27520,debuggers
+27523,Proactive
+27524,MS SQL server
+27529,cosmos
+27534,CSS
+27538,AWS
+27539,Azure
+27542,ETL
+27548,SQL Server
+27550,data modelling
+27561,Python
+27562,RDBMS
+27568,AWS
+27570,S3
+27572,metadata
+27576,RDBMS
+27579,Unix Shell Scripting
+27580,performance tuning
+27582,AWS
+27584,PAAS
+27588,troubleshooting
+27590,database queries
+27591,analyses
+27593,technical documentation
+27602,automation
+27609,SDLC
+27614,documentation
+27619,automation
+27629,Python
+27633,Docker
+27638,GIT
+27640,SVN
+27641,TFS
+27643,databases
+27646,application servers
+27647,tomcat
+27654,CSS
+27655,jQuery
+27656,JavaScript
+27663,Regression
+27667,prototype
+27672,deadlines
+27674,Deployment
+27676,Databases
+27679,JavaScript
+27680,HTML
+27681,SCSS
+27686,frameworks
+27687,modeling
+27693,frameworks
+27696,Cassandra
+27698,Ansible
+27699,GIT
+27708,coding
+27710,encryption
+27712,debugging
+27713,scalability
+27716,specifications
+27717,responsiveness
+27722,conventions
+27724,SQL Server
+27725,HTML
+27726,CSS
+27727,JavaScript
+27729,modification
+27736,SVN
+27737,Visual SVN
+27741,Good interpersonal skills
+27747,Azure
+27749,ticketing systems
+27752,consistency
+27764,CDS
+27766,Magento
+27771,CDS
+27785,API
+27789,audience segmentation
+27791,multichannel campaign management
+27794,JavaScript
+27795,Python
+27797,ReactJS
+27798,NodeJS
+27799,AngularJS
+27800,SQL
+27809,AWS
+27815,Jira
+27820,Angular
+27822,JavaScript
+27823,TypeScript
+27825,databases
+27826,MS SQL Server
+27827,TSQL
+27834,CSS
+27837,Microsoft Office suite
+27844,warehousing
+27854,SAP Lumira
+27856,CDS
+27876,Mentoring
+27879,verbal communication skills
+27881,configuration management
+27884,full SDLC
+27890,architectures
+27896,deployment
+27902,JavaScript
+27905,MySQL
+27907,MongoDB
+27908,TDD
+27909,Microservices
+27910,architectures
+27917,CSS
+27924,AWS
+27929,Neo4j
+27934,Microservices
+27937,Nodejs
+27938,Expressjs
+27949,Troubleshooting
+27956,Typescript
+27957,Javascript
+27959,algorithms
+27960,cryptography
+27962,protocols
+27967,frameworks
+27976,interfaces
+27989,EC2
+27991,S3
+27996,QA automation
+27997,Test Automation
+27998,tooling
+28000,Test Scenarios
+28001,CI
+28002,dashboards
+28003,performance metrics
+28007,JavaScript
+28008,TypeScript
+28009,quality assurance
+28010,test automation
+28011,automation
+28012,frameworks
+28016,Git
+28017,Github
+28018,Gitlab
+28019,JMeter
+28022,Artillery
+28036,Cisco
+28045,SLA
+28053,Cisco
+28059,Cisco CCNA
+28062,Security clearance
+28063,CRB
+28067,Performance Tuning
+28068,Optimization
+28071,Algorithms
+28072,Analytics
+28079,queries
+28084,billing
+28088,AMQP
+28094,PostGIS
+28095,MySQL
+28100,SQL
+28102,Geographic Information Systems
+28105,Linux
+28106,Docker
+28107,Jenkins
+28112,Laravel
+28123,Dependability
+28141,usability
+28144,designing
+28146,TFS
+28147,Git
+28148,VSS
+28149,basic SQL
+28151,queries
+28159,Golang
+28161,ETL
+28163,exploratory data analysis
+28170,analytics
+28173,Golang
+28174,Python
+28180,Strong analytical skills
+28188,accountability
+28190,verification
+28195,integrations
+28202,CSS3
+28204,Typescript
+28216,Microsoft SQL Server
+28218,continuous integration
+28227,APIs
+28228,JSON
+28229,XML
+28230,CSS
+28233,JavaScript
+28237,teamwork
+28238,Strategic thinker
+28239,credibility
+28242,negotiation skills
+28255,algorithms
+28256,Git
+28263,BSC
+28265,Cosmos
+28270,Microsoft Azure
+28271,Docker
+28272,AWS
+28275,reliability
+28278,coding
+28284,coding standards
+28285,specifications
+28286,specifications
+28289,documentation
+28291,quality assurance
+28292,quality assurance
+28297,mentoring
+28308,reliability
+28318,designing
+28321,designing
+28328,frameworks
+28329,algorithms
+28330,architectures
+28334,HTML
+28335,CSS
+28337,Javascript
+28338,XML
+28339,AJAX
+28340,JQuery
+28345,MongoDB
+28346,MySQL
+28348,Git
+28349,Jenkins
+28350,Docker
+28354,Apache Tomcat
+28360,AWS
+28361,Azure
+28363,Agile Methodology
+28366,estimation
+28367,scheduling
+28373,Sprint planning
+28375,DevOps
+28377,Testers
+28380,CSS
+28381,JavaScript
+28384,UI
+28387,verbal communication skills
+28388,python
+28402,ADF
+28409,data mapping
+28412,computation
+28413,python
+28428,documentation
+28430,specifications
+28432,specifications
+28437,revisions
+28438,supervision
+28442,disabilities
+28446,coding
+28448,SQL
+28449,SSIS
+28450,SSRS
+28451,Strong interpersonal skills
+28454,Excel
+28455,PowerPoint
+28456,Visio
+28458,Geographic information Systems
+28461,PostgreSQL
+28464,relational databases
+28473,AWS
+28475,Docker
+28476,Symfony
+28477,Doctrine
+28478,PHPUnit
+28479,MySQL
+28486,maintainability
+28498,HTML
+28499,CSS
+28500,JavaScript
+28501,TypeScript
+28502,Angular
+28506,SQL
+28507,Git
+28508,AWS
+28514,Docker
+28522,MVVM
+28526,Retrofit
+28529,documentation
+28535,Firebase
+28536,Teamwork
+28537,Empathy
+28539,Oracle
+28540,SQL
+28543,SQL
+28549,SQL
+28552,AWS
+28553,Python
+28554,ETL
+28555,Git
+28556,Tableau
+28558,Spark
+28561,Architects
+28564,ETL tools
+28565,AWS
+28566,GCP
+28567,MSc
+28568,Maths
+28569,algorithmic trading
+28572,algorithms
+28574,relational databases
+28575,connectivity
+28577,FX
+28578,futures
+28581,Angular
+28583,JavaScript
+28584,TypeScript
+28585,CSS
+28590,deliverables
+28591,AWS
+28597,IAM
+28602,S3
+28606,Git
+28608,Confluence
+28609,Jira
+28610,Bitbucket
+28611,logging
+28612,tooling
+28616,ITIL
+28621,SQL
+28634,Jira
+28635,Confluence
+28636,organizational skills
+28639,Embedded C
+28642,verification
+28643,Documentation
+28644,design specifications
+28647,JIRA
+28648,TestRail
+28649,differentiation
+28653,instrumentation
+28654,aerospace
+28655,embedded C
+28658,USB
+28659,Ethernet
+28667,JIRA
+28680,Golang
+28682,IaaS
+28684,Microsoft Azure
+28687,cloud computing
+28699,sensors
+28703,Documentation
+28704,Configuration
+28718,warranty
+28722,Six Sigma
+28724,virtualization
+28725,VMware infrastructure
+28728,Networking
+28731,containerization
+28732,Docker
+28738,Azure
+28758,Python
+28762,Photoshop
+28763,UI
+28764,optimisation
+28775,Python
+28777,javascript
+28784,SQL
+28785,Perl
+28786,virtualisation
+28788,networking
+28791,VMWare
+28793,networking
+28794,Active Directory
+28797,SharePoint
+28801,DevOps
+28803,Ruby
+28804,JavaScript
+28805,Refactoring
+28812,schedules
+28816,Test Scenarios
+28818,JIRA
+28821,JIRA
+28825,JIRA
+28826,ISTQB
+28827,Delphi
+28828,XML
+28829,JSON
+28830,API
+28831,SVN
+28832,Jenkins
+28833,Firebird
+28837,tooling
+28842,TDD
+28848,Python
+28851,TDD
+28854,mindset
+28857,mentoring
+28863,technical documentation
+28864,PHP
+28865,Laravel
+28866,JavaScript
+28867,HTML CSS
+28868,desktop
+28872,databases
+28877,Relational databases
+28878,SQL Server
+28879,Oracle
+28881,deadlines
+28882,health informatics
+28885,MySQL
+28888,deadlines
+28890,medical informatics
+28898,assurance
+28901,NIST
+28902,ISO
+28908,liaison
+28914,alignment
+28928,AV
+28929,vendors
+28930,suppliers
+28936,deadlines
+28940,verbal communication skills
+28942,professionalism
+28946,CCNA Security
+28947,CISSP
+28948,CISM
+28957,Replication
+28968,Linux
+28972,product specialists
+28974,automation
+28978,SQL
+28982,SQL Server
+28984,brokers
+28994,Zend
+28997,PHP
+29000,ReactJS
+29001,JavaScript
+29003,CSS3
+29004,TypeScript
+29005,Web API
+29006,Agile
+29007,MySQL
+29012,Containers
+29013,Microservices
+29021,biochemistry
+29024,pharmaceuticals
+29035,verification
+29038,calibration
+29041,protocols
+29052,verification
+29061,verbal communication skills
+29065,pharmaceuticals
+29068,Python
+29069,MatLab
+29074,constructive feedback
+29079,reliability
+29083,algorithm design
+29088,frameworks
+29090,visualization
+29092,AWS
+29097,constructive feedback
+29102,reliability
+29106,algorithm design
+29111,frameworks
+29113,visualization
+29115,AWS
+29117,troubleshooting
+29119,algorithms
+29120,scalability
+29122,performance tuning
+29125,Maya
+29128,OpenGL
+29129,Qt
+29130,Python
+29137,methodology
+29138,GitHub
+29142,networking
+29157,upgrades
+29158,SQL
+29162,documentation
+29166,deliverables
+29168,retrospectives
+29171,documentation
+29176,SQL
+29185,TFS
+29189,characterization
+29195,vendors
+29203,fixtures
+29209,Excel
+29210,testers
+29211,Quick learner
+29217,Excel
+29218,Visio
+29222,deliverables
+29223,timelines
+29234,validation
+29237,CSRs
+29240,specifications
+29242,reliability
+29245,eCTD
+29247,trainings
+29249,standardization
+29254,SAS
+29256,deliverables
+29259,Statistical Programming
+29263,pharmaceutical industry
+29289,preparedness
+29292,Powershell
+29297,Microsoft Azure
+29304,Networking
+29306,CCNA
+29315,networking
+29317,networking
+29318,PaaS
+29320,Azure
+29321,Sizing
+29324,Deployment
+29327,Deployment
+29329,ADFS
+29331,Microsoft Azure
+29332,SSO
+29335,vendors
+29341,dedication
+29346,interpersonal skills
+29350,Overtime
+29351,value propositions
+29353,customer presentations
+29363,Stakeholder engagement
+29371,ActiveMQ
+29376,JMS
+29377,AMQP
+29378,JavaScript
+29381,application lifecycle management
+29382,continuous integration
+29384,JavaScript
+29389,Docker
+29392,networking
+29394,specification
+29396,documentation
+29399,maintainability
+29403,Rust
+29408,algorithms
+29409,cryptography
+29411,ReactJS
+29416,wireframes
+29422,Selenium
+29425,ReactJS
+29427,JQuery
+29428,Twitter Bootstrap
+29432,algorithms
+29436,interpersonal skills
+29448,AWS
+29449,GCP
+29450,Azure
+29451,backend programming
+29452,NodeJS
+29453,ExpressJS
+29455,Javascript frameworks
+29459,Microservices
+29461,GIT
+29463,HTML
+29464,CSS
+29474,pneumatics
+29475,hydraulics
+29480,Active Directory
+29481,Networking
+29489,quality assurance
+29494,frameworks
+29495,jQuery
+29496,NPM
+29497,JSON
+29500,Responsive Web Design
+29501,W3C standards
+29502,GIT
+29505,CMS
+29507,DevOps
+29514,SCRUM
+29515,Kanban
+29516,coding standards
+29517,instrumentation
+29523,Rest API
+29524,Web API
+29525,AWS
+29526,AZURE
+29527,GCP
+29529,JavaScript
+29530,Angular
+29533,Algorithms
+29536,databases
+29541,HTML
+29542,CSS
+29543,JavaScript
+29547,API
+29548,Java application development
+29551,SDLC
+29554,JSF
+29555,Primefaces
+29557,HTML
+29560,JBoss
+29561,Tomcat
+29562,maintainability
+29565,technical documentation
+29572,JSF
+29574,relational databases
+29575,MySQL
+29580,Angular
+29582,JUnit
+29583,NUnit
+29588,penetration testing
+29589,Citrix
+29592,agile development
+29593,penetration testing
+29599,Javascript
+29602,Penetration testing
+29605,Penetration testing
+29607,cryptography
+29610,networking
+29611,virtualization
+29612,architects
+29613,Cryptography
+29622,Unix
+29625,databases
+29631,MS SQL Server
+29635,AJAX
+29636,JavaScript
+29637,JQuery
+29638,CSS
+29645,TFS
+29646,GIT
+29649,Docker
+29658,MVC
+29659,SQL Server
+29661,Javascript
+29663,scalability
+29669,defect tracking
+29672,QA automation
+29675,IaaS
+29688,deployment
+29702,Postgresql
+29703,PostGIS
+29705,Agile development
+29707,JIRA
+29708,Asana
+29714,analytics
+29716,geomatics
+29717,remote sensing
+29721,JavaScript
+29722,Python
+29723,SQL
+29724,presales
+29726,customer presentations
+29731,consultants
+29734,IDE
+29735,SQL Server
+29738,Jira
+29741,LINQ
+29743,ERP
+29745,TFS
+29746,Git
+29759,scalability
+29766,coding
+29767,documentation
+29768,Automation
+29771,scalability
+29772,maintainability
+29779,architects
+29780,estimating
+29782,Java Enterprise Edition
+29785,Oracle
+29787,SQL
+29789,TDD
+29790,BDD
+29791,JUnit
+29792,Cucumber
+29799,Apache CXF
+29806,SOA
+29807,Struts
+29809,Maven
+29810,MVC
+29818,SDLC
+29819,Agile Methodology
+29820,SCRUM
+29822,dashboards
+29823,visualization
+29824,scheduling
+29825,deployment
+29827,validation
+29830,MIS
+29834,dashboards
+29835,metrics
+29836,Oracle
+29839,data visualization
+29840,Tableau
+29847,Strong interpersonal skills
+29848,analytical skills
+29849,metrics
+29854,documentation
+29855,GIT
+29859,Scala
+29860,Python
+29863,Apache Spark
+29864,Data Modelling
+29869,Tableau
+29870,QlikView
+29871,mentoring
+29876,qualification
+29877,debugging
+29880,documentation
+29883,EMC
+29884,FPGA
+29885,ASIC
+29886,RTL design
+29887,VHDL
+29889,verification
+29891,assembler
+29897,HTML
+29898,CSS
+29907,authentication
+29910,APIs
+29914,SQL
+29915,PHP
+29916,API
+29917,MySQL
+29926,Linux
+29931,documentation
+29933,deployment
+29935,deployment
+29947,Python
+29948,PHP
+29952,Networking
+29954,business acumen
+29955,mentoring
+29960,integrations
+29966,integrations
+29974,creative thinker
+29975,Strong Communicator
+29976,superior written and verbal communication skills
+29979,integrations
+29982,SaaS
+29984,RTB
+29985,DSP
+29986,DMP
+29987,JavaScript
+29988,jQuery
+29989,HTML
+29990,CSS
+29991,JavaScript
+29995,Sass
+30003,Python
+30005,AWS
+30006,Azure
+30007,Docker
+30009,Shell scripting
+30010,Bash
+30012,SQL
+30013,queries
+30015,ElasticSearch
+30018,Apache Spark
+30021,Apache Kafka
+30022,algorithms
+30024,scalability
+30025,reliability
+30028,estimation
+30029,continuous integration
+30034,MVC
+30035,Dependency Injection
+30036,Entity Framework
+30037,LINQ
+30041,scalability
+30044,domain modeling
+30049,SSIS
+30051,Jenkins
+30060,S3
+30070,Jenkins
+30071,Sonarqube
+30078,AWS
+30080,Jenkins
+30083,SQL
+30085,Spark
+30086,architects
+30095,SQL
+30096,JavaScript
+30097,Python
+30098,Drools
+30099,AWS
+30102,HTML
+30103,CSS
+30104,WordPress
+30105,social networking sites
+30112,SQL Server
+30117,QA
+30126,coding
+30127,architectural patterns
+30130,relational databases
+30131,Angular
+30135,Web API
+30136,Git
+30146,Docker
+30150,API
+30158,utilities
+30162,Python
+30164,Golang
+30165,JavaScript
+30187,Pentaho
+30189,NodeJS
+30190,PHP
+30192,AJAX
+30194,frameworks
+30195,JavaScript
+30196,jQuery
+30198,ActiveMQ
+30199,RabbitMQ
+30202,SVN
+30203,CVS
+30204,GIT
+30206,maven
+30207,deployment
+30208,Azure
+30209,AWS
+30210,EMC
+30211,SQL Server
+30213,MySQL
+30217,JavaScript
+30223,Flux
+30227,EcmaScript
+30238,NPM
+30240,benchmarking
+30241,optimization
+30244,JEE
+30245,Microservices
+30246,SQL
+30247,JavaScript
+30248,HTML
+30254,databases
+30259,XML
+30265,AWS
+30266,Mentor
+30271,databases
+30272,load balancing
+30277,strong analytical skills
+30279,EC2
+30282,S3
+30296,GCP
+30297,AWS
+30298,Azure
+30299,Containers
+30303,threads
+30304,GC
+30307,Oracle
+30308,MySQL
+30309,PostgreSQL
+30310,Redis
+30316,GIT
+30317,Jira
+30318,Jenkins
+30320,Agile methodology
+30322,Teamwork
+30323,adaptability
+30326,SQL
+30334,rabbitmq
+30335,AWS
+30337,Jenkins
+30357,Apex
+30360,Python
+30361,Node
+30362,HTML
+30363,CSS
+30364,JavaScript
+30366,Visualforce pages
+30368,REST API
+30371,Salesforce
+30373,Eclipse IDE
+30374,Git
+30377,Pardot
+30381,continuous integration
+30382,deployment
+30385,Docker
+30387,AWS
+30388,Azure
+30401,deployment
+30402,upgrades
+30403,cloning
+30404,automation
+30405,automation
+30411,Selenium
+30414,JavaScript
+30422,Test Automation framework
+30425,mindset
+30434,Python
+30435,Django
+30436,multithreading
+30439,frameworks
+30440,HTML
+30441,CSS
+30443,MySQL
+30444,Oracle
+30445,SQL Server
+30446,Git
+30447,TFS
+30451,Jira
+30463,rails
+30464,Ruby
+30465,Rails
+30466,PostgreSQL
+30467,Heroku
+30487,agile methodologies
+30488,test automation
+30490,architectures
+30496,Typescript
+30497,Git
+30498,GitHub
+30499,AWS
+30504,frameworks
+30508,SSPs
+30510,Analytics
+30515,Scrum Master
+30520,Analytical
+30522,quick learner
+30527,MSSQL
+30529,MVC
+30530,JavaScript frameworks
+30531,jQuery
+30532,HTML
+30533,CSS
+30536,Agile
+30539,usability
+30550,Algorithms
+30555,tuning
+30563,continuous integration
+30564,GIT
+30567,JavaScript
+30568,Jquery
+30570,HTML
+30571,CSS
+30577,Object Oriented Design
+30580,HTML
+30581,CSS
+30584,bootstrap
+30589,Reactjs
+30599,analytics
+30603,MicroStrategy
+30605,Dashboard
+30608,queries
+30609,dashboards
+30613,metrics
+30614,filters
+30615,MicroStrategy
+30619,relational databases
+30625,MicroStrategy
+30640,Analytics
+30641,Firebase
+30642,Firebase
+30646,OOPs
+30649,architects
+30658,Python
+30659,Perl
+30660,Assembler
+30663,protocols
+30666,DNS
+30667,SMTP
+30668,debuggers
+30670,Linux
+30672,interfaces
+30677,Networking
+30682,HTML
+30683,CSS
+30684,JavaScript
+30688,PHP
+30690,JavaScript
+30691,jQuery
+30692,MySQL
+30698,Maven
+30700,algorithms
+30706,JUnit
+30707,Mockito
+30709,Liquibase
+30711,IntelliJ Idea
+30715,ideation
+30718,requirement gathering
+30719,deliverables
+30723,GCP
+30724,AWS
+30731,Python
+30738,IAM
+30742,CDN
+30743,S3
+30750,automation
+30751,deployment
+30753,CLI
+30756,HTML
+30757,CSS
+30758,JScript
+30759,JavaScript frameworks
+30761,optimization
+30764,MySQL
+30765,Jira
+30767,microservices
+30770,authentication
+30771,authorization
+30772,SVN
+30773,Jira
+30774,Confluence
+30778,Databases
+30780,JavaScript
+30781,CSS
+30782,HTML
+30787,Flux
+30791,JavaScript
+30796,js
+30803,JDBC
+30813,Rest API
+30814,integrations
+30820,AWS
+30821,GitHub
+30842,ReactJS
+30844,relational databases
+30847,JavaScript
+30848,TypeScript
+30849,jQuery
+30850,Bootstrap
+30853,frameworks
+30859,BDD
+30865,Docker
+30873,corrective action
+30883,Python
+30884,algorithms
+30885,docker
+30887,containerization
+30888,AWS
+30890,Redis
+30893,analyzing
+30896,accountability
+30897,Microservices
+30899,ReactJS
+30901,Typescript
+30904,ReactJS
+30906,AWS
+30913,Python
+30914,Django
+30915,Pandas
+30916,GitHub
+30917,Jira
+30918,PostgreSQL
+30919,SQL
+30923,coding standards
+30925,AWS
+30926,OpenStack
+30928,Docker
+30931,accountability
+30933,startup
+30934,mindset
+30935,ETFs
+30936,Factset
+30937,Reuters
+30939,APIs
+30942,frontend
+30943,backend
+30948,Lateral thinking
+30956,SSIS
+30957,SQL
+30970,organizational skills
+30973,Accountability
+30982,SSIS
+30986,AngularJS
+30989,JQuery
+30990,JSON
+30991,AJAX
+30993,Bootstrap
+30995,npm
+30998,responsive design
+31000,Agile methodologies
+31005,algorithms
+31006,JavaScript
+31010,NUnit
+31011,JUnit
+31016,algorithms
+31018,algorithms
+31032,SSIS
+31033,WCF
+31034,Web API
+31038,Agile methodologies
+31041,Deployment
+31042,IIS
+31045,Microsoft Azure
+31046,AWS
+31050,reliability
+31054,utilities
+31056,Microsoft Azure
+31062,DNS
+31063,BASH
+31065,Python
+31066,Ruby
+31067,Git
+31068,Nagios
+31069,Snort
+31070,OpenVPN
+31071,Squid
+31073,pfSense
+31074,Vyatta
+31078,vendors
+31080,MS SQL Server
+31083,optimization
+31084,Stored Procedures
+31085,Data modelling
+31086,permissions
+31091,metrics
+31096,UART
+31097,SPI
+31098,I2C
+31102,AUTOSAR
+31107,Autosar
+31111,DevOps
+31114,cli
+31117,EC2
+31118,S3
+31122,IAM
+31126,AWS
+31127,Azure
+31128,GCP
+31129,automation
+31130,Ansible
+31132,configuration
+31134,Nginx
+31135,Tomcat
+31136,JBoss
+31137,NodeJS
+31138,relational databases
+31139,MySQL
+31142,Angular
+31143,JQuery
+31145,Git
+31146,Github
+31153,Maven
+31154,Ant
+31155,Sonar
+31156,Artifactory
+31161,Teamwork
+31163,scalability
+31164,interoperability
+31166,architects
+31171,JavaScript
+31172,HTML
+31173,CSS
+31175,Ext JS
+31176,ReactJS
+31177,TypeScript
+31178,jQuery
+31179,BackboneJS
+31180,NodeJS
+31184,graphs
+31187,Jira
+31188,Git
+31190,Jenkins
+31191,Maven
+31194,networking
+31198,frameworks
+31199,integrations
+31204,documentation
+31205,tooling
+31210,documentation
+31214,Agile Methodology
+31217,profiles
+31225,Scanners
+31226,Printers
+31232,TCP
+31235,Linux
+31239,Linux
+31240,Unix
+31242,PowerShell
+31243,Strong interpersonal skills
+31245,Salesforce
+31246,HubSpot
+31249,Zendesk
+31251,Python
+31252,Ruby
+31253,Docker
+31260,JavaScript
+31267,JavaScript
+31268,CSS
+31269,HTML
+31274,user interface design
+31276,Mocha
+31282,APIs
+31285,Git
+31286,SVN
+31295,mentoring
+31302,PowerShell
+31316,microservices
+31323,UX
+31326,encapsulation
+31338,mentorship
+31343,deployment
+31346,Python
+31347,Perl
+31349,Angular
+31350,JQuery
+31351,JavaScript
+31352,TypeScript
+31355,Solr
+31356,MVC
+31357,Hibernate
+31358,Microservices
+31366,Maven
+31367,Gradle
+31368,Jenkins
+31369,Docker
+31371,AWS
+31374,Object Oriented design
+31380,dashboards
+31382,KPI
+31388,key performance indicators
+31395,adaptability
+31400,data extraction
+31404,DAX
+31411,SSAS
+31412,SAP
+31413,HANA
+31419,architects
+31432,MSc
+31434,ASP
+31437,Messaging
+31438,RabbitMQ
+31440,Angular
+31443,SOA
+31444,Enterprise Integration
+31448,X509
+31449,SSL
+31451,Entity Framework
+31454,Ubuntu
+31455,tooling
+31456,Ubuntu
+31463,SQL Server
+31465,Agile methodology
+31467,Angular
+31471,SQL Server
+31472,Web API
+31474,Allscripts
+31483,specifications
+31486,MySQL
+31490,Agile Methodologies
+31492,SVN
+31493,Git
+31494,Git
+31495,algorithms
+31497,Linux
+31498,CentOS
+31499,Fedora
+31500,Rhel
+31501,Ubuntu
+31506,maven
+31514,kernel
+31536,Configuration Management
+31538,gerrit
+31541,Continuous Integration
+31542,deployment
+31543,build automation
+31545,python
+31546,perl
+31549,cmake
+31550,gcc
+31552,git
+31555,Jenkins
+31556,CruiseControl
+31557,Bamboo
+31558,Jira
+31572,Architectural patterns
+31578,Android SDK
+31588,JSON
+31597,DRM
+31599,Analytics
+31604,QA
+31608,SDK
+31609,debugging
+31610,instrumentation
+31614,dependency management
+31617,Algorithms
+31620,continuous integration
+31621,GIT
+31623,reliability
+31626,coding standards
+31631,scripting
+31635,scalability
+31638,kernel
+31640,tuning
+31642,scripting
+31643,Perl
+31646,Git
+31647,Jenkins
+31648,Puppet
+31650,Entity framework
+31671,authorization
+31675,Git
+31676,Bitbucket
+31684,listings
+31687,protocols
+31691,SQL
+31692,Python
+31693,visualization
+31699,SAS Enterprise Guide
+31711,K8
+31712,Docker
+31713,containerization
+31714,AWS
+31722,reliability
+31725,tooling
+31726,Automation
+31739,DevOps
+31740,AWS
+31741,Azure
+31743,EDA
+31748,AWS
+31752,Linux
+31753,AWS
+31754,Azure
+31760,databases
+31763,deadlines
+31767,PowerShell
+31768,Jenkins
+31772,SCOM
+31773,VMWare vCenter
+31778,REST API
+31782,XML
+31783,JSON
+31784,UML
+31785,Maven
+31786,Jenkins
+31788,Microservices
+31790,NoSQL
+31792,Docker
+31799,Jira
+31803,UFT
+31807,Selenium
+31810,Bootstrap
+31811,Apache
+31812,Tomcat
+31815,Python
+31816,Cassandra
+31818,JSON
+31819,JavaScript
+31820,TypeScript
+31821,Linux
+31823,Azure
+31825,modernization
+31828,HTML
+31829,CSS
+31831,Bootstrap
+31832,AJAX
+31833,JSON
+31834,XML
+31837,OOP
+31838,Algorithm Design
+31839,Optimization
+31843,Linux
+31847,architects
+31851,project documentation
+31852,configuration management
+31853,performance tuning
+31854,designing
+31855,automation
+31856,provisioning
+31859,AWS
+31861,EMR
+31862,S3
+31876,Python
+31878,Spark
+31882,data modeling
+31890,architects
+31894,project documentation
+31895,configuration management
+31896,performance tuning
+31897,designing
+31898,automation
+31899,provisioning
+31902,AWS
+31904,EMR
+31905,S3
+31919,Python
+31921,Spark
+31925,data modeling
+31933,architects
+31937,project documentation
+31938,configuration management
+31939,performance tuning
+31940,designing
+31941,automation
+31942,provisioning
+31945,AWS
+31947,EMR
+31948,S3
+31962,Python
+31964,Spark
+31968,data modeling
+31976,architects
+31980,project documentation
+31981,configuration management
+31982,performance tuning
+31983,designing
+31984,automation
+31985,provisioning
+31988,AWS
+31990,EMR
+31991,S3
+32005,Python
+32007,Spark
+32011,data modeling
+32019,architects
+32023,project documentation
+32024,configuration management
+32025,performance tuning
+32026,designing
+32027,automation
+32028,provisioning
+32031,AWS
+32033,EMR
+32034,S3
+32048,Python
+32050,Spark
+32054,data modeling
+32059,SDLC
+32063,Oracle
+32066,troubleshooting
+32072,JMS
+32075,MIS
+32080,HTML
+32085,architects
+32089,project documentation
+32090,configuration management
+32091,performance tuning
+32092,designing
+32093,automation
+32094,provisioning
+32097,AWS
+32099,EMR
+32100,S3
+32114,Python
+32116,Spark
+32120,data modeling
+32128,architects
+32132,project documentation
+32133,configuration management
+32134,performance tuning
+32135,designing
+32136,automation
+32137,provisioning
+32140,AWS
+32142,EMR
+32143,S3
+32157,Python
+32159,Spark
+32163,data modeling
+32170,Teamwork
+32175,JavaScript
+32176,Typescript
+32178,CSS3
+32183,Microservices
+32184,APIs
+32185,WebSockets
+32186,SCSS
+32192,APIs
+32193,Node
+32198,APIs
+32206,PostgreSQL
+32207,Oracle
+32210,Typescript
+32212,JMS
+32225,Fluent English
+32227,SOLR
+32229,Hybris
+32236,promotions
+32241,EhCache
+32243,integrations
+32244,CDN
+32245,Google Analytics
+32248,Git
+32249,Confluence
+32252,Fast learner
+32257,architects
+32261,project documentation
+32262,configuration management
+32263,debugging
+32264,tuning
+32265,Data Visualization
+32268,data modeling
+32269,designing
+32270,automation
+32271,provisioning
+32279,HIPAA
+32284,Docker
+32286,Yarn
+32288,performance tuning
+32289,optimization
+32295,Python
+32296,SQL
+32298,HDFS
+32299,MapReduce
+32300,Hive
+32301,Spark
+32303,Flume
+32304,Sqoop
+32314,Tableau
+32317,Pentaho
+32318,Talend
+32325,Solr
+32332,Networking
+32333,NoSQL
+32334,RDBMS
+32335,Cubes
+32338,Visualization
+32339,ML
+32342,ORM
+32343,Inversion
+32346,stored procedures
+32355,Maven
+32356,SBT
+32357,Ant
+32360,Yarn
+32364,SDLC
+32367,frontend
+32368,deployment
+32370,JavaScript
+32371,Typescript
+32373,CSS3
+32383,TypeScript
+32384,microservices
+32385,APIs
+32386,websockets
+32387,scss
+32389,Selenium
+32390,Protractor
+32391,troubleshooting
+32408,Azure
+32409,AWS
+32413,Python
+32419,Python
+32423,Networking
+32426,Visualization
+32427,ML
+32431,SDLC
+32432,system configuration
+32436,trainings
+32437,certifications
+32440,flux
+32449,documentation
+32453,deadlines
+32456,SQL
+32459,AWS
+32460,S3
+32463,Git
+32465,Jenkins
+32471,presentations
+32474,Python
+32476,SDLC
+32479,flux
+32482,MVC
+32483,MVVM
+32485,Adaptive
+32489,troubleshooting
+32502,JavaScript
+32504,CSS3
+32505,Typescript
+32506,Angular
+32509,Node
+32513,documentation
+32517,deadlines
+32522,SQL
+32525,AWS
+32526,S3
+32529,Git
+32531,Jenkins
+32537,presentations
+32540,Python
+32544,SDLC
+32545,system configuration
+32549,trainings
+32550,certifications
+32557,Oracle
+32559,MS SQL Server
+32562,Jenkins
+32563,Git
+32565,automation
+32567,regression testing
+32571,troubleshooting
+32574,Quality Assurance
+32578,SOAPUI
+32582,agile methodology
+32583,Strong analytical skills
+32586,regression testing
+32588,usability
+32591,estimation
+32601,Azure
+32603,databases
+32605,GPFS
+32606,Configuration management
+32608,Ansible
+32609,Ganglia
+32612,Containers
+32613,Docker
+32615,Provisioning
+32616,Foreman
+32617,Jenkins
+32626,messaging
+32630,PostgreSQL
+32631,relational databases
+32634,FinTech
+32635,service continuity
+32637,frameworks
+32644,APIs
+32645,J2EE
+32646,Spring Batch
+32648,Jenkins
+32651,JPA
+32653,JavaScript
+32656,Teamwork
+32660,JavaScript
+32661,Typescript
+32667,Microservices
+32668,APIs
+32669,WebSockets
+32670,SCSS
+32676,UFT
+32678,Selenium
+32680,automation tools
+32682,regression testing
+32686,troubleshooting
+32690,UFT
+32693,Quality Assurance
+32695,UI Automation
+32696,Selenium
+32698,Maven
+32701,agile methodology
+32703,regression testing
+32723,SDLC
+32726,flux
+32729,MVC
+32730,MVVM
+32732,Adaptive
+32736,troubleshooting
+32749,Python
+32753,LINUX
+32754,RTOS
+32756,PCIe
+32758,SPI
+32759,Strong interpersonal skills
+32765,verification
+32766,verilog
+32788,vendors
+32795,Python
+32797,JavaScript frameworks
+32798,bioinformatics
+32799,cheminformatics
+32800,laboratory automation
+32802,analytical skills
+32807,mentorship
+32810,specifications
+32812,documentation
+32813,emerging trends
+32817,vendors
+32823,queries
+32824,PowerShell
+32826,presentations
+32829,validations
+32836,APQP
+32837,FMEA
+32848,coordination
+32850,corrective actions
+32853,scrap
+32856,PFMEA
+32858,automation
+32859,interpersonal skills
+32865,deployment
+32866,prioritization
+32867,escalation
+32869,packaging
+32875,prompt
+32882,communicator
+32892,vendors
+32903,Readiness
+32907,vendors
+32915,databases
+32917,Microsoft Azure
+32919,containers
+32920,messaging
+32921,microservices
+32923,OAM
+32930,specifications
+32937,IPv4
+32939,DHCP
+32940,SCTP
+32945,encryption
+32948,Backhaul
+32953,OAM
+32960,specifications
+32967,IPv4
+32969,DHCP
+32970,SCTP
+32975,encryption
+32978,Backhaul
+32987,CI
+33000,interfaces
+33005,AWS
+33007,Docker
+33017,APIs
+33018,microservices
+33028,JavaScript
+33029,TypeScript
+33035,optimization
+33036,clustering
+33048,SPI
+33049,UART
+33050,Ethernet
+33059,optimization
+33060,Python
+33061,Perl
+33065,I2C
+33066,UART
+33070,OpenGL
+33081,automation
+33083,deployment
+33095,Jenkins
+33101,Confluence
+33102,BitBucket
+33104,git
+33106,PowerShell
+33107,Bash
+33109,automation
+33111,AWS
+33112,Scala
+33115,JVM
+33120,SQL
+33126,rollout
+33133,deployment
+33137,MVVM
+33138,MVC
+33139,MVP
+33140,dependency injection
+33151,automation
+33153,deployment
+33165,Jenkins
+33171,Confluence
+33172,BitBucket
+33174,git
+33176,PowerShell
+33177,Bash
+33179,automation
+33185,SDK
+33189,deployment
+33192,dependency injection
+33195,frameworks
+33205,SDK
+33209,deployment
+33212,dependency injection
+33215,frameworks
+33224,rollout
+33231,deployment
+33235,MVVM
+33236,MVC
+33237,MVP
+33238,dependency injection
+33248,rollout
+33255,deployment
+33259,MVVM
+33260,MVC
+33261,MVP
+33262,dependency injection
+33273,automation
+33275,deployment
+33287,Jenkins
+33293,Confluence
+33294,BitBucket
+33296,git
+33298,PowerShell
+33299,Bash
+33301,automation
+33307,SDK
+33311,deployment
+33314,dependency injection
+33317,frameworks
+33322,deployment
+33323,PaaS
+33324,IaaS
+33325,Azure
+33326,VMware
+33328,microservices
+33333,Geography
+33334,ArcMap
+33343,accessibility
+33348,metrics
+33351,simulation
+33358,performance tuning
+33359,query optimization
+33360,specs
+33372,DevOps
+33375,TypeScript
+33376,CSS
+33379,TypeScript
+33382,selenium
+33387,corrective actions
+33388,documentation
+33389,installations
+33390,audits
+33391,remediation
+33406,encryption
+33409,certification
+33414,coding
+33423,technical documentation
+33427,APIs
+33429,scalability
+33431,usability
+33439,frameworks
+33446,Linux
+33448,Python
+33450,Ethernet
+33451,USB
+33452,PCIe
+33456,agile methodologies
+33457,Git
+33462,frameworks
+33464,Meteor
+33465,MongoDB
+33472,authentication
+33473,encryption
+33481,humility
+33495,Linux
+33496,Unix
+33500,automation tools
+33508,Microsoft Azure
+33509,AWS
+33510,GCP
+33513,SDLC
+33520,GitHub
+33521,GitLab
+33522,frameworks
+33527,APIs
+33529,Linux
+33531,troubleshooting
+33533,Python
+33540,protocols
+33541,agile software development
+33542,Git
+33545,MATLAB
+33546,LabView
+33547,GUI
+33548,Docker
+33550,Linux
+33555,authentication
+33556,encryption
+33560,protocols
+33562,oscilloscope
+33563,multimeter
+33564,spectrum analyzer
+33565,signal generators
+33568,Python
+33584,Linux
+33585,Unix
+33589,automation tools
+33597,Microsoft Azure
+33598,AWS
+33599,GCP
+33602,SDLC
+33609,GitHub
+33610,GitLab
+33611,frameworks
+33613,Computer Networking
+33615,AWS
+33616,GCP
+33620,Azure
+33621,GCP
+33623,Wireline
+33626,perimeter security
+33627,Networking
+33631,MPLS
+33636,automation tools
+33641,Git
+33644,automation
+33648,laptops
+33652,configuration
+33653,application packaging
+33654,deployment
+33661,interoperability
+33663,configuration
+33665,tooling
+33666,integrations
+33667,automation
+33695,mentoring
+33699,SME
+33700,alignment
+33705,ATP
+33707,application packaging
+33710,automation
+33716,conditional access
+33721,Enterprise Mobility
+33722,SharePoint
+33723,configuration
+33724,troubleshooting
+33725,Smartphones
+33726,tablets
+33729,DNS
+33730,DHCP
+33732,firewalls
+33735,network troubleshooting
+33737,LDAP
+33738,SAML
+33743,ServiceNow
+33749,NIST
+33752,APIs
+33754,ITIL
+33755,IaaS
+33756,PaaS
+33757,SaaS
+33770,configuration
+33772,Excellent written and oral communication skills
+33773,Excellent interpersonal skills
+33775,budgets
+33786,service assurance
+33796,object oriented programming
+33798,Scripting
+33799,Python
+33800,Git
+33801,Bitbucket
+33802,Jenkins
+33804,relational databases
+33805,JDBC
+33806,JPA
+33807,SQL
+33809,databases
+33822,Linux
+33823,Unix
+33827,automation tools
+33835,Microsoft Azure
+33836,AWS
+33837,GCP
+33840,SDLC
+33847,GitHub
+33848,GitLab
+33849,frameworks
+33863,excellent interpersonal skills
+33870,Asp
+33875,JavaScript
+33876,AJAX
+33877,jQuery
+33882,stored procedures
+33883,queries
+33886,Octopus
+33887,TeamCity
+33890,architecture frameworks
+33893,Agile methodologies
+33905,coding
+33907,constructive feedback
+33914,HTML
+33915,CSS
+33916,SQL
+33918,IIS
+33920,Microsoft SQL Server
+33922,exploitation
+33931,Python
+33932,Scala
+33933,Spark
+33935,SQL
+33936,JavaScript
+33937,DevOps
+33938,SQL
+33939,Python
+33942,Scrum
+33943,Kanban
+33948,Docker
+33961,technical documentation
+33964,responsive design
+33968,TypeScript
+33974,SQL
+33975,MS SQL Server
+33976,Git
+33979,Jenkins
+33980,Docker
+33984,functional programming
+33985,architectural patterns
+33993,Selenium
+33994,HL7
+33996,Actuarial Science
+33998,Actuarial Science
+34001,IFRS
+34003,Basel II
+34004,SAS Base
+34006,Python
+34007,Matlab
+34018,supervision
+34024,surf
+34027,VB
+34028,ASP
+34035,automation
+34041,surf
+34044,VB
+34045,ASP
+34052,automation
+34055,sponsorship
+34056,relocation
+34064,PHP
+34065,APIs
+34071,JavaScript
+34072,functional programming
+34083,disabilities
+34095,PHP
+34106,Leadership qualities
+34111,negotiation
+34112,deadlines
+34114,negotiation
+34115,deadlines
